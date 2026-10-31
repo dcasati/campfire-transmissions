@@ -1,16 +1,16 @@
 {
- "last_success": "2026-10-30T16:14:11.016532+00:00",
- "edition": "2026-10-30",
+ "last_success": "2026-10-31T15:57:37.102562+00:00",
+ "edition": "2026-10-31",
  "mode": "evidence-only",
- "words": 212,
+ "words": 216,
  "usage": {
   "calls": 2,
-  "tokens_in": 3779,
-  "tokens_out": 677,
+  "tokens_in": 3891,
+  "tokens_out": 1296,
   "estimated_cost_usd": 0.0
  },
  "label": null,
  "warnings": [
-  "Automated summary failed verification; evidence-only edition. E4: name 'The' not in cited evidence; E4: weakly corroborated claim must be attributed; bluf: number '2,6' not in cited evidence"
+  "Automated summary failed verification; evidence-only edition. E8: less than half of content words appear in cited evidence"
  ]
 }

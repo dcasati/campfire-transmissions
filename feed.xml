@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>The Daily Brief</title>
-<updated>2026-10-30T16:14:11.016532+00:00</updated>
+<updated>2026-10-31T15:57:37.102562+00:00</updated>
 <author><name>Daily Wire (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://dcasati.github.io/daily-wire/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://dcasati.github.io/daily-wire/"/>
+<entry><id>urn:daily-wire:2026-10-31</id><title>The Daily Brief 2026-10-31</title><updated>2026-10-31T15:57:37.102562+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://dcasati.github.io/daily-wire/editions/briefing-2026-10-31.epub"/><summary>Highest-ranked development: US approves sale of 500 Patriot missiles to Ukraine. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;BLUF:&lt;/b&gt; Highest-ranked development: US approves sale of 500 Patriot missiles to Ukraine. Further items follow by region.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;US approves sale of 500 Patriot missiles to Ukraine &lt;i&gt;(observed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;li&gt;According to France 24: Residents leave Russian-occupied Oleshky in evacuation operation &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;According to BBC News World: Ukrainian evacuees reunite with family after years trapped in Russia-occupied city &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;According to Al Jazeera: Iran lawmakers call for withdrawal from NPT: Will we have war or peace? &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;li&gt;According to Reuters (via Google News): Saudi-led coalition says it downs drone over oil-rich Eastern Region &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;li&gt;According to Reuters (via Google News): Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms &lt;i&gt;(attributed)&lt;/i&gt; [9]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Indo-Pacific&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;According to The Guardian World: How crypto hacking funds isolated North Korea’s nuclear programme &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;li&gt;According to BBC News World: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea &lt;i&gt;(attributed)&lt;/i&gt; [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;7 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Independent reporting on: Residents leave Russian-occupied Oleshky in evacuation operation&lt;/b&gt; Would confirm or contradict the current account. [3]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Independent reporting on: Iran lawmakers call for withdrawal from NPT: Will we have war or peace?&lt;/b&gt; Would confirm or contradict the current account. [4]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Independent reporting on: How crypto hacking funds isolated North Korea’s nuclear programme&lt;/b&gt; Would confirm or contradict the current account. [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo&quot;&gt;BBC News World: US approves sale of 500 Patriot missiles to Ukraine&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine&quot;&gt;France 24: Trump admin approves potential Patriot missiles sale to Ukraine&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation&quot;&gt;France 24: Residents leave Russian-occupied Oleshky in evacuation operation&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss&quot;&gt;Al Jazeera: Iran lawmakers call for withdrawal from NPT: Will we have war or peace?&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme&quot;&gt;The Guardian World: How crypto hacking funds isolated North Korea’s nuclear programme&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cqx2818elrnzo&quot;&gt;BBC News World: Ukrainian evacuees reunite with family after years trapped in Russia-occupied city&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5&quot;&gt;Reuters (via Google News): Saudi-led coalition says it downs drone over oil-rich Eastern Region&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo&quot;&gt;BBC News World: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5&quot;&gt;Reuters (via Google News): Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-10-30</id><title>The Daily Brief 2026-10-30</title><updated>2026-10-30T16:14:11.016532+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://dcasati.github.io/daily-wire/editions/briefing-2026-10-30.epub"/><summary>Highest-ranked development: More than 43 million ballots cast so far in midterms early voting surge. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;BLUF:&lt;/b&gt; Highest-ranked development: More than 43 million ballots cast so far in midterms early voting surge. Further items follow by region.&lt;/p&gt;
 &lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;According to Reuters (via Google News): Iran Deal Includes $300 Billion Fund, More Than Half of Which Already Committed, Source Says &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;

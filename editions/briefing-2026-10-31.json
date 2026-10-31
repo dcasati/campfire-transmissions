@@ -1,0 +1,283 @@
+{
+ "bluf": "Highest-ranked development: US approves sale of 500 Patriot missiles to Ukraine. Further items follow by region.",
+ "changes": [
+  {
+   "refs": [
+    3
+   ],
+   "text": "Updated since previous brief: Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens"
+  }
+ ],
+ "changes_summary": "7 new and 1 updated development(s) reported.",
+ "collection": {
+  "clusters": 116,
+  "items": 166,
+  "quarantined": 0,
+  "sources_ok": 12,
+  "sources_total": 12
+ },
+ "cyber": [],
+ "disasters": [],
+ "edition": "2026-10-31",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 8.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 6.85,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 6.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 6.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 5.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 5.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 5.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 5.8,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-10-31T15:57:37.102562+00:00",
+ "label": null,
+ "mode": "evidence-only",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "observed",
+     "refs": [
+      1,
+      2
+     ],
+     "section": "Europe / Russia",
+     "text": "US approves sale of 500 Patriot missiles to Ukraine"
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Europe / Russia",
+     "text": "According to France 24: Residents leave Russian-occupied Oleshky in evacuation operation"
+    },
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Europe / Russia",
+     "text": "According to BBC News World: Ukrainian evacuees reunite with family after years trapped in Russia-occupied city"
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "According to Al Jazeera: Iran lawmakers call for withdrawal from NPT: Will we have war or peace?"
+    },
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "Middle East",
+     "text": "According to Reuters (via Google News): Saudi-led coalition says it downs drone over oil-rich Eastern Region"
+    },
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      9
+     ],
+     "section": "Middle East",
+     "text": "According to Reuters (via Google News): Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms"
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Indo-Pacific",
+     "text": "According to The Guardian World: How crypto hacking funds isolated North Korea’s nuclear programme"
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      8
+     ],
+     "section": "Indo-Pacific",
+     "text": "According to BBC News World: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+    }
+   ],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "c4be8a86a27201ba",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-10-31T12:21:25+00:00",
+   "title": "US approves sale of 500 Patriot missiles to Ukraine",
+   "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo"
+  },
+  {
+   "id": "23216ec77f017384",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-10-30T23:19:47+00:00",
+   "title": "Trump admin approves potential Patriot missiles sale to Ukraine",
+   "url": "https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine"
+  },
+  {
+   "id": "14ad8cd957435e01",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-10-30T21:46:29+00:00",
+   "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
+   "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation"
+  },
+  {
+   "id": "caa117590bede618",
+   "n": 4,
+   "name": "Al Jazeera",
+   "published": "2026-10-31T12:22:45+00:00",
+   "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+   "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss"
+  },
+  {
+   "id": "b0aa7d88e42ef8ab",
+   "n": 5,
+   "name": "The Guardian World",
+   "published": "2026-10-30T17:37:46+00:00",
+   "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+   "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
+  },
+  {
+   "id": "9ada8b2c582f154e",
+   "n": 6,
+   "name": "BBC News World",
+   "published": "2026-10-31T15:50:41+00:00",
+   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo"
+  },
+  {
+   "id": "a736bd1205bb850c",
+   "n": 7,
+   "name": "Reuters (via Google News)",
+   "published": "2026-10-30T19:37:00+00:00",
+   "title": "Saudi-led coalition says it downs drone over oil-rich Eastern Region",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5"
+  },
+  {
+   "id": "c2b0ab28af6912b4",
+   "n": 8,
+   "name": "BBC News World",
+   "published": "2026-10-30T21:13:14+00:00",
+   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo"
+  },
+  {
+   "id": "76bd6d62dfee3786",
+   "n": 9,
+   "name": "Reuters (via Google News)",
+   "published": "2026-10-31T14:57:43+00:00",
+   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5"
+  }
+ ],
+ "title": "The Daily Brief",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 3891,
+  "tokens_out": 1296
+ },
+ "warnings": [
+  "Automated summary failed verification; evidence-only edition. E8: less than half of content words appear in cited evidence"
+ ],
+ "watch": [
+  {
+   "indicator": "Independent reporting on: Residents leave Russian-occupied Oleshky in evacuation operation",
+   "refs": [
+    3
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+   "refs": [
+    4
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: How crypto hacking funds isolated North Korea’s nuclear programme",
+   "refs": [
+    5
+   ],
+   "significance": "Would confirm or contradict the current account."
+  }
+ ],
+ "window_end": "2026-10-31T15:57:37.102562+00:00",
+ "window_start": "2026-10-30T15:57:37.102562+00:00",
+ "words": 216
+}
