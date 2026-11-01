@@ -27,7 +27,7 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--now", help="ISO timestamp override (tests)")
     r.add_argument("--no-llm", action="store_true", help="deterministic evidence-only mode; no API key needed")
     r.add_argument("--label", help="visible label (e.g. TEST) added to the edition")
-    r.add_argument("--require-hour", action="store_true", help="exit quietly unless local time is the configured publish hour (DST guard)")
+    r.add_argument("--require-hour", action="store_true", help="exit quietly unless local time is past the publish hour and today's edition is not yet published (tolerates delayed cron)")
     h = sub.add_parser("health", help="publication health check")
     h.add_argument("--config", default="config/briefing.yaml")
     h.add_argument("--site", default="site")
@@ -40,9 +40,12 @@ def main(argv: list[str] | None = None) -> int:
     if a.cmd == "run":
         cfg = load_yaml(a.config)
         now = datetime.fromisoformat(a.now.replace("Z", "+00:00")) if a.now else datetime.now(timezone.utc)
-        if a.require_hour and now.astimezone(ZoneInfo(cfg["timezone"])).hour != cfg["publish_hour_local"]:
-            log_event("skipped_wrong_hour", local=now.astimezone(ZoneInfo(cfg["timezone"])).isoformat())
-            return 0
+        if a.require_hour:
+            local = now.astimezone(ZoneInfo(cfg["timezone"]))
+            done = (Path(a.site) / "editions" / f"briefing-{local.date()}.json").exists()
+            if local.hour < cfg["publish_hour_local"] or done:
+                log_event("skipped_guard", local=local.isoformat(), already_published=done)
+                return 0
         sources = load_yaml(a.fixtures + "/sources.yaml" if a.fixtures else a.sources)["sources"]
         fetcher = FixtureFetcher(a.fixtures) if a.fixtures else live_fetcher
         kind = os.environ.get("DAILY_WIRE_PROVIDER") or cfg["llm"]["provider"]
