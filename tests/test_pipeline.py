@@ -312,8 +312,10 @@ def test_bad_llm_output_falls_back_to_evidence_only(tmp_path, text):
 def test_cli_hour_guard_and_dry_run(tmp_path, capsys):
     from daily_wire.cli import main
     base = ["run", "--fixtures", str(FX), "--site", str(tmp_path), "--config", str(ROOT / "config/briefing.yaml"), "--no-llm"]
-    assert main(base + ["--now", "2026-10-30T14:00:00Z", "--require-hour"]) == 0 and not (tmp_path / "opds.xml").exists()  # 08:00 MDT
-    assert main(base + ["--now", "2026-10-30T12:00:00Z", "--require-hour"]) == 0 and (tmp_path / "opds.xml").exists()  # 06:00 MDT
+    assert main(base + ["--now", "2026-10-30T10:00:00Z", "--require-hour"]) == 0 and not (tmp_path / "opds.xml").exists()  # 04:00 MDT, too early
+    assert main(base + ["--now", "2026-10-30T17:30:00Z", "--require-hour"]) == 0 and (tmp_path / "opds.xml").exists()  # delayed cron, 11:30 MDT
+    mtime = (tmp_path / "opds.xml").stat().st_mtime_ns
+    assert main(base + ["--now", "2026-10-30T18:30:00Z", "--require-hour"]) == 0 and (tmp_path / "opds.xml").stat().st_mtime_ns == mtime  # already published
     capsys.readouterr()
     from zoneinfo import ZoneInfo
     # Winter 06:00 local, derived from the tz database so the test does not hard-code Alberta's offset.
