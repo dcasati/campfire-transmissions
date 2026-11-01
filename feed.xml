@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>The Daily Brief</title>
-<updated>2026-10-31T15:57:37.102562+00:00</updated>
+<updated>2026-11-01T16:05:37.750454+00:00</updated>
 <author><name>Daily Wire (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://dcasati.github.io/daily-wire/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://dcasati.github.io/daily-wire/"/>
+<entry><id>urn:daily-wire:2026-11-01</id><title>The Daily Brief 2026-11-01</title><updated>2026-11-01T16:05:37.750454+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://dcasati.github.io/daily-wire/editions/briefing-2026-11-01.epub"/><summary>Al Jazeera reported that at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across Gaza. France 24 reported residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory after a rare local truce. Iran&#x27;s supreme leader warned the United States and Israel against further strikes amid tensions over a possible return to fighting.</summary><content type="html">&lt;p&gt;&lt;b&gt;BLUF:&lt;/b&gt; Al Jazeera reported that at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across Gaza. France 24 reported residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory after a rare local truce. Iran&amp;#x27;s supreme leader warned the United States and Israel against further strikes amid tensions over a possible return to fighting.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory following a rare local truce; the event time was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;li&gt;Bulgarians voted Sunday in a presidential runoff amid Black Sea tensions; reports also cited economic challenges and attacks on ships. &lt;i&gt;(observed)&lt;/i&gt; [4][5]&lt;/li&gt;
+&lt;li&gt;Reuters reported that Russia would build a 2GW nuclear power plant in Ghana. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;According to Al Jazeera, at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across the Gaza Strip; the event time was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;li&gt;France 24 reported that Iran&amp;#x27;s supreme leader warned the United States and Israel against further strikes as tensions mounted over a possible return to fighting. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Significant Disasters&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GDACS reported a magnitude 6 earthquake in Japan at 22:15 UTC on 31/10/2026, at a depth of 352.449 km, potentially affecting 60 thousand in MMI III. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;li&gt;GDACS reported a magnitude 6 earthquake in Vanuatu at 11:47 UTC on 01/11/2026, at a depth of 10 km, potentially affecting 2 thousand in MMI IV. &lt;i&gt;(attributed)&lt;/i&gt; [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;5 new and 2 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV. [7]&lt;/li&gt;
+&lt;li&gt;Updated since previous brief: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV. [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Any further US or Israeli military action on Tehran.&lt;/b&gt; Would indicate the military action described as threatened, amid tensions over a possible return to fighting. [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss&quot;&gt;Al Jazeera: At least eight Palestinians killed in Israeli attacks across Gaza&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/oleshky-residents-return-to-ukraine&quot;&gt;France 24: Oleshky residents return to Ukraine&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks&quot;&gt;France 24: Iran&amp;#x27;s Khamenei warns US and Israel against new attacks&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea&quot;&gt;France 24: Bulgarians vote in presidential runoff amid security tensions in the Black Sea&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss&quot;&gt;Al Jazeera: Bulgarians vote in presidential run-off amid Black Sea tensions&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMicEFVX3lxTFA0dDNiXzctaS0zMDVzd2ViX2xtazBRZm5CRGJ2OF9nQ2JMT2p6X1czckxpWkxYaDlXMFB1WDRkM19JWVZVTkZIZm9MYnQwT0hzUlVsLVgxNkt6eWpHaEVCYUNKbDVkakhHOXF2QVQ5ZXHSAXBBVV95cUxQNHQzYl83LWktMzA1c3dlYl9sbWswUWZuQkRidjhfZ0NiTE9qel9XM3JMaVpMWGg5VzBQdVg0ZDNfSVlWVU5GSGZvTGJ0ME9Ic1JVbC1YMTZLenlqR2hFQmFDSmw1ZGpIRzlxdkFUOWVx?oc=5&quot;&gt;Reuters (via Google News): Russia to build 2GW nuclear power plant in Ghana, Reuters reports&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1574997&quot;&gt;GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1575068&quot;&gt;GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-10-31</id><title>The Daily Brief 2026-10-31</title><updated>2026-10-31T15:57:37.102562+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://dcasati.github.io/daily-wire/editions/briefing-2026-10-31.epub"/><summary>Highest-ranked development: US approves sale of 500 Patriot missiles to Ukraine. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;BLUF:&lt;/b&gt; Highest-ranked development: US approves sale of 500 Patriot missiles to Ukraine. Further items follow by region.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;US approves sale of 500 Patriot missiles to Ukraine &lt;i&gt;(observed)&lt;/i&gt; [1][2]&lt;/li&gt;

@@ -1,0 +1,256 @@
+{
+ "bluf": "Al Jazeera reported that at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across Gaza. France 24 reported residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory after a rare local truce. Iran's supreme leader warned the United States and Israel against further strikes amid tensions over a possible return to fighting.",
+ "changes": [
+  {
+   "refs": [
+    7
+   ],
+   "text": "Updated since previous brief: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV."
+  },
+  {
+   "refs": [
+    8
+   ],
+   "text": "Updated since previous brief: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV."
+  }
+ ],
+ "changes_summary": "5 new and 2 updated development(s) reported.",
+ "collection": {
+  "clusters": 111,
+  "items": 164,
+  "quarantined": 0,
+  "sources_ok": 12,
+  "sources_total": 12
+ },
+ "cyber": [],
+ "disasters": [
+  {
+   "event_id": "E7",
+   "kind": "attributed",
+   "refs": [
+    7
+   ],
+   "section": "Significant Disasters",
+   "text": "GDACS reported a magnitude 6 earthquake in Japan at 22:15 UTC on 31/10/2026, at a depth of 352.449 km, potentially affecting 60 thousand in MMI III."
+  },
+  {
+   "event_id": "E8",
+   "kind": "attributed",
+   "refs": [
+    8
+   ],
+   "section": "Significant Disasters",
+   "text": "GDACS reported a magnitude 6 earthquake in Vanuatu at 11:47 UTC on 01/11/2026, at a depth of 10 km, potentially affecting 2 thousand in MMI IV."
+  }
+ ],
+ "edition": "2026-11-01",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 6.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 6.8,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E6",
+   "score": 6.6,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E7",
+   "score": 6.3,
+   "status": "updated"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E8",
+   "score": 6.3,
+   "status": "updated"
+  }
+ ],
+ "generated_at": "2026-11-01T16:05:37.750454+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory following a rare local truce; the event time was not stated."
+    },
+    {
+     "event_id": "E6",
+     "kind": "observed",
+     "refs": [
+      4,
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "Bulgarians voted Sunday in a presidential runoff amid Black Sea tensions; reports also cited economic challenges and attacks on ships."
+    },
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Europe / Russia",
+     "text": "Reuters reported that Russia would build a 2GW nuclear power plant in Ghana."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Middle East",
+     "text": "According to Al Jazeera, at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across the Gaza Strip; the event time was not stated."
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "France 24 reported that Iran's supreme leader warned the United States and Israel against further strikes as tensions mounted over a possible return to fighting."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "93aaa87a8367ed01",
+   "n": 1,
+   "name": "Al Jazeera",
+   "published": "2026-11-01T13:36:16+00:00",
+   "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+   "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
+  },
+  {
+   "id": "8dfeafcbec19fa7e",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-01T14:56:05+00:00",
+   "title": "Oleshky residents return to Ukraine",
+   "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine"
+  },
+  {
+   "id": "ffe715e07f069d83",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-10-31T17:00:36+00:00",
+   "title": "Iran's Khamenei warns US and Israel against new attacks",
+   "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks"
+  },
+  {
+   "id": "8b2d7985fd75510e",
+   "n": 4,
+   "name": "France 24",
+   "published": "2026-11-01T05:47:51+00:00",
+   "title": "Bulgarians vote in presidential runoff amid security tensions in the Black Sea",
+   "url": "https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea"
+  },
+  {
+   "id": "60ae9f6563aec840",
+   "n": 5,
+   "name": "Al Jazeera",
+   "published": "2026-11-01T10:57:45+00:00",
+   "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+   "url": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss"
+  },
+  {
+   "id": "8e40c262ee33cb4d",
+   "n": 6,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-01T11:16:00+00:00",
+   "title": "Russia to build 2GW nuclear power plant in Ghana, Reuters reports",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0dDNiXzctaS0zMDVzd2ViX2xtazBRZm5CRGJ2OF9nQ2JMT2p6X1czckxpWkxYaDlXMFB1WDRkM19JWVZVTkZIZm9MYnQwT0hzUlVsLVgxNkt6eWpHaEVCYUNKbDVkakhHOXF2QVQ5ZXHSAXBBVV95cUxQNHQzYl83LWktMzA1c3dlYl9sbWswUWZuQkRidjhfZ0NiTE9qel9XM3JMaVpMWGg5VzBQdVg0ZDNfSVlWVU5GSGZvTGJ0ME9Ic1JVbC1YMTZLenlqR2hFQmFDSmw1ZGpIRzlxdkFUOWVx?oc=5"
+  },
+  {
+   "id": "7108c45f4734ee27",
+   "n": 7,
+   "name": "GDACS",
+   "published": "2026-10-31T22:31:13+00:00",
+   "title": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574997"
+  },
+  {
+   "id": "5c7da97ebe69ea73",
+   "n": 8,
+   "name": "GDACS",
+   "published": "2026-11-01T12:02:33+00:00",
+   "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1575068"
+  }
+ ],
+ "title": "The Daily Brief",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2052,
+  "tokens_out": 513
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Any further US or Israeli military action on Tehran.",
+   "refs": [
+    3
+   ],
+   "significance": "Would indicate the military action described as threatened, amid tensions over a possible return to fighting."
+  }
+ ],
+ "window_end": "2026-11-01T16:05:37.750454+00:00",
+ "window_start": "2026-10-31T16:05:37.750454+00:00",
+ "words": 285
+}
