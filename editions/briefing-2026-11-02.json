@@ -1,89 +1,89 @@
 {
- "bluf": "BBC News and The Record reported fake nuclear warnings after emergency alert apps in Ukraine and Russia were hacked; BBC News said neither government had confirmed responsibility. Iran said it was holding intensive indirect talks with Washington to avoid a fresh round of US attacks, according to France 24.",
+ "bluf": "Highest-ranked development: Ikea among shops affected by fridge cyber-hacks – Europe live. Further items follow by region.",
  "changes": [],
- "changes_summary": "4 new and 0 updated development(s) reported.",
+ "changes_summary": "8 new and 0 updated development(s) reported.",
  "collection": {
-  "clusters": 134,
-  "items": 180,
+  "clusters": 136,
+  "items": 182,
   "quarantined": 0,
   "sources_ok": 12,
   "sources_total": 12
  },
  "cyber": [
   {
-   "event_id": "E2",
+   "event_id": "E3",
    "kind": "attributed",
    "refs": [
-    4
+    3
    ],
    "section": "Cyber and Infrastructure",
-   "text": "BleepingComputer reported that more than 1,000 internet-exposed GitLab servers remained unpatched against a flaw being actively exploited in remote-code-execution attacks."
+   "text": "According to BleepingComputer: Synology warns of C3RB3R ransomware attacks targeting NAS devices"
   },
   {
-   "event_id": "E6",
+   "event_id": "E7",
    "kind": "attributed",
    "refs": [
-    5
+    8
    ],
    "section": "Cyber and Infrastructure",
-   "text": "BleepingComputer reported that Ivanti released updates for two more Connect Secure flaws that had been chained in zero-day attacks since at least October 1."
+   "text": "According to The Record: Apple warns users in 99 countries of mercenary spyware"
   }
  ],
  "disasters": [],
  "edition": "2026-11-02",
  "events": [
   {
-   "confidence": "high",
+   "confidence": "low",
    "event_id": "E1",
-   "score": 9.95,
+   "score": 8.6,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E2",
-   "score": 8.75,
+   "score": 8.6,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E3",
-   "score": 8.6,
+   "score": 7.75,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E4",
-   "score": 8.6,
-   "status": "new"
-  },
-  {
-   "confidence": "low",
-   "event_id": "E5",
-   "score": 7.75,
-   "status": "new"
-  },
-  {
-   "confidence": "low",
-   "event_id": "E6",
-   "score": 7.75,
-   "status": "new"
-  },
-  {
-   "confidence": "low",
-   "event_id": "E7",
    "score": 7.7,
    "status": "new"
   },
   {
    "confidence": "low",
-   "event_id": "E8",
+   "event_id": "E5",
    "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E6",
+   "score": 6.85,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 6.85,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 6.6,
    "status": "new"
   }
  ],
- "generated_at": "2026-11-02T18:06:12.923065+00:00",
+ "generated_at": "2026-11-02T18:16:35.834644+00:00",
  "label": null,
- "mode": "llm",
+ "mode": "evidence-only",
  "sections": [
   {
    "items": [
@@ -91,27 +91,53 @@
      "event_id": "E1",
      "kind": "attributed",
      "refs": [
-      1,
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "According to The Guardian World: Ikea among shops affected by fridge cyber-hacks – Europe live"
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
       2
      ],
      "section": "Europe / Russia",
-     "text": "BBC News and The Record reported fake nuclear warnings after Ukrainian and Russian emergency alert apps were hacked. The Record said the Russian breach followed a hack of a Ukrainian system; BBC News said neither government had confirmed responsibility."
+     "text": "According to The Guardian World: Hackers send fake nuclear threat alert to Ukraine emergency app"
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Europe / Russia",
+     "text": "According to Deutsche Welle: How Iliana Yotova won the presidential election in Bulgaria"
+    },
+    {
+     "event_id": "E6",
+     "kind": "observed",
+     "refs": [
+      6,
+      7
+     ],
+     "section": "Europe / Russia",
+     "text": "Suspected cyberattacks trigger supermarket fridge failures across Europe"
+    },
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      9
+     ],
+     "section": "Europe / Russia",
+     "text": "According to France 24: Ukraine and Russia report fake emergency alerts after cyberattacks target apps"
     }
    ],
    "name": "Europe / Russia"
   },
   {
-   "items": [
-    {
-     "event_id": "E8",
-     "kind": "attributed",
-     "refs": [
-      3
-     ],
-     "section": "Middle East",
-     "text": "Iran said it was holding intensive indirect talks with Washington to avoid a fresh round of US attacks, according to France 24."
-    }
-   ],
+   "items": [],
    "name": "Middle East"
   },
   {
@@ -123,62 +149,128 @@
    "name": "North America"
   },
   {
-   "items": [],
+   "items": [
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Other Regions",
+     "text": "According to Al Jazeera: Drone attacks extend campaign targeting Sudan’s power system"
+    }
+   ],
    "name": "Other Regions"
   }
  ],
  "sources": [
   {
-   "id": "4db04d3582c88553",
+   "id": "fa03063f43c9d75e",
    "n": 1,
-   "name": "BBC News World",
-   "published": "2026-11-02T14:35:01+00:00",
-   "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-   "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo"
+   "name": "The Guardian World",
+   "published": "2026-11-02T16:17:14+00:00",
+   "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates"
   },
   {
-   "id": "05048a943da931b6",
+   "id": "75e086cbf0e035a0",
    "n": 2,
-   "name": "The Record",
-   "published": "2026-11-02T14:30:00+00:00",
-   "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
-   "url": "https://therecord.media/ukraine-hackers-russia-alert-system"
+   "name": "The Guardian World",
+   "published": "2026-11-02T11:11:28+00:00",
+   "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+   "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
   },
   {
-   "id": "06664a4986cd5919",
+   "id": "4981cab7fa7fafcb",
    "n": 3,
-   "name": "France 24",
-   "published": "2026-11-02T17:42:22+00:00",
-   "title": "Iran engages US in 'intensive' negotiations to avert fresh war outbreak",
-   "url": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak"
+   "name": "BleepingComputer",
+   "published": "2026-11-02T11:28:42+00:00",
+   "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+   "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks"
   },
   {
-   "id": "835b820741288dcc",
+   "id": "205783a1b237900d",
    "n": 4,
-   "name": "BleepingComputer",
-   "published": "2026-11-02T12:47:00+00:00",
-   "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks"
+   "name": "Deutsche Welle",
+   "published": "2026-11-02T12:15:00+00:00",
+   "title": "How Iliana Yotova won the presidential election in Bulgaria",
+   "url": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-world-4025-rdf"
   },
   {
-   "id": "bcfce8074fe98f42",
+   "id": "f388db9531e355dd",
    "n": 5,
-   "name": "BleepingComputer",
-   "published": "2026-11-02T09:33:26+00:00",
-   "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks"
+   "name": "Al Jazeera",
+   "published": "2026-11-02T17:26:32+00:00",
+   "title": "Drone attacks extend campaign targeting Sudan’s power system",
+   "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss"
+  },
+  {
+   "id": "d0fec426ba7714b8",
+   "n": 6,
+   "name": "Al Jazeera",
+   "published": "2026-11-02T12:08:59+00:00",
+   "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
+   "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss"
+  },
+  {
+   "id": "9c2c028f86d1d955",
+   "n": 7,
+   "name": "The Record",
+   "published": "2026-11-02T13:00:00+00:00",
+   "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
+   "url": "https://therecord.media/cyberattack-grocery-freezers-europe"
+  },
+  {
+   "id": "3aca881560d7486c",
+   "n": 8,
+   "name": "The Record",
+   "published": "2026-11-02T14:42:00+00:00",
+   "title": "Apple warns users in 99 countries of mercenary spyware",
+   "url": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware"
+  },
+  {
+   "id": "d0b256d1a8380dab",
+   "n": 9,
+   "name": "France 24",
+   "published": "2026-11-02T15:06:41+00:00",
+   "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
+   "url": "https://www.france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps"
   }
  ],
  "title": "The Daily Brief",
  "usage": {
-  "calls": 1,
+  "calls": 2,
   "estimated_cost_usd": 0.0,
-  "tokens_in": 2081,
-  "tokens_out": 323
+  "tokens_in": 4244,
+  "tokens_out": 1062
  },
- "warnings": [],
- "watch": [],
- "window_end": "2026-11-02T18:06:12.923065+00:00",
- "window_start": "2026-11-01T18:06:12.923065+00:00",
- "words": 161
+ "warnings": [
+  "Automated summary failed verification; evidence-only edition. bluf: number '6,7' not in cited evidence"
+ ],
+ "watch": [
+  {
+   "indicator": "Independent reporting on: Ikea among shops affected by fridge cyber-hacks – Europe live",
+   "refs": [
+    1
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: Hackers send fake nuclear threat alert to Ukraine emergency app",
+   "refs": [
+    2
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+   "refs": [
+    3
+   ],
+   "significance": "Would confirm or contradict the current account."
+  }
+ ],
+ "window_end": "2026-11-02T18:16:35.834644+00:00",
+ "window_start": "2026-11-01T18:16:35.834644+00:00",
+ "words": 186
 }
