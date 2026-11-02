@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>The Daily Brief</title>
-<updated>2026-11-01T16:05:37.750454+00:00</updated>
+<updated>2026-11-02T18:06:12.923065+00:00</updated>
 <author><name>Daily Wire (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://dcasati.github.io/daily-wire/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://dcasati.github.io/daily-wire/"/>
+<entry><id>urn:daily-wire:2026-11-02</id><title>The Daily Brief 2026-11-02</title><updated>2026-11-02T18:06:12.923065+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://dcasati.github.io/daily-wire/editions/briefing-2026-11-02.epub"/><summary>BBC News and The Record reported fake nuclear warnings after emergency alert apps in Ukraine and Russia were hacked; BBC News said neither government had confirmed responsibility. Iran said it was holding intensive indirect talks with Washington to avoid a fresh round of US attacks, according to France 24.</summary><content type="html">&lt;p&gt;&lt;b&gt;BLUF:&lt;/b&gt; BBC News and The Record reported fake nuclear warnings after emergency alert apps in Ukraine and Russia were hacked; BBC News said neither government had confirmed responsibility. Iran said it was holding intensive indirect talks with Washington to avoid a fresh round of US attacks, according to France 24.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News and The Record reported fake nuclear warnings after Ukrainian and Russian emergency alert apps were hacked. The Record said the Russian breach followed a hack of a Ukrainian system; BBC News said neither government had confirmed responsibility. &lt;i&gt;(attributed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Iran said it was holding intensive indirect talks with Washington to avoid a fresh round of US attacks, according to France 24. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that more than 1,000 internet-exposed GitLab servers remained unpatched against a flaw being actively exploited in remote-code-execution attacks. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;li&gt;BleepingComputer reported that Ivanti released updates for two more Connect Secure flaws that had been chained in zero-day attacks since at least October 1. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;4 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo&quot;&gt;BBC News World: Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://therecord.media/ukraine-hackers-russia-alert-system&quot;&gt;The Record: Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak&quot;&gt;France 24: Iran engages US in &amp;#x27;intensive&amp;#x27; negotiations to avert fresh war outbreak&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks&quot;&gt;BleepingComputer: Over 1,000 GitLab servers vulnerable to ongoing RCE attacks&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks&quot;&gt;BleepingComputer: Ivanti patches two more Connect Secure zero-days chained in attacks&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-01</id><title>The Daily Brief 2026-11-01</title><updated>2026-11-01T16:05:37.750454+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://dcasati.github.io/daily-wire/editions/briefing-2026-11-01.epub"/><summary>Al Jazeera reported that at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across Gaza. France 24 reported residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory after a rare local truce. Iran&#x27;s supreme leader warned the United States and Israel against further strikes amid tensions over a possible return to fighting.</summary><content type="html">&lt;p&gt;&lt;b&gt;BLUF:&lt;/b&gt; Al Jazeera reported that at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across Gaza. France 24 reported residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory after a rare local truce. Iran&amp;#x27;s supreme leader warned the United States and Israel against further strikes amid tensions over a possible return to fighting.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;France 24 reported that residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory following a rare local truce; the event time was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
