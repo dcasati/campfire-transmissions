@@ -7,12 +7,10 @@ set -eu
 PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin
 REPO=${DAILY_WIRE_REPO:-dcasati/daily-wire}
 PAGES=${DAILY_WIRE_PAGES:-https://dcasati.github.io/daily-wire}
-TZ=America/Edmonton
-export TZ
 
 hour=$(date +%H)
 today=$(date +%F)
-# Only between 06:00 and 12:59 Edmonton time; a later dispatch would no longer be a morning brief.
+# Uses this machine's local time (keep it in the briefing's timezone). Only between 06:00 and 12:59; a later dispatch would no longer be a morning brief.
 if [ "$hour" -lt 6 ] || [ "$hour" -gt 12 ]; then
 	exit 0
 fi
