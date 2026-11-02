@@ -12,6 +12,9 @@ Set repository variables `DAILY_WIRE_PROVIDER=copilot_cli` and `DAILY_WIRE_MODEL
 ## RSS / iPhone
 Subscribe a feed reader (NetNewsWire, Reeder, Feedly) to `https://dcasati.github.io/first-light/feed.xml`: one entry per edition with the full text (last 14). Set `site.feed_base_url` for a custom domain.
 
+## Reliable 06:00 trigger (optional backstop)
+GitHub's cron is best-effort and often starts hours late. `scripts/dispatch-daily.sh` dispatches the workflow once between 06:00 and 12:59 in the machine's local time (set it to the briefing timezone) if today's edition is not yet published and no run is active. Run it once daily at 06:05 from a machine that is logged in to `gh`, e.g. a macOS LaunchAgent with `StartCalendarInterval` `Hour=6`, `Minute=5` (launchd also runs a missed job on wake, which the 12:59 cutoff allows), after copying the script out of the repository (`~/bin/daily-wire-dispatch.sh`). It authenticates with `gh auth token --user dcasati`; edit that user if yours differs. A manual dispatch that finds the edition already published does nothing.
+
 ## KOReader
 1. Open the top menu → search/OPDS icon (*OPDS catalog*; menu names vary slightly by version).
 2. **+** (add) → Name `First Light`, URL = OPDS URL above (no credentials needed).
