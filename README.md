@@ -1,40 +1,59 @@
 # First Light
 
-Automated daily situational-awareness brief (≈400–600 words): geopolitical, military, security, cyber, infrastructure and disaster developments, organised by region, with numbered, clickable sources. Output: EPUB for a Kobo Aura One running KOReader, plus Markdown, JSON and an OPDS catalog, all served from GitHub Pages and built by GitHub Actions at 06:00 America/Edmonton.
+A daily situational-awareness brief (about 400–600 words) on geopolitical, security, cyber, infrastructure and disaster developments, organised by region. Every claim is tied to a cited source, and a deterministic verifier rejects anything the cited evidence does not support.
 
-Editorial product only: it is inspired by the *style* of concise, geographically organised briefings and reproduces no third-party content beyond cited headlines/links.
+Published at 06:00 America/Edmonton by GitHub Actions to <https://dcasati.github.io/first-light/> as:
 
-> **Status honesty.** Everything below was tested offline with synthetic fixtures (55 tests + fixture evaluation pass). **Not tested live:** real feed fetching, a real LLM call, GitHub Actions execution, GitHub Pages hosting, and KOReader download. Feed URLs in `config/sources.yaml` are marked `verified: false` until you run `daily-wire check-sources` from a networked machine.
+| Format | URL |
+|---|---|
+| Atom feed (full text, last 14 editions) | `/feed.xml` |
+| OPDS catalog (EPUB, for KOReader) | `/opds.xml` |
+| Per edition | `/editions/briefing-YYYY-MM-DD.{epub,md,json}` |
+| Health | `/status.json` |
 
-## Quick start (local, no API key)
+It reproduces only cited headlines and links from third-party sources, never their articles.
 
-```bash
-git clone <your-repo> first-light && cd first-light
-python3 -m venv .venv && . .venv/bin/activate
-pip install ".[dev]"
-pytest -q                       # offline tests
-daily-wire eval                 # fixture evaluation with pass/fail thresholds
-daily-wire run --fixtures tests/fixtures --site /tmp/site --now 2026-10-30T12:00:00Z --no-llm \
-  --label "TEST EDITION: synthetic fixtures"
-ls /tmp/site /tmp/site/editions
+## How it works
+
+```
+RSS/Atom sources → normalize + quarantine injection → cluster events → rank → evidence packets
+  → LLM writer (GitHub Copilot CLI or any OpenAI-compatible API) → verifier → EPUB / MD / JSON / feeds
 ```
 
-A sample generated from fixtures is in [`docs/sample/`](docs/sample) (clearly labelled TEST).
+- **Verification is code, not a model** (`verify.py`): citations must resolve to the same event; numbers, names and strong verbs must appear in the cited evidence; single-source claims must be attributed; the Top Line is at most three sentences.
+- **Fallback:** if the LLM draft fails verification after `llm.max_attempts` tries, an evidence-only edition is published, built from verbatim headlines. Events whose headline fails verification are omitted, never edited.
+- **Untrusted input:** feed text is treated as data and instruction-like content is quarantined. The Copilot CLI runs with no tools in an empty directory.
+
+Details: [architecture](docs/architecture.md), [editorial policy](docs/editorial-policy.md), [evaluation](docs/evaluation.md).
+
+## Run locally (no API key)
+
+```bash
+python3 -m venv .venv && . .venv/bin/activate
+pip install ".[dev]"
+pytest -q && daily-wire eval
+daily-wire run --fixtures tests/fixtures --site /tmp/site --now 2026-10-30T12:00:00Z --no-llm \
+  --label "TEST EDITION: synthetic fixtures"
+```
+
+A sample edition is in [`docs/sample/`](docs/sample).
 
 ## Deploy
 
-1. Create a **public** GitHub repo and push this code to `main` (Pages on private repos needs a paid plan, and publishes publicly anyway; see [operations](docs/operations.md)).
-2. Settings → Secrets and variables → Actions: add secret `DAILY_WIRE_API_KEY` (OpenAI-compatible provider). Optional variable `DAILY_WIRE_MODEL`. Check `config/briefing.yaml` (`llm.*` prices and `max_daily_usd`).
-3. Run **Actions → daily-brief → Run workflow** once (this creates the `gh-pages` branch). Then Settings → Pages → *Deploy from a branch* → `gh-pages` / `/ (root)`.
-4. Set `site.base_url` in `config/briefing.yaml` if you want absolute OPDS links (optional).
-5. Without a key the workflow publishes the deterministic evidence-only edition.
+1. Public repo; Settings → Pages → *Deploy from a branch* → `gh-pages` `/`. The first workflow run creates the branch.
+2. Pick an LLM provider (no provider means an evidence-only edition):
+   - **GitHub Copilot:** variable `DAILY_WIRE_PROVIDER=copilot_cli`, variable `DAILY_WIRE_MODEL=auto`, and secret `COPILOT_GITHUB_TOKEN` (fine-grained PAT with *Copilot Requests*).
+   - **OpenAI-compatible:** secret `DAILY_WIRE_API_KEY`, plus `llm.base_url`, `llm.model` and token prices in `config/briefing.yaml`.
+3. Set `site.feed_base_url` in `config/briefing.yaml` to your Pages URL.
+4. Run **Actions → daily-brief → Run workflow** once.
 
-## KOReader
+GitHub's cron is best-effort and often starts hours late. [`scripts/dispatch-daily.sh`](scripts/dispatch-daily.sh) is an optional once-a-day backstop to run from your own machine; see [operations](docs/operations.md).
 
-File browser → ☰ (top menu) → **Search** icon / *OPDS catalog* → **+** → name `First Light`, URL `https://<user>.github.io/<repo>/opds.xml` → open it and tap the newest edition to download. Optional: OPDS catalog → hold the catalog → *Sync*/auto-download is available in recent KOReader versions (see [operations](docs/operations.md)).
+## Read it
+
+- **Feed reader / iPhone:** subscribe to `…/feed.xml`.
+- **KOReader (Kobo):** OPDS catalog → `…/opds.xml` → download the newest EPUB. News Downloader can also read `feed.xml`.
 
 ## Layout
 
-`config/` sources + editorial config · `src/daily_wire/` pipeline (~1,400 lines) · `tests/` + `tests/fixtures/` · `docs/` architecture (ADR), editorial policy, operations, evaluation.
-
-CLI: `daily-wire run | eval | health | check-sources`.
+`config/` sources and editorial config · `src/daily_wire/` pipeline · `tests/` and `tests/fixtures/` · `docs/` design, policy, operations. The CLI is `daily-wire run | eval | health | check-sources`.

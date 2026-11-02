@@ -6,7 +6,7 @@
 Pages URL: `https://<user>.github.io/<repo>/`; OPDS: `…/opds.xml`; editions: `…/editions/briefing-YYYY-MM-DD.{epub,md,json}`; status: `…/status.json` (last success, mode, words, usage, warnings).
 A custom domain later: add it in Pages settings and set `site.base_url`; nothing else changes.
 
-## Using GitHub Copilot instead of an API key (untested live)
+## Using GitHub Copilot instead of an API key
 Set repository variables `DAILY_WIRE_PROVIDER=copilot_cli` and `DAILY_WIRE_MODEL=auto`, and secret `COPILOT_GITHUB_TOKEN` (fine-grained PAT from a Copilot-enabled account with the "Copilot Requests" permission; `GITHUB_TOKEN` cannot be used). Set the model explicitly: when the variable is unset, the CLI provider inherits `llm.model` from the configuration, currently `gpt-4o-mini`. The workflow installs `@github/copilot` and the pipeline calls `copilot -p` with no tools granted in an empty scratch directory. Token prices in `config/briefing.yaml` are zero because Copilot bills premium requests rather than tokens. `llm.max_attempts` limits generations per run, not per day; manual reruns can make additional requests. Recorded token usage is estimated, and `usage.calls` is not a measured premium-request count (failed CLI calls are not recorded, and billing can depend on the selected model). If the CLI fails or its output fails verification, the evidence-only edition is published. Live CLI authentication, tool restrictions, output format, and billing remain unverified.
 
 ## RSS / iPhone
