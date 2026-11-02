@@ -12,7 +12,7 @@ def _cite(refs: list[int]) -> str:
 
 def render_html(b: dict) -> str:
     li = lambda s: f"<li>{escape(s['text'])} <i>({escape(s['kind'])})</i>{_cite(s['refs'])}</li>"  # noqa: E731
-    out = [f"<p><b>BLUF:</b> {escape(b['bluf'])}</p>"]
+    out = [f"<p><b>Top line:</b> {escape(b['bluf'])}</p>"]
     if b.get("label"):
         out.insert(0, f"<p><b>{escape(b['label'])}</b></p>")
     for sec in b["sections"]:

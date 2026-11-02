@@ -1,4 +1,4 @@
-# Daily Wire
+# First Light
 
 Automated daily situational-awareness brief (≈400–600 words): geopolitical, military, security, cyber, infrastructure and disaster developments, organised by region, with numbered, clickable sources. Output: EPUB for a Kobo Aura One running KOReader, plus Markdown, JSON and an OPDS catalog, all served from GitHub Pages and built by GitHub Actions at 06:00 America/Edmonton.
 
@@ -9,7 +9,7 @@ Editorial product only: it is inspired by the *style* of concise, geographically
 ## Quick start (local, no API key)
 
 ```bash
-git clone <your-repo> daily-wire && cd daily-wire
+git clone <your-repo> first-light && cd first-light
 python3 -m venv .venv && . .venv/bin/activate
 pip install ".[dev]"
 pytest -q                       # offline tests
@@ -31,7 +31,7 @@ A sample generated from fixtures is in [`docs/sample/`](docs/sample) (clearly la
 
 ## KOReader
 
-File browser → ☰ (top menu) → **Search** icon / *OPDS catalog* → **+** → name `Daily Wire`, URL `https://<user>.github.io/<repo>/opds.xml` → open it and tap the newest edition to download. Optional: OPDS catalog → hold the catalog → *Sync*/auto-download is available in recent KOReader versions (see [operations](docs/operations.md)).
+File browser → ☰ (top menu) → **Search** icon / *OPDS catalog* → **+** → name `First Light`, URL `https://<user>.github.io/<repo>/opds.xml` → open it and tap the newest edition to download. Optional: OPDS catalog → hold the catalog → *Sync*/auto-download is available in recent KOReader versions (see [operations](docs/operations.md)).
 
 ## Layout
 

@@ -38,7 +38,7 @@ def body_html(b: dict, tz: str) -> str:
         h.append(f'<p class="warn">{escape(w)}</p>')
     h.append(f'<p class="meta">Edition {escape(b["edition"])} &#183; published {escape(_local(b, "generated_at", tz))} &#183; '
              f'cutoff {escape(_local(b, "window_end", tz))} &#183; window from {escape(_local(b, "window_start", tz))} &#183; mode: {escape(b["mode"])}</p>')
-    h.append(f'<h2 id="bluf">BLUF</h2><p>{escape(b["bluf"])}</p>')
+    h.append(f'<h2 id="topline">Top Line</h2><p>{escape(b["bluf"])}</p>')
     h.append('<h2 id="regional">Regional Developments</h2>')
     shown = False
     for sec in b["sections"]:
@@ -70,7 +70,7 @@ def render_epub(b: dict, tz: str = "America/Edmonton") -> bytes:
     xh = lambda inner: ('<?xml version="1.0" encoding="utf-8"?>\n<!DOCTYPE html>\n<html xmlns="http://www.w3.org/1999/xhtml" '  # noqa: E731
                         'xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en"><head><meta charset="utf-8"/>'
                         f'<title>{escape(title)}</title><link rel="stylesheet" type="text/css" href="style.css"/></head><body>{inner}</body></html>')
-    nav_items = [("bluf", "BLUF"), ("regional", "Regional Developments")] + [(a, t) for a, t, k in
+    nav_items = [("topline", "Top Line"), ("regional", "Regional Developments")] + [(a, t) for a, t, k in
                  (("cyber", "Cyber and Infrastructure", "cyber"), ("disasters", "Significant Disasters", "disasters")) if b[k]]
     nav_items += [("changes", "Changes Since Previous Brief")] + ([("watch", "Watch Items")] if b["watch"] else []) + [("sources", "Sources")]
     nav = xh('<nav epub:type="toc" id="toc"><h1>Contents</h1><ol>' + "".join(f'<li><a href="brief.xhtml#{a}">{escape(t)}</a></li>' for a, t in nav_items) + "</ol></nav>")
@@ -107,7 +107,7 @@ def render_md(b: dict, tz: str = "America/Edmonton") -> str:
     if b.get("label"):
         out += [f"**{b['label']}**", ""]
     out += [f"Edition {b['edition']} | published {_local(b, 'generated_at', tz)} | cutoff {_local(b, 'window_end', tz)} | mode: {b['mode']}", "",
-            f"## BLUF\n{b['bluf']}", "", "## Regional Developments"]
+            f"## Top Line\n{b['bluf']}", "", "## Regional Developments"]
     for sec in b["sections"]:
         if sec["items"]:
             out += [f"### {sec['name']}"] + [f"- {s['text']} ({s['kind']}){cite(s['refs'])}" for s in sec["items"]] + [""]
