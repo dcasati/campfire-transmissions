@@ -10,11 +10,11 @@ A custom domain later: add it in Pages settings and set `site.base_url`; nothing
 Set repository variables `DAILY_WIRE_PROVIDER=copilot_cli` and `DAILY_WIRE_MODEL=auto`, and secret `COPILOT_GITHUB_TOKEN` (fine-grained PAT from a Copilot-enabled account with the "Copilot Requests" permission; `GITHUB_TOKEN` cannot be used). Set the model explicitly: when the variable is unset, the CLI provider inherits `llm.model` from the configuration, currently `gpt-4o-mini`. The workflow installs `@github/copilot` and the pipeline calls `copilot -p` with no tools granted in an empty scratch directory. Token prices in `config/briefing.yaml` are zero because Copilot bills premium requests rather than tokens. `llm.max_attempts` limits generations per run, not per day; manual reruns can make additional requests. Recorded token usage is estimated, and `usage.calls` is not a measured premium-request count (failed CLI calls are not recorded, and billing can depend on the selected model). If the CLI fails or its output fails verification, the evidence-only edition is published. Live CLI authentication, tool restrictions, output format, and billing remain unverified.
 
 ## RSS / iPhone
-Subscribe a feed reader (NetNewsWire, Reeder, Feedly) to `https://dcasati.github.io/daily-wire/feed.xml`: one entry per edition with the full text (last 14). Set `site.feed_base_url` for a custom domain.
+Subscribe a feed reader (NetNewsWire, Reeder, Feedly) to `https://dcasati.github.io/first-light/feed.xml`: one entry per edition with the full text (last 14). Set `site.feed_base_url` for a custom domain.
 
 ## KOReader
 1. Open the top menu → search/OPDS icon (*OPDS catalog*; menu names vary slightly by version).
-2. **+** (add) → Name `Daily Wire`, URL = OPDS URL above (no credentials needed).
+2. **+** (add) → Name `First Light`, URL = OPDS URL above (no credentials needed).
 3. Open the catalog, tap the newest edition → *Download*. Files go to the download folder set in KOReader. Newer KOReader versions also offer OPDS *sync* of a catalog to a folder; enable it from the catalog's long-press menu if available. (Not tested on a device here.)
 4. Device needs Wi-Fi at download time.
 
