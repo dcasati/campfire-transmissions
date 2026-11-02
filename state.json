@@ -10343,6 +10343,7 @@
     "adc63cffc9bfc81a"
    ],
    "key": "0d42d854c480",
+   "last_published": "2026-11-02",
    "last_seen": "2026-11-02",
    "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
    "tokens": [
@@ -10477,6 +10478,8 @@
   {
    "first_seen": "2026-11-02",
    "item_ids": [
+    "0f6bab41058bead0",
+    "75e086cbf0e035a0",
     "d0b256d1a8380dab"
    ],
    "key": "1c330aa83ac4",
@@ -10485,13 +10488,19 @@
    "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
    "tokens": [
     "alert",
+    "app",
     "apps",
     "cyberattack",
     "emergency",
     "fake",
+    "hacker",
+    "hit",
+    "nuclear",
     "report",
     "russia",
+    "send",
     "target",
+    "threat",
     "ukraine"
    ]
   },
@@ -11215,6 +11224,7 @@
     "ec0e4b1d1cc4a380"
    ],
    "key": "575a966accaf",
+   "last_published": "2026-11-02",
    "last_seen": "2026-11-02",
    "title": "Iran offers deal on Hormuz Strait, Netanyahu wants to 'finish the job'",
    "tokens": [
@@ -11276,6 +11286,7 @@
     "4adbf62d036fb6ec"
    ],
    "key": "592a08d5d412",
+   "last_published": "2026-11-02",
    "last_seen": "2026-11-02",
    "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
    "tokens": [
@@ -12986,12 +12997,298 @@
     "tv",
     "xcpe"
    ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "b364708bd8a5f14c"
+   ],
+   "key": "1ae6b2dc4903",
+   "last_seen": "2026-11-02",
+   "title": "Premier League: Ten Hag Says Relegation A Real Possibility For Manchester United",
+   "tokens": [
+    "hag",
+    "league",
+    "manchester",
+    "possibility",
+    "premier",
+    "real",
+    "relegation",
+    "ten",
+    "unit"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "f4fa61e6731117a2"
+   ],
+   "key": "35c9698c2e38",
+   "last_seen": "2026-11-02",
+   "title": "Trump praises Haley Stevens' defection while lobbing Islamophobic insults at El-Sayed \u2013 video",
+   "tokens": [
+    "defection",
+    "el-say",
+    "haley",
+    "insult",
+    "islamophobic",
+    "lobb",
+    "prais",
+    "steven",
+    "trump",
+    "video",
+    "while"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "28505887b1057496"
+   ],
+   "key": "51166df39b41",
+   "last_published": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "title": "Trump floats 'concept' of US-Canada deal that includes pipeline talking to Carney",
+   "tokens": [
+    "carney",
+    "concept",
+    "deal",
+    "float",
+    "includ",
+    "pipeline",
+    "talk",
+    "trump",
+    "us-canada"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "6fb50abdbf66d309"
+   ],
+   "key": "625eb17286ba",
+   "last_seen": "2026-11-02",
+   "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
+   "tokens": [
+    "against",
+    "agent",
+    "biden",
+    "case",
+    "charg",
+    "dismiss",
+    "fbi",
+    "hunter",
+    "involv",
+    "judge"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "17867f03d5beb121"
+   ],
+   "key": "78d114fcaa1e",
+   "last_seen": "2026-11-02",
+   "title": "Putin has ordered private data centres to allocate capacity for state, says Reuters",
+   "tokens": [
+    "allocate",
+    "capacity",
+    "centr",
+    "data",
+    "order",
+    "private",
+    "putin",
+    "reuter",
+    "state"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "229b84aaca14fb00"
+   ],
+   "key": "9619db94acd8",
+   "last_published": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "title": "North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent",
+   "tokens": [
+    "deterrent",
+    "drill",
+    "korea",
+    "need",
+    "north",
+    "nuclear",
+    "shows",
+    "stronger",
+    "us-south"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "18ca7bab20c290f0"
+   ],
+   "key": "9c1555baceae",
+   "last_seen": "2026-11-02",
+   "title": "Occupiers declare more than 500 hotels on Azov coast \u2018ownerless\u2019 \u2013 Reuters",
+   "tokens": [
+    "500",
+    "azov",
+    "coast",
+    "declare",
+    "hotel",
+    "occupier",
+    "ownerles",
+    "reuter"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "1ec17ac9e9552a9c"
+   ],
+   "key": "a2b58c092426",
+   "last_seen": "2026-11-02",
+   "title": "Apple's new CEO Ternus to face first earnings test as memory costs surge",
+   "tokens": [
+    "apple",
+    "ceo",
+    "costs",
+    "earning",
+    "face",
+    "first",
+    "memory",
+    "surge",
+    "ternu",
+    "test"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "1b75652d10788e41"
+   ],
+   "key": "aa405db7b2fc",
+   "last_seen": "2026-11-02",
+   "title": "SEBI recommends removal of long-term capital gains tax for foreign investors: Reuters",
+   "tokens": [
+    "capit",
+    "foreign",
+    "gains",
+    "investor",
+    "long-term",
+    "recommend",
+    "remov",
+    "reuter",
+    "sebi",
+    "tax"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "372592fa67facdd0"
+   ],
+   "key": "ae9e173da4e4",
+   "last_seen": "2026-11-02",
+   "title": "BOJ locks in December hike, but neutral-rate uncertainty muddies outlook",
+   "tokens": [
+    "boj",
+    "december",
+    "hike",
+    "locks",
+    "muddi",
+    "neutral-rate",
+    "outlook",
+    "uncertainty"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "d8556a04fcc625d1"
+   ],
+   "key": "c002dcd9d581",
+   "last_seen": "2026-11-02",
+   "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event",
+   "tokens": [
+    "event",
+    "export",
+    "freed",
+    "hosts",
+    "industry",
+    "oil",
+    "opec",
+    "quota",
+    "risen",
+    "uae"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "ba34685009a292ac"
+   ],
+   "key": "c19e6d9766a3",
+   "last_seen": "2026-11-02",
+   "title": "Yemen's Houthis advance to within 80 km of Aden, sources say",
+   "tokens": [
+    "80",
+    "aden",
+    "advance",
+    "houthi",
+    "km",
+    "sourc",
+    "within",
+    "yemen"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "990ed91ae8aee74a"
+   ],
+   "key": "f4fecc5f09fa",
+   "last_seen": "2026-11-02",
+   "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+   "tokens": [
+    "boost",
+    "buy",
+    "mobile",
+    "network",
+    "post",
+    "report",
+    "spacex",
+    "talks",
+    "use",
+    "washington"
+   ]
+  },
+  {
+   "first_seen": "2026-11-02",
+   "item_ids": [
+    "98415d87dfc7d1a0"
+   ],
+   "key": "fb829e5c2fb9",
+   "last_seen": "2026-11-02",
+   "title": "Brics+ payments system feasible, common currency faces hurdles, report says",
+   "tokens": [
+    "brics",
+    "common",
+    "currency",
+    "faces",
+    "feasible",
+    "hurdl",
+    "payment",
+    "report",
+    "system"
+   ]
   }
  ],
  "http": {
   "aljazeera": {
-   "etag": "W/\"eb984a4767f6b18620d523e27ed8a4e2\"",
-   "last_modified": "Mon, 02 Nov 2026 18:05:00 GMT"
+   "etag": "W/\"e06fce75a71eb6e11ae3bdee869a4f6d\"",
+   "last_modified": "Mon, 02 Nov 2026 18:20:51 GMT"
   },
   "bbc_world": {
    "etag": null,
@@ -12999,7 +13296,7 @@
   },
   "bleepingcomputer": {
    "etag": null,
-   "last_modified": "Mon, 02 Nov 2026 18:16:34 GMT"
+   "last_modified": "Mon, 02 Nov 2026 18:26:34 GMT"
   },
   "cccs": {
    "etag": null,
@@ -13018,7 +13315,7 @@
    "last_modified": "Mon, 02 Nov 2026 18:16:06 GMT"
   },
   "guardian_world": {
-   "etag": "W/\"hash-1844441363521722089\"",
+   "etag": "W/\"hash8232444590476326595\"",
    "last_modified": null
   },
   "reuters_gn": {
@@ -13026,8 +13323,8 @@
    "last_modified": null
   },
   "sans_isc": {
-   "etag": "\"1b83-65f4f1bfeadeb\"",
-   "last_modified": "Mon, 02 Nov 2026 18:13:56 GMT"
+   "etag": "\"1b83-65f4f3fbf9250\"",
+   "last_modified": "Mon, 02 Nov 2026 18:23:56 GMT"
   },
   "therecord": {
    "etag": null,
@@ -13035,7 +13332,7 @@
   },
   "usgs_sig": {
    "etag": null,
-   "last_modified": "Mon, 02 Nov 2026 18:15:43 GMT"
+   "last_modified": "Mon, 02 Nov 2026 18:26:37 GMT"
   }
  },
  "spend": {

@@ -1,16 +1,14 @@
 {
- "last_success": "2026-11-02T18:16:35.834644+00:00",
+ "last_success": "2026-11-02T18:26:37.103562+00:00",
  "edition": "2026-11-02",
- "mode": "evidence-only",
- "words": 186,
+ "mode": "llm",
+ "words": 245,
  "usage": {
-  "calls": 2,
-  "tokens_in": 4244,
-  "tokens_out": 1062,
+  "calls": 1,
+  "tokens_in": 2245,
+  "tokens_out": 468,
   "estimated_cost_usd": 0.0
  },
  "label": null,
- "warnings": [
-  "Automated summary failed verification; evidence-only edition. bluf: number '6,7' not in cited evidence"
- ]
+ "warnings": []
 }

@@ -1,137 +1,119 @@
 {
- "bluf": "Highest-ranked development: Ikea among shops affected by fridge cyber-hacks – Europe live. Further items follow by region.",
- "changes": [],
- "changes_summary": "8 new and 0 updated development(s) reported.",
+ "bluf": "Reuters, The Guardian and France 24 reported cyberattacks targeting emergency alert apps in Ukraine and Russia, with false nuclear alerts reported in Ukraine. France 24 reported Iran offered a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, while Israel’s prime minister said he wanted to “finish the job” first.",
+ "changes": [
+  {
+   "refs": [
+    1,
+    2,
+    3
+   ],
+   "text": "Updated since previous brief: Ukraine and Russia report fake emergency alerts after cyberattacks target apps"
+  }
+ ],
+ "changes_summary": "5 new and 1 updated development(s) reported.",
  "collection": {
-  "clusters": 136,
-  "items": 182,
+  "clusters": 148,
+  "items": 153,
   "quarantined": 0,
   "sources_ok": 12,
   "sources_total": 12
  },
- "cyber": [
-  {
-   "event_id": "E3",
-   "kind": "attributed",
-   "refs": [
-    3
-   ],
-   "section": "Cyber and Infrastructure",
-   "text": "According to BleepingComputer: Synology warns of C3RB3R ransomware attacks targeting NAS devices"
-  },
-  {
-   "event_id": "E7",
-   "kind": "attributed",
-   "refs": [
-    8
-   ],
-   "section": "Cyber and Infrastructure",
-   "text": "According to The Record: Apple warns users in 99 countries of mercenary spyware"
-  }
- ],
+ "cyber": [],
  "disasters": [],
  "edition": "2026-11-02",
  "events": [
   {
-   "confidence": "low",
+   "confidence": "high",
    "event_id": "E1",
-   "score": 8.6,
-   "status": "new"
+   "score": 9.917,
+   "status": "updated"
   },
   {
    "confidence": "low",
    "event_id": "E2",
-   "score": 8.6,
+   "score": 6.8,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E3",
-   "score": 7.75,
+   "score": 6.8,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E4",
-   "score": 7.7,
+   "score": 6.6,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E5",
-   "score": 7.6,
+   "score": 6.6,
    "status": "new"
   },
   {
-   "confidence": "high",
+   "confidence": "low",
    "event_id": "E6",
-   "score": 6.85,
+   "score": 5.8,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E7",
-   "score": 6.85,
+   "score": 5.8,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E8",
-   "score": 6.6,
+   "score": 5.8,
    "status": "new"
   }
  ],
- "generated_at": "2026-11-02T18:16:35.834644+00:00",
+ "generated_at": "2026-11-02T18:26:37.103562+00:00",
  "label": null,
- "mode": "evidence-only",
+ "mode": "llm",
  "sections": [
   {
    "items": [
     {
      "event_id": "E1",
-     "kind": "attributed",
+     "kind": "observed",
      "refs": [
-      1
+      1,
+      2,
+      3
      ],
      "section": "Europe / Russia",
-     "text": "According to The Guardian World: Ikea among shops affected by fridge cyber-hacks – Europe live"
-    },
-    {
-     "event_id": "E2",
-     "kind": "attributed",
-     "refs": [
-      2
-     ],
-     "section": "Europe / Russia",
-     "text": "According to The Guardian World: Hackers send fake nuclear threat alert to Ukraine emergency app"
+     "text": "Ukraine’s and Russia’s emergency alert apps were targeted by cyberattacks, and false nuclear alerts were reported in Ukraine; The Guardian also reported false chemical-attack and street-to-street fighting warnings in Kyiv. The incident time was not stated."
     },
     {
      "event_id": "E4",
      "kind": "attributed",
      "refs": [
-      4
+      6
      ],
      "section": "Europe / Russia",
-     "text": "According to Deutsche Welle: How Iliana Yotova won the presidential election in Bulgaria"
+     "text": "France 24 reported that Iran said it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States; Netanyahu said he wanted to “finish the job” first."
     },
     {
      "event_id": "E6",
-     "kind": "observed",
+     "kind": "attributed",
      "refs": [
-      6,
       7
      ],
      "section": "Europe / Russia",
-     "text": "Suspected cyberattacks trigger supermarket fridge failures across Europe"
+     "text": "BBC News World reported fighting had returned to the Kherson region after a six-day truce."
     },
     {
      "event_id": "E8",
      "kind": "attributed",
      "refs": [
-      9
+      8
      ],
      "section": "Europe / Russia",
-     "text": "According to France 24: Ukraine and Russia report fake emergency alerts after cyberattacks target apps"
+     "text": "BBC News World reported that dozens of supermarkets in seven European countries dumped large quantities of food after refrigerators and freezers were targeted in a cyberattack."
     }
    ],
    "name": "Europe / Russia"
@@ -141,36 +123,46 @@
    "name": "Middle East"
   },
   {
-   "items": [],
-   "name": "Indo-Pacific"
-  },
-  {
-   "items": [],
-   "name": "North America"
-  },
-  {
    "items": [
     {
-     "event_id": "E5",
+     "event_id": "E3",
      "kind": "attributed",
      "refs": [
       5
      ],
-     "section": "Other Regions",
-     "text": "According to Al Jazeera: Drone attacks extend campaign targeting Sudan’s power system"
+     "section": "Indo-Pacific",
+     "text": "Reuters reported that North Korea said a US-South Korea nuclear drill showed the need for a stronger nuclear deterrent."
     }
    ],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "North America",
+     "text": "Reuters reported that Trump floated a concept for a US-Canada deal including a pipeline while talking to Carney."
+    }
+   ],
+   "name": "North America"
+  },
+  {
+   "items": [],
    "name": "Other Regions"
   }
  ],
  "sources": [
   {
-   "id": "fa03063f43c9d75e",
+   "id": "0f6bab41058bead0",
    "n": 1,
-   "name": "The Guardian World",
-   "published": "2026-11-02T16:17:14+00:00",
-   "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-   "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates"
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-01T21:36:00+00:00",
+   "title": "Hackers hit Ukraine and Russia's emergency apps, send fake nuclear alerts",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5"
   },
   {
    "id": "75e086cbf0e035a0",
@@ -181,96 +173,74 @@
    "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
   },
   {
-   "id": "4981cab7fa7fafcb",
-   "n": 3,
-   "name": "BleepingComputer",
-   "published": "2026-11-02T11:28:42+00:00",
-   "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-   "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks"
-  },
-  {
-   "id": "205783a1b237900d",
-   "n": 4,
-   "name": "Deutsche Welle",
-   "published": "2026-11-02T12:15:00+00:00",
-   "title": "How Iliana Yotova won the presidential election in Bulgaria",
-   "url": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-world-4025-rdf"
-  },
-  {
-   "id": "f388db9531e355dd",
-   "n": 5,
-   "name": "Al Jazeera",
-   "published": "2026-11-02T17:26:32+00:00",
-   "title": "Drone attacks extend campaign targeting Sudan’s power system",
-   "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss"
-  },
-  {
-   "id": "d0fec426ba7714b8",
-   "n": 6,
-   "name": "Al Jazeera",
-   "published": "2026-11-02T12:08:59+00:00",
-   "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-   "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss"
-  },
-  {
-   "id": "9c2c028f86d1d955",
-   "n": 7,
-   "name": "The Record",
-   "published": "2026-11-02T13:00:00+00:00",
-   "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
-   "url": "https://therecord.media/cyberattack-grocery-freezers-europe"
-  },
-  {
-   "id": "3aca881560d7486c",
-   "n": 8,
-   "name": "The Record",
-   "published": "2026-11-02T14:42:00+00:00",
-   "title": "Apple warns users in 99 countries of mercenary spyware",
-   "url": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware"
-  },
-  {
    "id": "d0b256d1a8380dab",
-   "n": 9,
+   "n": 3,
    "name": "France 24",
    "published": "2026-11-02T15:06:41+00:00",
    "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
    "url": "https://www.france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps"
+  },
+  {
+   "id": "28505887b1057496",
+   "n": 4,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-01T18:44:00+00:00",
+   "title": "Trump floats 'concept' of US-Canada deal that includes pipeline talking to Carney",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5"
+  },
+  {
+   "id": "229b84aaca14fb00",
+   "n": 5,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-02T03:25:08+00:00",
+   "title": "North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1FLaXFkZE5NMkQ3RWZnZnBCZjBXZUZ5aTVUTmVxSVlDYmRldGoxbXhjZ1VHS05aSm1qclJxS21KTTJYX0NZZ2lPcGJIWFFISnpqcWxUa0tlVWhLRWNwRHRXR3ZOdWhhRkVRMDU5VHIxOG1kTjlwTUJfTnNTcV9qZVlCSzZncmVF?oc=5"
+  },
+  {
+   "id": "ec0e4b1d1cc4a380",
+   "n": 6,
+   "name": "France 24",
+   "published": "2026-11-02T17:04:54+00:00",
+   "title": "Iran offers deal on Hormuz Strait, Netanyahu wants to 'finish the job'",
+   "url": "https://www.france24.com/en/video/20261102-iran-offers-deal-on-hormuz-strait-netanyahu-wants-to-finish-the-job"
+  },
+  {
+   "id": "adc63cffc9bfc81a",
+   "n": 7,
+   "name": "BBC News World",
+   "published": "2026-11-02T17:33:19+00:00",
+   "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo"
+  },
+  {
+   "id": "4adbf62d036fb6ec",
+   "n": 8,
+   "name": "BBC News World",
+   "published": "2026-11-02T17:34:58+00:00",
+   "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+   "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro"
   }
  ],
  "title": "The Daily Brief",
  "usage": {
-  "calls": 2,
+  "calls": 1,
   "estimated_cost_usd": 0.0,
-  "tokens_in": 4244,
-  "tokens_out": 1062
+  "tokens_in": 2245,
+  "tokens_out": 468
  },
- "warnings": [
-  "Automated summary failed verification; evidence-only edition. bluf: number '6,7' not in cited evidence"
- ],
+ "warnings": [],
  "watch": [
   {
-   "indicator": "Independent reporting on: Ikea among shops affected by fridge cyber-hacks – Europe live",
+   "indicator": "Further false alerts from Ukraine’s or Russia’s emergency apps",
    "refs": [
-    1
-   ],
-   "significance": "Would confirm or contradict the current account."
-  },
-  {
-   "indicator": "Independent reporting on: Hackers send fake nuclear threat alert to Ukraine emergency app",
-   "refs": [
-    2
-   ],
-   "significance": "Would confirm or contradict the current account."
-  },
-  {
-   "indicator": "Independent reporting on: Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-   "refs": [
+    1,
+    2,
     3
    ],
-   "significance": "Would confirm or contradict the current account."
+   "significance": "Would indicate continued false messaging through the targeted apps."
   }
  ],
- "window_end": "2026-11-02T18:16:35.834644+00:00",
- "window_start": "2026-11-01T18:16:35.834644+00:00",
- "words": 186
+ "window_end": "2026-11-02T18:26:37.103562+00:00",
+ "window_start": "2026-11-01T18:26:37.103562+00:00",
+ "words": 245
 }
