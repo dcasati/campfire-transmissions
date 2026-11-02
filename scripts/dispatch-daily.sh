@@ -1,7 +1,7 @@
 #!/bin/sh
 # Backstop for GitHub's best-effort cron: dispatch the daily-brief workflow once the local publish
 # window opens, unless today's edition is already published or a run is in flight.
-# Intended to be run hourly (see docs/operations.md); safe to run any number of times.
+# Intended to be run daily (see docs/operations.md); safe to run any number of times.
 set -eu
 
 PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin
