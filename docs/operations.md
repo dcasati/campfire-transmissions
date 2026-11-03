@@ -17,7 +17,7 @@ GitHub's cron is best-effort and often starts hours late. `scripts/dispatch-dail
 
 ## KOReader
 1. Open the top menu → search/OPDS icon (*OPDS catalog*; menu names vary slightly by version).
-2. **+** (add) → Name `First Light`, URL = OPDS URL above (no credentials needed).
+2. **+** (add) → Name `Campfire Transmissions`, URL = OPDS URL above (no credentials needed).
 3. Open the catalog, tap the newest edition → *Download*. Files go to the download folder set in KOReader. Newer KOReader versions also offer OPDS *sync* of a catalog to a folder; enable it from the catalog's long-press menu if available. (Not tested on a device here.)
 4. Device needs Wi-Fi at download time.
 

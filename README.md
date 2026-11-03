@@ -1,8 +1,8 @@
-# First Light
+# Campfire Transmissions
 
 A daily situational-awareness brief (about 400–600 words) on geopolitical, security, cyber, infrastructure and disaster developments, organised by region. Every claim is tied to a cited source, and a deterministic verifier rejects anything the cited evidence does not support.
 
-Published at 06:00 America/Edmonton by GitHub Actions to <https://dcasati.github.io/first-light/> as:
+Published at 06:00 America/Edmonton by GitHub Actions to <https://campfire.dcasati.net/> as:
 
 | Format | URL |
 |---|---|
