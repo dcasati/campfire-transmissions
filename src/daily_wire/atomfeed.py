@@ -42,7 +42,7 @@ def build_atom(briefings: list[dict], title: str, base_url: str = "") -> str:
     self_href = escape(link("feed.xml"), quote=True)
     out = ['<?xml version="1.0" encoding="utf-8"?>', f'<feed xmlns="{NS}">', "<id>urn:daily-wire:feed</id>", f"<title>{escape(title)}</title>",
            f"<updated>{briefings[0]['generated_at'] if briefings else '1970-01-01T00:00:00+00:00'}</updated>",
-           "<author><name>First Light (automated)</name></author>",
+           "<author><name>Campfire Transmissions (automated)</name></author>",
            f'<link rel="self" type="application/atom+xml" href="{self_href}"/>', f'<link rel="alternate" type="text/html" href="{escape(link(""), quote=True)}"/>']
     for b in briefings:
         label = " [TEST]" if b.get("label") else ""
