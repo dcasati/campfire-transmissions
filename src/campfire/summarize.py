@@ -47,7 +47,7 @@ class OpenAICompat:
             raise RuntimeError(f"{cfg['api_key_env']} is not set")
 
     def complete(self, system: str, user: str, max_out: int) -> tuple[str, int, int]:
-        body = json.dumps({"model": os.environ.get("DAILY_WIRE_MODEL") or self.cfg["model"], "temperature": 0, "max_tokens": max_out,
+        body = json.dumps({"model": os.environ.get("CAMPFIRE_MODEL") or self.cfg["model"], "temperature": 0, "max_tokens": max_out,
                            "response_format": {"type": "json_object"},
                            "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]}).encode()
         req = urllib.request.Request(self.cfg["base_url"].rstrip("/") + "/chat/completions", body,
@@ -70,7 +70,7 @@ class CopilotCLI:
     """
 
     def __init__(self, cfg: dict):
-        self.model = os.environ.get("DAILY_WIRE_MODEL") or cfg.get("model") or "auto"
+        self.model = os.environ.get("CAMPFIRE_MODEL") or cfg.get("model") or "auto"
 
     def complete(self, system: str, user: str, max_out: int) -> tuple[str, int, int]:
         prompt = system + "\n\n" + user

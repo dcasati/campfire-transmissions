@@ -10,18 +10,18 @@ from pathlib import Path
 import pytest
 import yaml
 
-from daily_wire.atomfeed import build_atom
-from daily_wire.changes import annotate, update_history
-from daily_wire.cluster import cluster, tokens
-from daily_wire.epub import render_epub
-from daily_wire.evaluate import adversarial_cases, evaluate
-from daily_wire.fetch import FetchError, FixtureFetcher, check_url
-from daily_wire.normalize import canonical_url, collect_items, normalize, parse_feed, parse_time
-from daily_wire.opds import build_feed
-from daily_wire.pipeline import run
-from daily_wire.publish import health, publish, validate_epub, _safe
-from daily_wire.rank import confidence, score
-from daily_wire.summarize import Budget, BudgetExceeded
+from campfire.atomfeed import build_atom
+from campfire.changes import annotate, update_history
+from campfire.cluster import cluster, tokens
+from campfire.epub import render_epub
+from campfire.evaluate import adversarial_cases, evaluate
+from campfire.fetch import FetchError, FixtureFetcher, check_url
+from campfire.normalize import canonical_url, collect_items, normalize, parse_feed, parse_time
+from campfire.opds import build_feed
+from campfire.pipeline import run
+from campfire.publish import health, publish, validate_epub, _safe
+from campfire.rank import confidence, score
+from campfire.summarize import Budget, BudgetExceeded
 
 ROOT = Path(__file__).parent.parent
 FX = ROOT / "tests" / "fixtures"
@@ -73,7 +73,7 @@ def test_wire_origin_detection():
 
 def test_collect_partial_failure_and_quarantine():
     fetched = FixtureFetcher(FX)
-    from daily_wire.fetch import fetch_all
+    from campfire.fetch import fetch_all
     items, rep = collect_items(SOURCES[:8], fetch_all(SOURCES[:8], fetched, {}), NOW, START)
     assert rep["sources"]["broken_feed"]["ok"] is False and rep["sources"]["bbc_world"]["ok"]
     assert len(rep["quarantined"]) == 1 and all("injection" not in i.flags for i in items)
@@ -192,7 +192,7 @@ def test_syndicated_duplicate_counts_once(result):
     ("invented_name", "name"), ("unhedged_weak_claim", "attributed"), ("prompt_injection_text", "injected"), ("unknown_event", "unknown event"),
     ("unknown_url", "unknown URL"), ("unsupported_assertion", "assertive"), ("overlong", "word count")])
 def test_adversarial_outputs_rejected_for_the_right_reason(result, case, needle):
-    from daily_wire.verify import verify
+    from campfire.verify import verify
     r, _ = result
     b = r["briefing"]
     head = {k: b[k] for k in ("edition", "generated_at", "window_start", "window_end")}
@@ -202,12 +202,12 @@ def test_adversarial_outputs_rejected_for_the_right_reason(result, case, needle)
 
 
 def test_misleading_header_dates_rejected(result):
-    from daily_wire.verify import verify
+    from campfire.verify import verify
     r, _ = result
     b = r["briefing"]
     head = {k: b[k] for k in ("edition", "generated_at", "window_start", "window_end")}
     srcs = [{"n": e["n"], "url": "", "title": e["title"]} for p in r["packets"] for e in p["evidence"]]
-    from daily_wire.summarize import evidence_only_write
+    from campfire.summarize import evidence_only_write
     w = evidence_only_write(r["packets"])
     assert verify(w, r["packets"], srcs, {**head, "edition": "2026-10-31"}, CFG)[0]
     assert verify(w, r["packets"], srcs, {**head, "window_start": head["window_end"]}, CFG)[0]
@@ -324,7 +324,7 @@ def test_bad_llm_output_falls_back_to_evidence_only(tmp_path, text):
 
 
 def test_fallback_omits_event_with_unverifiable_headline(tmp_path, monkeypatch):
-    import daily_wire.pipeline as pl
+    import campfire.pipeline as pl
     real = pl.build_packets
 
     def tainted(*a, **k):
@@ -339,7 +339,7 @@ def test_fallback_omits_event_with_unverifiable_headline(tmp_path, monkeypatch):
 
 
 def test_cli_hour_guard_and_dry_run(tmp_path, capsys):
-    from daily_wire.cli import main
+    from campfire.cli import main
     base = ["run", "--fixtures", str(FX), "--site", str(tmp_path), "--config", str(ROOT / "config/briefing.yaml"), "--no-llm"]
     assert main(base + ["--now", "2026-10-30T10:00:00Z", "--require-hour"]) == 0 and not (tmp_path / "opds.xml").exists()  # 04:00 MDT, too early
     assert main(base + ["--now", "2026-10-30T17:30:00Z", "--require-hour"]) == 0 and (tmp_path / "opds.xml").exists()  # delayed cron, 11:30 MDT
@@ -355,7 +355,7 @@ def test_cli_hour_guard_and_dry_run(tmp_path, capsys):
 
 def test_copilot_cli_provider_command_and_failure(monkeypatch):
     import subprocess
-    from daily_wire.summarize import CopilotCLI
+    from campfire.summarize import CopilotCLI
     seen = {}
 
     def fake(cmd, **kw):
@@ -371,14 +371,14 @@ def test_copilot_cli_provider_command_and_failure(monkeypatch):
 
 
 def test_grounding_handles_hyphenated_names():
-    from daily_wire.verify import check_grounding
+    from campfire.verify import check_grounding
     corpus = "coup attempt reported in guinea-bissau, officials say"
     assert check_grounding("Officials report a coup attempt in Guinea-Bissau", corpus) == []
     assert check_grounding("Officials report a coup attempt in Chad", corpus)
 
 
 def test_parse_writer_output_tolerates_wrapping_and_reports_garbage():
-    from daily_wire.summarize import parse_writer_output
+    from campfire.summarize import parse_writer_output
     assert parse_writer_output('Here you go:\n```json\n{"bluf": "x"}\n```') == {"bluf": "x"}
     assert parse_writer_output('Sure. {"bluf": "x"} Done.') == {"bluf": "x"}
     with pytest.raises(ValueError, match="not JSON"):
