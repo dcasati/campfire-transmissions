@@ -47,7 +47,7 @@ def fetch(url: str, cache: dict | None = None, timeout: float = 15, retries: int
     """Return (body or None if 304, new cache validators)."""
     check_url(url)
     cache = cache or {}
-    headers = {"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml"}
+    headers = {"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, application/json"}
     if cache.get("etag"):
         headers["If-None-Match"] = cache["etag"]
     if cache.get("last_modified"):

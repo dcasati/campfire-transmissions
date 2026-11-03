@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import hashlib
 import html
+import json
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -78,6 +79,25 @@ def parse_feed(body: bytes) -> list[dict]:
     return out
 
 
+def parse_travel_json(body: bytes, countries: dict[str, str]) -> list[dict]:
+    """Global Affairs Canada travel-advisory API -> feed-like records for the listed ISO codes (value = section)."""
+    data = json.loads(body)["data"]
+    out = []
+    for iso, region in countries.items():
+        c = data.get(iso)
+        if not isinstance(c, dict):
+            continue
+        en = c["eng"]
+        out.append({
+            "title": f"Canada travel advisory for {c['country-eng']}: {en['advisory-text']}",
+            "link": f"https://travel.gc.ca/destinations/{en['url-slug']}",
+            "published": c["date-published"]["asp"],
+            "description": en.get("recent-updates", ""),
+            "region": region,
+        })
+    return out
+
+
 def normalize(rec: dict, source: dict, now: datetime, window_start: datetime) -> tuple[Item | None, str | None]:
     """Return (Item, None) or (None, reject reason)."""
     title = strip_html(rec.get("title", ""))
@@ -103,7 +123,7 @@ def normalize(rec: dict, source: dict, now: datetime, window_start: datetime) ->
     url = canonical_url(link)
     return Item(
         id=hashlib.sha256(url.encode()).hexdigest()[:16], source_id=source["id"], source=source["name"], origin=origin,
-        url=url, title=title, published=pub.isoformat(), summary=summary, region=source.get("region", "global"),
+        url=url, title=title, published=pub.isoformat(), summary=summary, region=rec.get("region") or source.get("region", "global"),
         category=source.get("category", "world"), ingested=now.isoformat(), reliability=float(source.get("reliability", 0.7)),
         official=bool(source.get("official", False)), flags=flags,
     ), None
@@ -126,8 +146,9 @@ def collect_items(sources: list[dict], fetched: dict, now: datetime, window_star
             rep["not_modified"] = True
             continue
         try:
-            records = parse_feed(body)
-        except (ET.ParseError, ValueError) as exc:
+            records = (parse_travel_json(body, src.get("countries") or {}) if src.get("format") == "gac_travel_json"
+                       else parse_feed(body))
+        except (ET.ParseError, ValueError, KeyError, TypeError) as exc:
             rep.update(ok=False, error=f"parse: {exc}"[:200])
             log_event("source_failed", source=src["id"], error=rep["error"])
             continue

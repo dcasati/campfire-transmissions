@@ -20,4 +20,8 @@ sources:
   - {id: gdacs, name: GDACS, url: "https://www.gdacs.org/xml/rss.xml", category: disaster, region: global, reliability: 0.9, official: true, enabled: true, verified: false}
   - {id: usgs_sig, name: USGS Significant Earthquakes, url: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.atom", category: disaster, region: global, reliability: 0.98, official: true, enabled: true, verified: false}
   - {id: gc_news, name: Government of Canada News, url: "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&publishedDate%3E=2020-08-09&pick=50&format=atom&atomtitle=Canada%20News", category: canada, region: North America, reliability: 0.9, official: true, enabled: false, verified: false, note: "URL unconfirmed"}
+  - {id: ec_calgary, name: Environment Canada Calgary Weather, url: "https://weather.gc.ca/rss/battleboard/ab12_e.xml", category: disaster, region: North America, reliability: 0.9, official: true, enabled: true, verified: true}
+  - {id: cbc_calgary, name: CBC Calgary, url: "https://www.cbc.ca/webfeed/rss/rss-canada-calgary", category: world, region: North America, reliability: 0.85, enabled: true, verified: true}
+  # Travel advisories are a JSON API; "countries" maps ISO code -> briefing section. Add codes to follow more places.
+  - {id: gac_travel, name: Global Affairs Canada Travel Advisories, url: "https://data.international.gc.ca/travel-voyage/index-alpha-eng.json", format: gac_travel_json, countries: {US: North America, MX: North America, BR: Other Regions, FR: Europe / Russia}, category: world, reliability: 0.9, official: true, enabled: true, verified: true}
   # ISW and ACLED: no confirmed public RSS; ACLED needs an API key/adapter (not implemented in the MVP).
