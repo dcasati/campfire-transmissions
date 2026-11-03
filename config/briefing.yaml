@@ -15,10 +15,10 @@ site:
   opds_recent: 30
 
 llm:
-  provider: openai_compat # openai_compat | copilot_cli | dry-run (override with env DAILY_WIRE_PROVIDER)
+  provider: openai_compat # openai_compat | copilot_cli | dry-run (override with env CAMPFIRE_PROVIDER)
   base_url: https://api.openai.com/v1
-  model: gpt-4o-mini      # override in the workflow with DAILY_WIRE_MODEL
-  api_key_env: DAILY_WIRE_API_KEY
+  model: gpt-4o-mini      # override in the workflow with CAMPFIRE_MODEL
+  api_key_env: CAMPFIRE_API_KEY
   max_input_tokens: 6000
   max_output_tokens: 1200
   max_attempts: 2         # total generations, including retries after failed verification

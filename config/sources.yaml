@@ -1,5 +1,5 @@
 # Source registry. "verified: false" = URL taken from the publisher's documentation/knowledge but NOT
-# yet confirmed from a networked machine. Run `daily-wire check-sources` before relying on a feed.
+# yet confirmed from a networked machine. Run `campfire check-sources` before relying on a feed.
 # reliability: 0..1 editorial prior. official: primary/government source (single-source OK at "moderate").
 # origin: set when the feed is a wire aggregator, so syndicated copies are not counted as independent.
 # enabled: false disables a source without deleting it. Conditional GET (ETag/Last-Modified) is used automatically.

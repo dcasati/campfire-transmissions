@@ -17,7 +17,7 @@ from .summarize import CopilotCLI, OpenAICompat
 
 
 def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(prog="daily-wire")
+    ap = argparse.ArgumentParser(prog="campfire")
     sub = ap.add_subparsers(dest="cmd", required=True)
     r = sub.add_parser("run", help="generate and publish an edition")
     r.add_argument("--config", default="config/briefing.yaml")
@@ -48,7 +48,7 @@ def main(argv: list[str] | None = None) -> int:
                 return 0
         sources = load_yaml(a.fixtures + "/sources.yaml" if a.fixtures else a.sources)["sources"]
         fetcher = FixtureFetcher(a.fixtures) if a.fixtures else live_fetcher
-        kind = os.environ.get("DAILY_WIRE_PROVIDER") or cfg["llm"]["provider"]
+        kind = os.environ.get("CAMPFIRE_PROVIDER") or cfg["llm"]["provider"]
         provider = None if (a.no_llm or kind == "dry-run") else {"openai_compat": OpenAICompat, "copilot_cli": CopilotCLI}[kind](cfg["llm"])
         res = run(cfg, sources, fetcher, now, Path(a.site), provider, a.label)
         summary = {k: res.get(k) for k in ("status", "reason", "edition", "sources_ok", "sources_total", "items")}

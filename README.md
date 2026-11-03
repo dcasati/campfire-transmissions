@@ -31,8 +31,8 @@ Details: [architecture](docs/architecture.md), [editorial policy](docs/editorial
 ```bash
 python3 -m venv .venv && . .venv/bin/activate
 pip install ".[dev]"
-pytest -q && daily-wire eval
-daily-wire run --fixtures tests/fixtures --site /tmp/site --now 2026-10-30T12:00:00Z --no-llm \
+pytest -q && campfire eval
+campfire run --fixtures tests/fixtures --site /tmp/site --now 2026-10-30T12:00:00Z --no-llm \
   --label "TEST EDITION: synthetic fixtures"
 ```
 
@@ -42,8 +42,8 @@ A sample edition is in [`docs/sample/`](docs/sample).
 
 1. Public repo; Settings → Pages → *Deploy from a branch* → `gh-pages` `/`. The first workflow run creates the branch.
 2. Pick an LLM provider (no provider means an evidence-only edition):
-   - **GitHub Copilot:** variable `DAILY_WIRE_PROVIDER=copilot_cli`, variable `DAILY_WIRE_MODEL=auto`, and secret `COPILOT_GITHUB_TOKEN` (fine-grained PAT with *Copilot Requests*).
-   - **OpenAI-compatible:** secret `DAILY_WIRE_API_KEY`, plus `llm.base_url`, `llm.model` and token prices in `config/briefing.yaml`.
+   - **GitHub Copilot:** variable `CAMPFIRE_PROVIDER=copilot_cli`, variable `CAMPFIRE_MODEL=auto`, and secret `COPILOT_GITHUB_TOKEN` (fine-grained PAT with *Copilot Requests*).
+   - **OpenAI-compatible:** secret `CAMPFIRE_API_KEY`, plus `llm.base_url`, `llm.model` and token prices in `config/briefing.yaml`.
 3. Set `site.feed_base_url` in `config/briefing.yaml` to your Pages URL.
 4. Run **Actions → daily-brief → Run workflow** once.
 
@@ -56,4 +56,4 @@ GitHub's cron is best-effort and often starts hours late. [`scripts/dispatch-dai
 
 ## Layout
 
-`config/` sources and editorial config · `src/daily_wire/` pipeline · `tests/` and `tests/fixtures/` · `docs/` design, policy, operations. The CLI is `daily-wire run | eval | health | check-sources`.
+`config/` sources and editorial config · `src/campfire/` pipeline · `tests/` and `tests/fixtures/` · `docs/` design, policy, operations. The CLI is `campfire run | eval | health | check-sources`.

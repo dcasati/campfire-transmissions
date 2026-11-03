@@ -4,7 +4,7 @@
 sources.yaml ─▶ fetch (SSRF-safe, bounded) ─▶ normalize/reject ─▶ cluster ─▶ change detect ─▶ score+shortlist
    ─▶ evidence packets ─▶ writer (LLM | evidence-only) ─▶ verify (deterministic) ─▶ EPUB/MD/JSON/OPDS ─▶ gh-pages
 ```
-Stages are plain functions in `src/daily_wire/` (`fetch`, `normalize`, `cluster`, `changes`, `rank`, `evidence`, `summarize`, `verify`, `epub`, `opds`, `publish`, orchestrated by `pipeline.run`). The whole run is deterministic given (config, fetched bytes, now), except the LLM call.
+Stages are plain functions in `src/campfire/` (`fetch`, `normalize`, `cluster`, `changes`, `rank`, `evidence`, `summarize`, `verify`, `epub`, `opds`, `publish`, orchestrated by `pipeline.run`). The whole run is deterministic given (config, fetched bytes, now), except the LLM call.
 
 ## Data contracts
 - **Item**: id (sha256 of canonical URL), source, **origin** (original reporter), url, title, published (UTC), optional event_time (only if a feed states it; none do today), summary, region, category, ingested, reliability, flags.

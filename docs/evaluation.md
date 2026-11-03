@@ -1,6 +1,6 @@
 # Evaluation
 
-`daily-wire eval` (also `pytest`, and run in CI and before every publish) runs the pipeline on `tests/fixtures` (synthetic: invented events, ground truth in `eval.yaml`) and applies thresholds from `evaluate.THRESHOLDS`.
+`campfire eval` (also `pytest`, and run in CI and before every publish) runs the pipeline on `tests/fixtures` (synthetic: invented events, ground truth in `eval.yaml`) and applies thresholds from `evaluate.THRESHOLDS`.
 
 | Metric | Definition | Threshold | Last result |
 |---|---|---|---|
