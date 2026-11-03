@@ -1,0 +1,183 @@
+{
+ "bluf": "Reuters and France 24 reported US strikes on Iran’s Qeshm Island. In southern Ukraine, France 24 reported 29 killed and 48 missing after a Russian attack on a site where people had gathered for humanitarian aid; France 24 also reported cyberattacks on emergency alert systems in Russia and Ukraine that broadcast fake nuclear warnings.",
+ "changes": [],
+ "changes_summary": "3 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 146,
+  "items": 159,
+  "quarantined": 0,
+  "sources_ok": 10,
+  "sources_total": 12
+ },
+ "cyber": [],
+ "disasters": [],
+ "edition": "2026-11-03",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 9.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 9.6,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E3",
+   "score": 8.733,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.8,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-03T12:05:29.441457+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that the death toll from a Russian attack on a humanitarian aid site in southern Ukraine rose to 29, with 48 still missing."
+    },
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that cyberattacks overnight hit emergency alert systems in Russia and Ukraine, broadcasting fake warnings of possible nuclear strikes; the systems were brought back under control, though much about the attacks remained unclear."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "observed",
+     "refs": [
+      1,
+      2
+     ],
+     "section": "Middle East",
+     "text": "Reuters and France 24 reported US strikes on Iran’s Qeshm Island."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "ac7188cadfb05e4d",
+   "n": 1,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-03T01:05:00+00:00",
+   "title": "US carries out 'defensive' strikes on Iran's Qeshm Island, officials say",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5"
+  },
+  {
+   "id": "78af20e4e6dbd6b6",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-03T02:28:07+00:00",
+   "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+   "url": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks"
+  },
+  {
+   "id": "87dff1ac625ff6f1",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-11-03T10:58:38+00:00",
+   "title": "Dozens killed, dozens more missing after Russian strike on Ukrainian aid site",
+   "url": "https://www.france24.com/en/video/20261103-dozens-killed-dozens-more-missing-after-russian-strike-on-ukrainian-aid-site"
+  },
+  {
+   "id": "3e24a09abf48840f",
+   "n": 4,
+   "name": "France 24",
+   "published": "2026-11-02T22:30:09+00:00",
+   "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+   "url": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says"
+  }
+ ],
+ "title": "The Daily Brief",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2252,
+  "tokens_out": 354
+ },
+ "warnings": [
+  "Partial coverage: 2 of 12 sources unavailable."
+ ],
+ "watch": [
+  {
+   "indicator": "Further updates to the number of people missing after the attack on the aid site in southern Ukraine.",
+   "refs": [
+    3
+   ],
+   "significance": "Would show whether the reported missing-person toll has changed."
+  },
+  {
+   "indicator": "Whether Russia and Ukraine’s emergency alert systems remain under control.",
+   "refs": [
+    4
+   ],
+   "significance": "Renewed fake nuclear warnings would indicate further disruption to the systems."
+  }
+ ],
+ "window_end": "2026-11-03T12:05:29.441457+00:00",
+ "window_start": "2026-11-02T12:05:29.441457+00:00",
+ "words": 181
+}

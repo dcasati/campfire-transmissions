@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>The Daily Brief</title>
-<updated>2026-11-02T18:26:37.103562+00:00</updated>
+<updated>2026-11-03T12:05:29.441457+00:00</updated>
 <author><name>Daily Wire (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://feed.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://feed.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-03</id><title>The Daily Brief 2026-11-03</title><updated>2026-11-03T12:05:29.441457+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://feed.dcasati.net/editions/briefing-2026-11-03.epub"/><summary>Reuters and France 24 reported US strikes on Iran’s Qeshm Island. In southern Ukraine, France 24 reported 29 killed and 48 missing after a Russian attack on a site where people had gathered for humanitarian aid; France 24 also reported cyberattacks on emergency alert systems in Russia and Ukraine that broadcast fake nuclear warnings.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Reuters and France 24 reported US strikes on Iran’s Qeshm Island. In southern Ukraine, France 24 reported 29 killed and 48 missing after a Russian attack on a site where people had gathered for humanitarian aid; France 24 also reported cyberattacks on emergency alert systems in Russia and Ukraine that broadcast fake nuclear warnings.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that the death toll from a Russian attack on a humanitarian aid site in southern Ukraine rose to 29, with 48 still missing. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;France 24 reported that cyberattacks overnight hit emergency alert systems in Russia and Ukraine, broadcasting fake warnings of possible nuclear strikes; the systems were brought back under control, though much about the attacks remained unclear. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Reuters and France 24 reported US strikes on Iran’s Qeshm Island. &lt;i&gt;(observed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;3 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Further updates to the number of people missing after the attack on the aid site in southern Ukraine.&lt;/b&gt; Would show whether the reported missing-person toll has changed. [3]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Whether Russia and Ukraine’s emergency alert systems remain under control.&lt;/b&gt; Renewed fake nuclear warnings would indicate further disruption to the systems. [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5&quot;&gt;Reuters (via Google News): US carries out &amp;#x27;defensive&amp;#x27; strikes on Iran&amp;#x27;s Qeshm Island, officials say&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks&quot;&gt;France 24: US strikes Iran&amp;#x27;s Qeshm Island as Trump signals progress in talks&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261103-dozens-killed-dozens-more-missing-after-russian-strike-on-ukrainian-aid-site&quot;&gt;France 24: Dozens killed, dozens more missing after Russian strike on Ukrainian aid site&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says&quot;&gt;France 24: Emergency alerts hacking &amp;#x27;designed to undermine trust in government&amp;#x27;, expert says&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-02</id><title>The Daily Brief 2026-11-02</title><updated>2026-11-02T18:26:37.103562+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://feed.dcasati.net/editions/briefing-2026-11-02.epub"/><summary>Reuters, The Guardian and France 24 reported cyberattacks targeting emergency alert apps in Ukraine and Russia, with false nuclear alerts reported in Ukraine. France 24 reported Iran offered a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, while Israel’s prime minister said he wanted to “finish the job” first.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Reuters, The Guardian and France 24 reported cyberattacks targeting emergency alert apps in Ukraine and Russia, with false nuclear alerts reported in Ukraine. France 24 reported Iran offered a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, while Israel’s prime minister said he wanted to “finish the job” first.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ukraine’s and Russia’s emergency alert apps were targeted by cyberattacks, and false nuclear alerts were reported in Ukraine; The Guardian also reported false chemical-attack and street-to-street fighting warnings in Kyiv. The incident time was not stated. &lt;i&gt;(observed)&lt;/i&gt; [1][2][3]&lt;/li&gt;
