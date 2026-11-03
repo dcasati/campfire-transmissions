@@ -102,7 +102,7 @@ jobs:
       - name: Job summary
         if: always()
         run: |
-          echo '### Daily brief' >> "$GITHUB_STEP_SUMMARY"
+          echo '### Campfire Transmissions' >> "$GITHUB_STEP_SUMMARY"
           echo '```json' >> "$GITHUB_STEP_SUMMARY"
           cat run-summary.json >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
           echo '```' >> "$GITHUB_STEP_SUMMARY"
