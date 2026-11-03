@@ -383,3 +383,13 @@ def test_parse_writer_output_tolerates_wrapping_and_reports_garbage():
     assert parse_writer_output('Sure. {"bluf": "x"} Done.') == {"bluf": "x"}
     with pytest.raises(ValueError, match="not JSON"):
         parse_writer_output("OK")
+
+
+def test_travel_advisory_adapter_filters_countries():
+    from campfire.normalize import parse_travel_json
+    c = lambda iso, name: {"country-eng": name, "date-published": {"asp": "2026-11-02T10:00:04-05:00"},  # noqa: E731
+                           "eng": {"advisory-text": "Exercise a high degree of caution", "url-slug": name.lower(), "recent-updates": "Safety section updated"}}
+    body = json.dumps({"data": {"FR": c("FR", "France"), "RU": c("RU", "Russia")}}).encode()
+    recs = parse_travel_json(body, {"FR": "Europe / Russia", "BR": "Other Regions"})
+    assert [r["title"] for r in recs] == ["Canada travel advisory for France: Exercise a high degree of caution"]
+    assert recs[0]["region"] == "Europe / Russia" and recs[0]["link"] == "https://travel.gc.ca/destinations/france"
