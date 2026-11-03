@@ -5695,6 +5695,7 @@
     "e05b245c10448d58"
    ],
    "key": "e9d50ad0452d",
+   "last_published": "2026-11-03",
    "last_seen": "2026-11-03",
    "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
    "tokens": [
@@ -10590,10 +10591,11 @@
   {
    "first_seen": "2026-11-02",
    "item_ids": [
+    "5ff1329c789cb4cb",
     "c35201949d44e642"
    ],
    "key": "1f37054caa5c",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "title": "Barcelona vs Aston Villa: Champions League \u2013 Predictions, news, lineups",
    "tokens": [
     "aston",
@@ -10601,6 +10603,7 @@
     "champion",
     "league",
     "lineup",
+    "live",
     "news",
     "prediction",
     "villa",
@@ -13556,6 +13559,7 @@
     "710515d713d53bab"
    ],
    "key": "0afe80a8290b",
+   "last_published": "2026-11-03",
    "last_seen": "2026-11-03",
    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
    "tokens": [
@@ -13667,6 +13671,7 @@
   {
    "first_seen": "2026-11-03",
    "item_ids": [
+    "2921d72a5be2b64c",
     "73179ea277e3f50c"
    ],
    "key": "11b32994173a",
@@ -13674,10 +13679,12 @@
    "title": "\ud83d\udd34US midterms live: More than 58 million ballots cast in record early vote turnout. Follow our special coverage",
    "tokens": [
     "58",
+    "american",
     "ballot",
     "cast",
     "coverage",
     "early",
+    "election",
     "follow",
     "live",
     "midterm",
@@ -14743,6 +14750,7 @@
     "f762eb70e6b46fa8"
    ],
    "key": "8a449ba12aae",
+   "last_published": "2026-11-03",
    "last_seen": "2026-11-03",
    "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
    "tokens": [
@@ -14898,12 +14906,15 @@
    "tokens": [
     "against",
     "airport",
+    "alarm",
     "bergamo",
     "bomb",
     "bulgaria",
     "confirm",
     "dublin",
     "europe",
+    "european",
+    "false",
     "flight",
     "live",
     "london",
@@ -14911,6 +14922,7 @@
     "operation",
     "report",
     "resum",
+    "seven",
     "threat",
     "warsaw"
    ]
@@ -16472,12 +16484,16 @@
    "last_seen": "2026-11-03",
    "title": "Teva Pharmaceutical Q3 profit gain beats estimates",
    "tokens": [
+    "2026",
     "beats",
     "estimat",
+    "forecast",
     "gain",
     "pharmaceutic",
     "profit",
     "q3",
+    "rais",
+    "revenue",
     "teva"
    ]
   },
@@ -17097,7 +17113,9 @@
    "last_seen": "2026-11-03",
    "title": "Italy's Intesa lifts full year profit outlook as it prepares to launch MPS bid",
    "tokens": [
+    "antitrust",
     "bid",
+    "ceo",
     "full",
     "intesa",
     "italy",
@@ -17107,6 +17125,10 @@
     "outlook",
     "prepar",
     "profit",
+    "quarter",
+    "rul",
+    "strong",
+    "upbeat",
     "year"
    ]
   },
@@ -17302,11 +17324,16 @@
    "tokens": [
     "congres",
     "control",
+    "deliver",
     "faces",
+    "head",
     "midterm",
+    "polls",
     "stake",
     "trump",
-    "verdict"
+    "us",
+    "verdict",
+    "voter"
    ]
   },
   {
@@ -17425,9 +17452,11 @@
     "corporate",
     "division",
     "investment",
+    "management",
     "memo",
     "pariba",
-    "reorganis"
+    "reorganis",
+    "shak"
    ]
   },
   {
@@ -17450,12 +17479,465 @@
     "slavery",
     "understand"
    ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "35475cbad332d67b"
+   ],
+   "key": "0f9878cc6862",
+   "last_seen": "2026-11-03",
+   "title": "Ukraine\u2019s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+   "tokens": [
+    "abu",
+    "dhabi",
+    "hopes",
+    "meet",
+    "open",
+    "path",
+    "putin",
+    "talks",
+    "ukraine",
+    "zelenskyy"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "bfe25921dee37825"
+   ],
+   "key": "172ae3e80bcb",
+   "last_seen": "2026-11-03",
+   "title": "Former Alberta junior hockey executive charged with sex offences against players",
+   "tokens": [
+    "against",
+    "alberta",
+    "charg",
+    "executive",
+    "former",
+    "hockey",
+    "junior",
+    "offenc",
+    "player",
+    "sex"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "39c4ed2a3e75b193"
+   ],
+   "key": "19fe1d155477",
+   "last_seen": "2026-11-03",
+   "title": "ADM beats quarterly estimates, lifts annual profit forecast on stronger processing margins",
+   "tokens": [
+    "adm",
+    "annu",
+    "beats",
+    "estimat",
+    "forecast",
+    "lifts",
+    "margin",
+    "process",
+    "profit",
+    "quarterly",
+    "stronger"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "b1ae5f639add82bc"
+   ],
+   "key": "1f9966603c6d",
+   "last_seen": "2026-11-03",
+   "title": "First Nations in B.C. challenge Carney's Pacific Link pipeline national interest designation",
+   "tokens": [
+    "b.c.",
+    "carney",
+    "challenge",
+    "designation",
+    "first",
+    "interest",
+    "link",
+    "nation",
+    "pacific",
+    "pipeline"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "6193311e24a49b8f"
+   ],
+   "key": "2c5889b1a90c",
+   "last_seen": "2026-11-03",
+   "title": "Israel political deadlock leaves Netanyahu\u2019s future hanging in the balance",
+   "tokens": [
+    "balance",
+    "deadlock",
+    "future",
+    "hang",
+    "israel",
+    "leav",
+    "netanyahu",
+    "politic"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "3b406d5594040050"
+   ],
+   "key": "32e86823f4e2",
+   "last_seen": "2026-11-03",
+   "title": "US midterms: Talarico seeks to break Democrats' 30-year losing streak in Texas",
+   "tokens": [
+    "30-year",
+    "break",
+    "democrat",
+    "los",
+    "midterm",
+    "seeks",
+    "streak",
+    "talarico",
+    "texas",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "4000ebd21c3ef944"
+   ],
+   "key": "3a09c025cc55",
+   "last_published": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "title": "Russian households face increasing financial strain as war in Ukraine drags on",
+   "tokens": [
+    "drags",
+    "face",
+    "financi",
+    "household",
+    "increas",
+    "russian",
+    "strain",
+    "ukraine",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "17fc3b2ff21acd47"
+   ],
+   "key": "3bbeeee63853",
+   "last_seen": "2026-11-03",
+   "title": "Canada travel advisory for United States: Exercise normal security precautions",
+   "tokens": [
+    "advisory",
+    "canada",
+    "exercise",
+    "norm",
+    "precaution",
+    "security",
+    "stat",
+    "travel",
+    "unit"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "d22f6db09572f4a5"
+   ],
+   "key": "4eaa0317f1bb",
+   "last_seen": "2026-11-03",
+   "title": "Brazil keeps a close eye on US midterm elections",
+   "tokens": [
+    "brazil",
+    "close",
+    "election",
+    "eye",
+    "keeps",
+    "midterm",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "10719a9e898a235b"
+   ],
+   "key": "56235b137239",
+   "last_seen": "2026-11-03",
+   "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
+   "tokens": [
+    "battlefield",
+    "dron",
+    "russia",
+    "saturate",
+    "tak",
+    "ukraine",
+    "underground",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "b0607a7dfb0a6b47"
+   ],
+   "key": "5834b8cab67a",
+   "last_published": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "title": "\u2018Vile terrorist attack\u2019: Russia bombs Ukraine aid centre",
+   "tokens": [
+    "aid",
+    "attack",
+    "bombs",
+    "centre",
+    "russia",
+    "terrorist",
+    "ukraine",
+    "vile"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "18b5a6e8f49f3393"
+   ],
+   "key": "6f7b5072d878",
+   "last_seen": "2026-11-03",
+   "title": "Dangerous offender hearing underway in Calgary for man who raped 90-year-old, sexually assaulted 5 kids",
+   "tokens": [
+    "90-year-old",
+    "assault",
+    "calgary",
+    "dangerou",
+    "hear",
+    "kids",
+    "man",
+    "offender",
+    "raped",
+    "sexually",
+    "underway"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "9cb3aba09bf6c4bd"
+   ],
+   "key": "70554b98d3e3",
+   "last_seen": "2026-11-03",
+   "title": "Primark brings forward home deliveries plan by two years after profits slide",
+   "tokens": [
+    "bring",
+    "deliveri",
+    "forward",
+    "home",
+    "plan",
+    "primark",
+    "profit",
+    "slide",
+    "two",
+    "years"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "f6996a8fe987f7cd"
+   ],
+   "key": "758b659bde74",
+   "last_seen": "2026-11-03",
+   "title": "US Midterms: Texas Democrat Talarico holds last rally ahead of vote",
+   "tokens": [
+    "ahead",
+    "democrat",
+    "holds",
+    "last",
+    "midterm",
+    "rally",
+    "talarico",
+    "texas",
+    "us",
+    "vote"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "e5016d5da514af75"
+   ],
+   "key": "800d9589344a",
+   "last_seen": "2026-11-03",
+   "title": "Opposition party organiser killed before South Africa elections",
+   "tokens": [
+    "africa",
+    "before",
+    "election",
+    "kill",
+    "opposition",
+    "organiser",
+    "party",
+    "south"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "687f7a143fc517b1"
+   ],
+   "key": "b169a73bcbd9",
+   "last_seen": "2026-11-03",
+   "title": "New Alberta riding plan shifts thousands of Calgary, Lethbridge voters into rural-urban districts",
+   "tokens": [
+    "alberta",
+    "calgary",
+    "district",
+    "lethbridge",
+    "plan",
+    "rid",
+    "rural-urban",
+    "shift",
+    "thousand",
+    "voter"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "fd8a350e86bd6ff4"
+   ],
+   "key": "c67bab84a436",
+   "last_seen": "2026-11-03",
+   "title": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
+   "tokens": [
+    "black",
+    "department",
+    "fatal",
+    "fire",
+    "investigate",
+    "mississippi",
+    "official",
+    "police",
+    "shoot",
+    "tied",
+    "toddler"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "5f9210efa5c6aacf"
+   ],
+   "key": "c8ed3fb58ad7",
+   "last_seen": "2026-11-03",
+   "title": "Deadly fire at CFB Wainwright renews compliance clash between oil operator and Alberta regulator",
+   "tokens": [
+    "alberta",
+    "between",
+    "cfb",
+    "clash",
+    "compliance",
+    "deadly",
+    "fire",
+    "oil",
+    "operator",
+    "regulator",
+    "renew",
+    "wainwright"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "72973d82ad723d5b"
+   ],
+   "key": "d2a91bbd8c48",
+   "last_seen": "2026-11-03",
+   "title": "Rivalries, ratings and rule tweaks on curling's Grand Slam circuit",
+   "tokens": [
+    "circuit",
+    "curl",
+    "grand",
+    "rating",
+    "rivalri",
+    "rule",
+    "slam",
+    "tweak"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "26f44aa9103d4148"
+   ],
+   "key": "d9ae46407ec8",
+   "last_seen": "2026-11-03",
+   "title": "Binance CEO says \u2018months-long campaign\u2019 led to $6.3 billion theft as N. Korea denies responsibility",
+   "tokens": [
+    "6.3",
+    "billion",
+    "binance",
+    "campaign",
+    "ceo",
+    "deni",
+    "korea",
+    "led",
+    "months-long",
+    "n.",
+    "responsibility",
+    "theft"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "943f2734c2466a6f"
+   ],
+   "key": "ecbe4f1c1e35",
+   "last_seen": "2026-11-03",
+   "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+   "tokens": [
+    "attack",
+    "camp",
+    "darfur",
+    "kill",
+    "story",
+    "sudan",
+    "survivor",
+    "tell",
+    "those",
+    "vow"
+   ]
+  },
+  {
+   "first_seen": "2026-11-03",
+   "item_ids": [
+    "469823947f61e767"
+   ],
+   "key": "ee2f45983373",
+   "last_seen": "2026-11-03",
+   "title": "Central Alberta Economic Partnership to dissolve after nearly 3 decades",
+   "tokens": [
+    "alberta",
+    "centr",
+    "decad",
+    "dissolve",
+    "economic",
+    "nearly",
+    "partnership"
+   ]
   }
  ],
  "http": {
   "aljazeera": {
-   "etag": "W/\"4a691eb6f1d89289eb6d2c03166ec981\"",
-   "last_modified": "Tue, 03 Nov 2026 16:19:43 GMT"
+   "etag": "W/\"aabdfe14718098417bd4bd3ac043fcdc\"",
+   "last_modified": "Tue, 03 Nov 2026 17:15:43 GMT"
   },
   "bbc_world": {
    "etag": null,
@@ -17463,7 +17945,11 @@
   },
   "bleepingcomputer": {
    "etag": null,
-   "last_modified": "Tue, 03 Nov 2026 16:36:19 GMT"
+   "last_modified": "Tue, 03 Nov 2026 17:16:21 GMT"
+  },
+  "cbc_calgary": {
+   "etag": null,
+   "last_modified": null
   },
   "cccs": {
    "etag": null,
@@ -17473,16 +17959,24 @@
    "etag": null,
    "last_modified": null
   },
+  "ec_calgary": {
+   "etag": "W/\"5ae-ekazDsax0e2AlnaAmvn7MnpPbIE\"",
+   "last_modified": "Sun, 18 Oct 2026 01:21:55 GMT"
+  },
   "france24": {
    "etag": null,
    "last_modified": null
   },
+  "gac_travel": {
+   "etag": "\"d2d33ed1b46bdd1:0\"",
+   "last_modified": "Tue, 03 Nov 2026 17:00:23 GMT"
+  },
   "gdacs": {
-   "etag": "\"b999635bb16bdd1:0\"",
-   "last_modified": "Tue, 03 Nov 2026 16:35:37 GMT"
+   "etag": "\"eed3c2f2b66bdd1:0\"",
+   "last_modified": "Tue, 03 Nov 2026 17:15:39 GMT"
   },
   "guardian_world": {
-   "etag": "W/\"hash6752716820756220927\"",
+   "etag": "W/\"hash-412465334976854523\"",
    "last_modified": null
   },
   "reuters_gn": {
@@ -17490,8 +17984,8 @@
    "last_modified": null
   },
   "sans_isc": {
-   "etag": "\"1b47-65f61e620a70e\"",
-   "last_modified": "Tue, 03 Nov 2026 16:38:57 GMT"
+   "etag": "\"1b47-65f628709a4a7\"",
+   "last_modified": "Tue, 03 Nov 2026 17:23:57 GMT"
   },
   "therecord": {
    "etag": null,
@@ -17499,7 +17993,7 @@
   },
   "usgs_sig": {
    "etag": null,
-   "last_modified": "Tue, 03 Nov 2026 16:39:19 GMT"
+   "last_modified": "Tue, 03 Nov 2026 17:25:08 GMT"
   }
  },
  "spend": {

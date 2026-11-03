@@ -1,41 +1,32 @@
 {
- "bluf": "The United States conducted strikes on Iran's Qeshm Island ahead of US midterm elections; France 24 reported that a US official described strikes in the Strait of Hormuz as defensive. BBC News World reported that Kyiv attributed 31 deaths at a Ukraine aid centre to Russian bombing. BBC News World also reported cyber-attacks affecting supermarket freezers in 10 countries, with retailers forced to discard food.",
+ "bluf": "France 24 reported that a Russian strike on a Ukrainian school used for aid distribution killed at least 31 people, according to local authorities. The Guardian reported that the US launched limited strikes on Iran’s Qeshm Island late on Monday; the strikes reportedly targeted missiles used against US assets. BBC News World and Deutsche Welle reported that the US plans to remove South Africa and Rwanda from its duty-free trade initiative.",
  "changes": [],
- "changes_summary": "7 new and 0 updated development(s) reported.",
+ "changes_summary": "5 new and 0 updated development(s) reported.",
  "collection": {
-  "clusters": 163,
-  "items": 216,
+  "clusters": 169,
+  "items": 219,
   "quarantined": 0,
-  "sources_ok": 12,
-  "sources_total": 12
+  "sources_ok": 14,
+  "sources_total": 14
  },
  "cyber": [
   {
-   "event_id": "E4",
+   "event_id": "E5",
    "kind": "attributed",
    "refs": [
     6
    ],
    "section": "Cyber and Infrastructure",
-   "text": "BleepingComputer reported that a 3AM ransomware affiliate targeted a UK school estate, encrypting around 37 of nearly 50 machines reached from an unmanaged host. AI assistance was described as suspected. The account is uncorroborated within the packet, and event timing was not stated."
-  },
-  {
-   "event_id": "E3",
-   "kind": "attributed",
-   "refs": [
-    7
-   ],
-   "section": "Cyber and Infrastructure",
-   "text": "The Record reported that a BYOD gang post appeared to align with a security incident prompting campus-wide action at Michigan State University. The connection remains uncorroborated within the packet, and incident timing was not stated."
+   "text": "BleepingComputer reported that Chinese hackers used the ARTEX AI penetration-testing framework in attacks against more than 200 organizations across 14 countries."
   }
  ],
  "disasters": [],
  "edition": "2026-11-03",
  "events": [
   {
-   "confidence": "high",
+   "confidence": "low",
    "event_id": "E1",
-   "score": 8.7,
+   "score": 8.6,
    "status": "new"
   },
   {
@@ -47,97 +38,79 @@
   {
    "confidence": "low",
    "event_id": "E3",
-   "score": 7.85,
+   "score": 8.6,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E4",
-   "score": 7.75,
+   "score": 7.6,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E5",
-   "score": 7.6,
+   "score": 6.75,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E6",
-   "score": 7.6,
+   "score": 6.75,
    "status": "new"
   },
   {
-   "confidence": "low",
+   "confidence": "high",
    "event_id": "E7",
-   "score": 6.8,
+   "score": 6.75,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E8",
-   "score": 6.8,
+   "score": 6.7,
    "status": "new"
   }
  ],
- "generated_at": "2026-11-03T16:40:15.677769+00:00",
+ "generated_at": "2026-11-03T17:25:29.632239+00:00",
  "label": null,
  "mode": "llm",
  "sections": [
   {
    "items": [
     {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that a Russian “double tap” strike hit a Ukrainian school being used for aid distribution; local authorities said at least 31 people were killed."
+    },
+    {
      "event_id": "E1",
-     "kind": "observed",
-     "refs": [
-      1,
-      2
-     ],
-     "section": "Europe / Russia",
-     "text": "The United States conducted strikes on Iran's Qeshm Island ahead of US midterm elections. BBC News World reported that US officials described the attacks as limited and defensive; France 24 reported an official's description of defensive strikes on Iranian targets in the Strait of Hormuz. Exact strike timing was not established."
-    },
-    {
-     "event_id": "E7",
-     "kind": "attributed",
-     "refs": [
-      3
-     ],
-     "section": "Europe / Russia",
-     "text": "BBC News World reported that Kyiv attributed 31 deaths at a Ukraine aid centre to Russian bombing, while officials said at least nine 3,000kg aerial bombs hit a southern Ukrainian village. The account is uncorroborated within the packet, and event timing was not stated."
-    },
-    {
-     "event_id": "E8",
-     "kind": "attributed",
-     "refs": [
-      4
-     ],
-     "section": "Europe / Russia",
-     "text": "BBC News World reported cyber-attacks affecting supermarket freezers in 10 countries, with problems reported from Estonia and Sweden to Portugal and Italy and retailers forced to discard food. The account is uncorroborated within the packet, and event timing was not stated."
-    },
-    {
-     "event_id": "E5",
      "kind": "attributed",
      "refs": [
       5
      ],
      "section": "Europe / Russia",
-     "text": "Al Jazeera reported that renewed Russian and Ukrainian attacks on Black Sea shipping threaten grain exports, drive up food prices and deepen food insecurity. The account is uncorroborated within the packet, and event timing was not stated."
-    },
-    {
-     "event_id": "E6",
-     "kind": "attributed",
-     "refs": [
-      8
-     ],
-     "section": "Europe / Russia",
-     "text": "France 24 reported that students blockaded dozens of high schools across France on Tuesday over education reforms, as trade unions prepared for a nationwide strike later this week. The account is uncorroborated within the packet."
+     "text": "France 24 reported that utility bills in Russia have risen by more than 50% since the start of the war in 2022, including by more than 13% this year, as Russian households face increasing financial strain."
     }
    ],
    "name": "Europe / Russia"
   },
   {
-   "items": [],
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Middle East",
+     "text": "The Guardian reported that the US launched limited strikes on Iran’s Qeshm Island late on Monday, reportedly targeting surface-to-air missiles being used against US assets; the report also said Vice-President JD Vance voiced optimism about diplomatic efforts to end the war."
+    }
+   ],
    "name": "Middle East"
   },
   {
@@ -149,86 +122,81 @@
    "name": "North America"
   },
   {
-   "items": [],
+   "items": [
+    {
+     "event_id": "E7",
+     "kind": "observed",
+     "refs": [
+      3,
+      4
+     ],
+     "section": "Other Regions",
+     "text": "BBC News World and Deutsche Welle reported that the US plans to drop South Africa and Rwanda from its duty-free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa. Deutsche Welle said the Trump administration accused the two countries of breaking the initiative’s rules."
+    }
+   ],
    "name": "Other Regions"
   }
  ],
  "sources": [
   {
-   "id": "bbb9adae9a48a69a",
+   "id": "b0607a7dfb0a6b47",
    "n": 1,
-   "name": "BBC News World",
-   "published": "2026-11-03T11:33:33+00:00",
-   "title": "US strikes Iranian island ahead of midterm elections",
-   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
-  },
-  {
-   "id": "40705a7ad889c183",
-   "n": 2,
    "name": "France 24",
-   "published": "2026-11-03T12:12:06+00:00",
-   "title": "US strikes Iran's Qeshm Island as midterm elections start",
-   "url": "https://www.france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start"
+   "published": "2026-11-03T16:30:08+00:00",
+   "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
+   "url": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre"
   },
   {
-   "id": "826e83708152188b",
+   "id": "87efcfd56daab67a",
+   "n": 2,
+   "name": "The Guardian World",
+   "published": "2026-11-03T13:52:34+00:00",
+   "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+   "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+  },
+  {
+   "id": "f762eb70e6b46fa8",
    "n": 3,
    "name": "BBC News World",
-   "published": "2026-11-03T13:26:19+00:00",
-   "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
+   "published": "2026-11-03T13:28:30+00:00",
+   "title": "Trump to remove Rwanda and South Africa from US trade deal",
+   "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
   },
   {
-   "id": "deac0951ad261963",
+   "id": "12d2f06a045e1348",
    "n": 4,
-   "name": "BBC News World",
-   "published": "2026-11-03T13:55:47+00:00",
-   "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-   "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo"
+   "name": "Deutsche Welle",
+   "published": "2026-11-02T21:40:00+00:00",
+   "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+   "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf"
   },
   {
-   "id": "7b3777cbff7fca5a",
+   "id": "4000ebd21c3ef944",
    "n": 5,
-   "name": "Al Jazeera",
-   "published": "2026-11-03T12:10:47+00:00",
-   "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
-   "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss"
+   "name": "France 24",
+   "published": "2026-11-03T17:05:54+00:00",
+   "title": "Russian households face increasing financial strain as war in Ukraine drags on",
+   "url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on"
   },
   {
-   "id": "4aec85e873ea6f79",
+   "id": "710515d713d53bab",
    "n": 6,
    "name": "BleepingComputer",
-   "published": "2026-11-03T14:00:00+00:00",
-   "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-   "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack"
-  },
-  {
-   "id": "39f18e50f5740c0a",
-   "n": 7,
-   "name": "The Record",
-   "published": "2026-11-02T19:54:00+00:00",
-   "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
-   "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident"
-  },
-  {
-   "id": "e0c3a170632dc0de",
-   "n": 8,
-   "name": "France 24",
-   "published": "2026-11-03T12:01:02+00:00",
-   "title": "French schools blockade resume on smaller scale as holidays end",
-   "url": "https://www.france24.com/en/video/20261103-french-schools-blockade-resume-on-smaller-scale-as-holidays-end"
+   "published": "2026-11-02T21:40:14+00:00",
+   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs"
   }
  ],
  "title": "Campfire Transmissions",
  "usage": {
-  "calls": 2,
+  "calls": 1,
   "estimated_cost_usd": 0.0,
-  "tokens_in": 4313,
-  "tokens_out": 1270
+  "tokens_in": 2204,
+  "tokens_out": 471
  },
  "warnings": [],
  "watch": [],
- "window_end": "2026-11-03T16:40:15.677769+00:00",
- "window_start": "2026-11-02T16:40:15.677769+00:00",
- "words": 358
+ "window_end": "2026-11-03T17:25:29.632239+00:00",
+ "window_start": "2026-11-02T17:25:29.632239+00:00",
+ "words": 249
 }
