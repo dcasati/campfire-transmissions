@@ -83,6 +83,9 @@ jobs:
           if [ "${{ inputs.no_llm }}" = "true" ] || [ -z "$have_key" ]; then args="$args --no-llm"; fi
           daily-wire run --site site $args | tee run-summary.json
 
+      - name: Add site assets
+        run: cp assets/hero.jpg site/hero.jpg
+
       - name: Publication health check
         run: daily-wire health --site site
 
