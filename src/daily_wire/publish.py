@@ -96,7 +96,7 @@ def publish(site: Path, briefing: dict, cfg: dict) -> dict:
     status = {"last_success": briefing["generated_at"], "edition": ed, "mode": briefing["mode"], "words": briefing.get("words"),
               "usage": briefing.get("usage"), "label": briefing.get("label"), "warnings": briefing.get("warnings", [])}
     _safe(site, "status.json").write_text(json.dumps(status, indent=1), encoding="utf-8")
-    index = ("<!doctype html><meta charset=utf-8><title>Daily Wire</title><h1>Daily Wire</h1>"
+    index = ("<!doctype html><meta charset=utf-8><title>First Light</title><h1>First Light</h1>"
              f'<p>Latest: <a href="editions/briefing-{ed}.epub">{ed}</a> ({briefing["mode"]}). OPDS catalog: <a href="opds.xml">opds.xml</a>. Feed: <a href="feed.xml">feed.xml</a>. '
              '<a href="status.json">status</a></p>')
     _safe(site, "index.html").write_text(index, encoding="utf-8")

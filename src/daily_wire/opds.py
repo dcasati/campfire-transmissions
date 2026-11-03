@@ -12,7 +12,7 @@ def build_feed(editions: list[dict], title: str, base_url: str = "", now: dateti
     now = now or datetime.now(timezone.utc)
     link = lambda path: (base_url.rstrip("/") + "/" + path) if base_url else path  # noqa: E731
     out = ['<?xml version="1.0" encoding="utf-8"?>', f"<feed {NS}>", "<id>urn:daily-wire:catalog</id>", f"<title>{escape(title)}</title>",
-           f"<updated>{(editions[0]['generated_at'] if editions else now.isoformat())}</updated>", "<author><name>Daily Wire (automated)</name></author>",
+           f"<updated>{(editions[0]['generated_at'] if editions else now.isoformat())}</updated>", "<author><name>First Light (automated)</name></author>",
            f'<link rel="self" href="{escape(link("opds.xml"), quote=True)}" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>',
            f'<link rel="start" href="{escape(link("opds.xml"), quote=True)}" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>']
     for e in editions:

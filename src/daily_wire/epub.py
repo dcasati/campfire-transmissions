@@ -81,7 +81,7 @@ def render_epub(b: dict, tz: str = "America/Edmonton") -> bytes:
     modified = datetime.fromisoformat(b["generated_at"]).strftime("%Y-%m-%dT%H:%M:%SZ")
     opf = ('<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="en">'
            f'<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="uid">{uid}</dc:identifier><dc:title>{escape(title)}</dc:title>'
-           f'<dc:language>en</dc:language><dc:creator>Daily Wire (automated)</dc:creator><dc:date>{b["edition"]}</dc:date>'
+           f'<dc:language>en</dc:language><dc:creator>First Light (automated)</dc:creator><dc:date>{b["edition"]}</dc:date>'
            f'<meta property="dcterms:modified">{modified}</meta></metadata><manifest>'
            '<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>'
            '<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>'
