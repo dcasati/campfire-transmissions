@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlsplit
 
-USER_AGENT = "Mozilla/5.0 (compatible; first-light/0.1; +https://github.com/dcasati/first-light)"
+USER_AGENT = "Mozilla/5.0 (compatible; campfire-transmissions/0.1; +https://github.com/dcasati/campfire-transmissions)"
 MAX_BYTES = 3_000_000
 
 

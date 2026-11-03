@@ -5,8 +5,8 @@
 set -eu
 
 PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin
-REPO=${DAILY_WIRE_REPO:-dcasati/first-light}
-PAGES=${DAILY_WIRE_PAGES:-https://feed.dcasati.net}
+REPO=${DAILY_WIRE_REPO:-dcasati/campfire-transmissions}
+PAGES=${DAILY_WIRE_PAGES:-https://campfire.dcasati.net}
 
 hour=$(date +%H)
 today=$(date +%F)

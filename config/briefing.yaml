@@ -11,7 +11,7 @@ max_age_hours_health: 36  # health check: freshness limit
 site:
   title: Campfire Transmissions
   base_url: ""            # OPDS links stay relative (KOReader resolves them)
-  feed_base_url: https://feed.dcasati.net/ # feed readers need absolute URLs
+  feed_base_url: https://campfire.dcasati.net/ # feed readers need absolute URLs
   opds_recent: 30
 
 llm:
