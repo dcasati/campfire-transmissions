@@ -17,12 +17,15 @@
     "0b4f423374709f3b",
     "0fc7f4cb438bd151",
     "126966b1365ab229",
+    "12d99f5158f86579",
     "15ca2fde609516c3",
     "1720711625dc9c72",
     "17dc8d424a3eae9f",
     "18cd6bb74970f83a",
+    "194a47def36633e3",
     "1bbf165c3c8e2e82",
     "1cce737bb7647552",
+    "1f32b4c678528536",
     "1ffec2e51be3568e",
     "204346c030fb449b",
     "2082b71561940a3c",
@@ -44,6 +47,7 @@
     "39892fceca581017",
     "39e5df8ce97ae6c9",
     "3a1d1639fedbc730",
+    "3a38e39f4d0095c0",
     "3ba35253f590d61d",
     "3df84c72bbbd125e",
     "3e59a4dfdb302b1b",
@@ -52,6 +56,8 @@
     "42279a75560d6edc",
     "4365e2fb54ce6a23",
     "44203fdc276e8d68",
+    "4429a5fbe77f7579",
+    "4878e36e2a474807",
     "4a1058e5c9f7d937",
     "4c710f0ddd0ce244",
     "4f74943bf9358b17",
@@ -59,9 +65,11 @@
     "4fe4483fb8f6bf66",
     "50b850b693729750",
     "51b4fd6e944ebc9c",
+    "52a8d00dfb9cfbee",
     "533733db3f2899d5",
     "538e27b43578461c",
     "54bc9cdc0a5b064a",
+    "55d812c5dc9093c0",
     "56ddf5d7b65818dd",
     "57fed348581291f4",
     "592f1ef0d9b2e0e1",
@@ -85,10 +93,13 @@
     "69020b70536b418e",
     "6d010cc1f2791892",
     "6dbbee70ba5cf000",
+    "6e0b820919d927cc",
     "70833ba87579ae56",
     "722a9cb746c343fc",
+    "7288f5c46debae17",
     "760a6619ebd78674",
     "76699bf315e92c58",
+    "771c71cfb532466a",
     "77684966f2ad9889",
     "7b81428fac146a25",
     "7bbc2b54f628c8e1",
@@ -99,10 +110,13 @@
     "833874cb547eb11a",
     "8443d04ca8eee8bd",
     "85711ed504dc9272",
+    "860f4cc2453736af",
     "86b3ff8e8ae0ae9d",
     "87a21c5e4ab34388",
     "87a353d3a36bbd08",
+    "8864089a22972ed5",
     "8978a83de8f0da69",
+    "89a1da403f712b0d",
     "89ab78bfb7919d40",
     "8a11af320aa82acf",
     "8d4a257a8b105c9f",
@@ -110,6 +124,7 @@
     "923c1c7297a99b22",
     "934cdb35be4a0379",
     "94f67ff33091f4a0",
+    "9521a9f3f8e51e43",
     "9627dfac4ac766a9",
     "9927637df36e9ca0",
     "9a18b59a5585b53e",
@@ -119,6 +134,7 @@
     "9f551807cbd2628f",
     "a03553d039a5d02e",
     "a073dc96525190dd",
+    "a1773b6360e2f2bf",
     "a2aa87e818965564",
     "a560c6d04bddc121",
     "a6254221b07b2328",
@@ -146,6 +162,7 @@
     "c437d6db4bcf93d9",
     "c6441af66b17352b",
     "c712211b75f48f7d",
+    "c7c598c43fc70990",
     "c7d7cbf3c2649e02",
     "c87268008498d01b",
     "c8a1c02ad08aab4d",
@@ -157,6 +174,7 @@
     "ce304506e743ce1d",
     "ce7b69a2374f1555",
     "cec1e087da02b167",
+    "cf8006fdc60c5d9d",
     "d047887a006c595a",
     "d2e3f6f5874bab56",
     "d39ca4d62c4e2bd1",
@@ -164,6 +182,7 @@
     "d77ef84c6edecf96",
     "d959a803f45dde25",
     "da1350c403db360d",
+    "db2a4c7440bd94ab",
     "db391dd48d57c851",
     "dcf76f109727dbbc",
     "dd06c3db4ffc64e7",
@@ -194,10 +213,11 @@
     "f89a3845054af93f",
     "fb8769f25294c90a",
     "fd693e63b5fadcc1",
+    "fe258ae5128e9bce",
     "fe706eb247834746"
    ],
    "key": "038e30711218",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Green forest fire notification in Brazil",
    "tokens": [
     "africa",
@@ -4279,18 +4299,22 @@
   {
    "first_seen": "2026-10-30",
    "item_ids": [
+    "31a27c7480fe71ec",
+    "968580948772fb68",
     "f9d11340adfa405e"
    ],
    "key": "643e4086f27d",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-04",
    "title": "Spanish transport minister faces calls to quit after deadly train crash",
    "tokens": [
     "calls",
     "crash",
+    "days",
     "deadly",
     "faces",
     "minister",
     "quit",
+    "resign",
     "spanish",
     "train",
     "transport"
@@ -5409,17 +5433,21 @@
   {
    "first_seen": "2026-10-30",
    "item_ids": [
-    "31ccd274be759690"
+    "31ccd274be759690",
+    "8457a329dd4616f6"
    ],
    "key": "cd7f7007be4b",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-04",
    "title": "Georgia midterm elections: Why this is a key US battleground",
    "tokens": [
     "battleground",
+    "democrat",
     "election",
     "georgia",
     "key",
     "midterm",
+    "republican",
+    "rout",
     "us",
     "why"
    ]
@@ -5696,7 +5724,7 @@
    ],
    "key": "e9d50ad0452d",
    "last_published": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
    "tokens": [
     "about",
@@ -5722,7 +5750,7 @@
    ],
    "key": "eb610e33ba49",
    "last_published": "2026-10-30",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Iran Deal Includes $300 Billion Fund, More Than Half of Which Already Committed, Source Says",
    "tokens": [
     "300",
@@ -7027,19 +7055,23 @@
   {
    "first_seen": "2026-10-31",
    "item_ids": [
-    "15203e8ceea7241a"
+    "15203e8ceea7241a",
+    "b9bdc339aa3b6ce9"
    ],
    "key": "50ffa222b11a",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-04",
    "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
    "tokens": [
     "10",
     "can",
+    "control",
     "democrat",
+    "house",
     "key",
     "midterm",
     "races",
     "senate",
+    "takeaway",
     "us",
     "watch",
     "win"
@@ -8782,7 +8814,7 @@
     "6e7109089fe6c0e2"
    ],
    "key": "1e60f4a2cad5",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "More than 50 million votes cast in US midterm elections: What does it mean?",
    "tokens": [
     "50",
@@ -10087,15 +10119,20 @@
   {
    "first_seen": "2026-11-01",
    "item_ids": [
+    "e850a816bf4146d2",
     "fdb74daff19e5ea8"
    ],
    "key": "dcf3a78faad0",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-04",
    "title": "Thousands demonstrate in Paris as protests spread across Europe",
    "tokens": [
     "acros",
     "demonstrate",
+    "education",
     "europe",
+    "flag",
+    "hous",
+    "palestine",
     "paris",
     "protest",
     "spread",
@@ -11333,17 +11370,20 @@
    "first_seen": "2026-11-02",
    "item_ids": [
     "3ece3407c21c05bf",
+    "52cc53f53ac043cf",
     "ba013b14a8bc9a30"
    ],
    "key": "57d114e2cd69",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
    "tokens": [
     "10160",
     "10162",
+    "10164",
     "2026",
     "2nd",
     "3rd",
+    "4th",
     "https",
     "isc",
     "isc.sans.edu",
@@ -11354,7 +11394,9 @@
     "podcastdetail",
     "stormcast",
     "tue",
-    "tuesday"
+    "tuesday",
+    "wed",
+    "wednesday"
    ]
   },
   {
@@ -12966,17 +13008,20 @@
     "7eac0d675b8bff8c"
    ],
    "key": "f17b1a63dce5",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Trump says US, Canada have 'concept' of a new trade deal",
    "tokens": [
     "canada",
+    "carney",
     "close",
     "concept",
     "deal",
     "mak",
+    "remain",
     "trade",
     "trump",
-    "us"
+    "us",
+    "work"
    ]
   },
   {
@@ -13031,18 +13076,22 @@
   {
    "first_seen": "2026-11-02",
    "item_ids": [
-    "3f36b36901be95a2"
+    "3f36b36901be95a2",
+    "4ed5c4de5e371d4f"
    ],
    "key": "fb589979d7fa",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "What might Trump have planned for Iran following the midterm election?",
    "tokens": [
+    "defeat",
     "election",
     "follow",
     "iran",
     "midterm",
+    "next",
     "plann",
     "trump",
+    "war",
     "what"
    ]
   },
@@ -14181,7 +14230,7 @@
     "d11ad6e4ad268815"
    ],
    "key": "4fdcfe973f54",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Fresenius Medical cuts 2026 profit outlook as US treatment decline deepens",
    "tokens": [
     "2026",
@@ -14747,24 +14796,27 @@
    "first_seen": "2026-11-03",
    "item_ids": [
     "12d2f06a045e1348",
+    "4bfd48eab3d863b3",
     "f762eb70e6b46fa8"
    ],
    "key": "8a449ba12aae",
    "last_published": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
    "tokens": [
     "africa",
     "deal",
     "drop",
     "duty-free",
+    "exclud",
     "initiative",
     "remove",
     "rwanda",
     "south",
     "trade",
     "trump",
-    "us"
+    "us",
+    "washington"
    ]
   },
   {
@@ -14773,7 +14825,7 @@
     "afe9aff7b8e6b9fd"
    ],
    "key": "94a47a2af26a",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Aspen strikes R3.66bn deal for its menopause treatment",
    "tokens": [
     "aspen",
@@ -14951,17 +15003,21 @@
   {
    "first_seen": "2026-11-03",
    "item_ids": [
-    "27c71bcc79e4b0bd"
+    "27c71bcc79e4b0bd",
+    "48388886199bc45d"
    ],
    "key": "a939f496bf55",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Could Texas turn blue? Democrat James Talarico takes on Republican establishment",
    "tokens": [
     "blue",
     "democrat",
     "establishment",
+    "flips",
+    "fum",
     "james",
     "republican",
+    "senate",
     "takes",
     "talarico",
     "texas",
@@ -15289,19 +15345,28 @@
   {
    "first_seen": "2026-11-03",
    "item_ids": [
+    "2840dd8119751bcf",
+    "ac12a2d2c4ff7535",
     "de11e0f802983b95"
    ],
    "key": "d8dfcefd5e66",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "When will we know the US midterm election results?",
    "tokens": [
     "election",
+    "everyth",
     "know",
     "midterm",
+    "need",
+    "react",
     "result",
+    "seismic",
+    "shift",
     "us",
     "we",
-    "when"
+    "when",
+    "world",
+    "you"
    ]
   },
   {
@@ -15768,17 +15833,25 @@
     "5f8b392d1762e47a"
    ],
    "key": "10db0e5dba0a",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Marathon beats quarterly estimates, to sell two refineries to CVR Energy",
    "tokens": [
+    "4.2",
     "beats",
+    "billion",
     "cvr",
+    "deal",
     "energy",
     "estimat",
     "marathon",
+    "margin",
+    "profit",
     "quarterly",
     "refineri",
+    "refinery",
     "sell",
+    "soar",
+    "strik",
     "two"
    ]
   },
@@ -15830,7 +15903,7 @@
     "b3821132ed33cfd7"
    ],
    "key": "1590db73bac6",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects",
    "tokens": [
     "cybercrime",
@@ -15951,7 +16024,7 @@
     "b66857d441c2367f"
    ],
    "key": "1b97d9d4b71a",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
    "tokens": [
     "2028",
@@ -15987,7 +16060,7 @@
     "b32c5e0ebd3d8fbf"
    ],
    "key": "1c1b2c1fa11e",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Keurig Dr Pepper flags slower fourth-quarter coffee profits as shoppers trade down",
    "tokens": [
     "coffee",
@@ -16009,7 +16082,7 @@
     "85a2680a334dd857"
    ],
    "key": "20c63766c628",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "World faces \u20ac30 trillion financing gap, Santander report warns",
    "tokens": [
     "30",
@@ -16069,7 +16142,8 @@
     "87893c219097abee"
    ],
    "key": "2fa275a19df3",
-   "last_seen": "2026-11-03",
+   "last_published": "2026-11-04",
+   "last_seen": "2026-11-04",
    "title": "Police seizes over 100 servers in investment scam crackdown",
    "tokens": [
     "100",
@@ -16087,7 +16161,7 @@
     "744562ed1928f11a"
    ],
    "key": "31d9c8009fb1",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Apple shares slide as Ternus sounds alarm on memory costs",
    "tokens": [
     "alarm",
@@ -16147,7 +16221,7 @@
     "f2721e8953efda1e"
    ],
    "key": "3fd121a3e1a2",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Barracuda warns of critical flaws allowing root access to devices",
    "tokens": [
     "acces",
@@ -16225,7 +16299,7 @@
     "437a2d4ec6d66371"
    ],
    "key": "484794b2dba2",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Cyprus: From ties with Russia to a strategic alignment with the US",
    "tokens": [
     "alignment",
@@ -16242,7 +16316,7 @@
     "d9b6178a2a8a8e3f"
    ],
    "key": "4da6f385a5a8",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Ferrari lifts forecasts after outperformance, Luce EV demand strong",
    "tokens": [
     "demand",
@@ -16481,7 +16555,7 @@
     "74926b7aef21220c"
    ],
    "key": "73eb5721145f",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Teva Pharmaceutical Q3 profit gain beats estimates",
    "tokens": [
     "2026",
@@ -16503,7 +16577,7 @@
     "6ecd0e14a1389cad"
    ],
    "key": "7bcf18c1811f",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "The private creative world of Rabindranath Tagore, the man Yeats called \u2018greater than any of us\u2019",
    "tokens": [
     "any",
@@ -16525,7 +16599,7 @@
     "08e77cea283ac4f4"
    ],
    "key": "8cc6e4d5b4dd",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Can US midterm election really change Trump's Iran policy?",
    "tokens": [
     "can",
@@ -16585,7 +16659,7 @@
     "fa0e6f4c0b83c211"
    ],
    "key": "94ac6de19393",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
    "tokens": [
     "bell",
@@ -16594,8 +16668,11 @@
     "fall",
     "hit",
     "outbreak",
+    "q3",
+    "rebound",
     "sales",
-    "taco"
+    "taco",
+    "yum"
    ]
   },
   {
@@ -16739,7 +16816,7 @@
     "8d53b493a9fb00aa"
    ],
    "key": "ac6e779b5dd5",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Why South Africa's local elections matter",
    "tokens": [
     "africa",
@@ -16753,17 +16830,20 @@
   {
    "first_seen": "2026-11-03",
    "item_ids": [
+    "33d1a53fa02fc496",
     "ad88efbaf0296b99"
    ],
    "key": "af1cf19f466b",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Trump says US will halt $4 billion in aid to Israel after end of the year",
    "tokens": [
     "aid",
     "billion",
+    "claim",
     "end",
     "halt",
     "israel",
+    "military",
     "trump",
     "us",
     "year"
@@ -16817,7 +16897,7 @@
     "de31ad8d688f6cf3"
    ],
    "key": "b508b69601d0",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Ferrari says Luce EV sold out for 2027, expects demand to grow further",
    "tokens": [
     "2027",
@@ -16838,7 +16918,7 @@
    ],
    "key": "b5a3cfe1713a",
    "last_published": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
    "tokens": [
     "3am",
@@ -16879,7 +16959,7 @@
     "74ecce8615d5a0c3"
    ],
    "key": "bd82e689f361",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Brazil publishes first global \u2018roadmap\u2019 for phasing out fossil fuels",
    "tokens": [
     "brazil",
@@ -17073,7 +17153,7 @@
     "d06908b664d102c8"
    ],
    "key": "dbb84e43f3a3",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
    "tokens": [
     "000",
@@ -17110,7 +17190,7 @@
     "cb728d34d1821aa9"
    ],
    "key": "dc4898dc3d1b",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Italy's Intesa lifts full year profit outlook as it prepares to launch MPS bid",
    "tokens": [
     "antitrust",
@@ -17183,7 +17263,7 @@
     "2502d61f3b79c2d8"
    ],
    "key": "e277245c9457",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "China's Baidu launches AI model simulating road environment for robotaxis",
    "tokens": [
     "ai",
@@ -17261,7 +17341,7 @@
     "f44b9135783edd36"
    ],
    "key": "e55760feb88f",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Trump\u2019s troubles with Iran could open the door to China",
    "tokens": [
     "china",
@@ -17299,7 +17379,7 @@
     "4844f25a33c09310"
    ],
    "key": "eb906900fdac",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
    "tokens": [
     "clash",
@@ -17444,7 +17524,7 @@
     "753dd44b15333ba4"
    ],
    "key": "f947547251d4",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "BNP Paribas reorganises corporate investment banking division, memo says",
    "tokens": [
     "bank",
@@ -17528,7 +17608,7 @@
     "39c4ed2a3e75b193"
    ],
    "key": "19fe1d155477",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "ADM beats quarterly estimates, lifts annual profit forecast on stronger processing margins",
    "tokens": [
     "adm",
@@ -17877,7 +17957,7 @@
     "26f44aa9103d4148"
    ],
    "key": "d9ae46407ec8",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Binance CEO says \u2018months-long campaign\u2019 led to $6.3 billion theft as N. Korea denies responsibility",
    "tokens": [
     "6.3",
@@ -17921,7 +18001,7 @@
     "469823947f61e767"
    ],
    "key": "ee2f45983373",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "title": "Central Alberta Economic Partnership to dissolve after nearly 3 decades",
    "tokens": [
     "alberta",
@@ -17932,12 +18012,2584 @@
     "nearly",
     "partnership"
    ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "e4b05ec23c1a8c20"
+   ],
+   "key": "0234b7130356",
+   "last_seen": "2026-11-04",
+   "title": "The give and take (and partisan wrangling) in Alberta's urban-rural hybrid riding maps",
+   "tokens": [
+    "alberta",
+    "give",
+    "hybrid",
+    "maps",
+    "partisan",
+    "rid",
+    "take",
+    "urban-rur",
+    "wrangl"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "d0f4d81a715c4404"
+   ],
+   "key": "03c67f958841",
+   "last_seen": "2026-11-04",
+   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+   "tokens": [
+    "ai",
+    "app",
+    "artex",
+    "attacker",
+    "breach",
+    "intern",
+    "sales",
+    "used",
+    "worko"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a4d4ac6230f5612e"
+   ],
+   "key": "04577806d368",
+   "last_seen": "2026-11-04",
+   "title": "US midterms: Will Trump stick to his word and accept results?",
+   "tokens": [
+    "accept",
+    "midterm",
+    "result",
+    "stick",
+    "trump",
+    "us",
+    "word"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "fe08498e2295191f"
+   ],
+   "key": "06506a92b617",
+   "last_seen": "2026-11-04",
+   "title": "EXCLUSIVE: SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+   "tokens": [
+    "china",
+    "chip",
+    "exclusive",
+    "hit",
+    "hynix",
+    "plans",
+    "restriction",
+    "sk",
+    "snag",
+    "sourc",
+    "us",
+    "york"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "b88554bea6f17470"
+   ],
+   "key": "06ff2815a20b",
+   "last_seen": "2026-11-04",
+   "title": "What consequences for Israel as Democrats win the US midterm elections?",
+   "tokens": [
+    "consequenc",
+    "democrat",
+    "election",
+    "israel",
+    "midterm",
+    "us",
+    "what",
+    "win"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "505cc19f2be4f064"
+   ],
+   "key": "0b4570bf3798",
+   "last_seen": "2026-11-04",
+   "title": "17-year-old Alberta youth arrested on terrorism-related offence",
+   "tokens": [
+    "17-year-old",
+    "alberta",
+    "arrest",
+    "offence",
+    "terrorism-relat",
+    "youth"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "415e94f2bd791a6c"
+   ],
+   "key": "0b5e2dc1bb29",
+   "last_seen": "2026-11-04",
+   "title": "Who determines Iran\u2019s fighting and negotiating position amid US threats?",
+   "tokens": [
+    "determin",
+    "fight",
+    "iran",
+    "negotiat",
+    "position",
+    "threat",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "aa8684f4a1818532"
+   ],
+   "key": "0b74db70e026",
+   "last_seen": "2026-11-04",
+   "title": "The transplanted Scot doing famous father proud in New Zealand",
+   "tokens": [
+    "doing",
+    "famou",
+    "father",
+    "proud",
+    "scot",
+    "transplant",
+    "zealand"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "b239fb3c2a697006"
+   ],
+   "key": "0c2c14fae0b0",
+   "last_seen": "2026-11-04",
+   "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+   "tokens": [
+    "contractor",
+    "ethiopia",
+    "fighter",
+    "gave",
+    "help",
+    "kill",
+    "secret",
+    "tigray",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "3dea91133e1e71d8"
+   ],
+   "key": "0d05e55fbeb6",
+   "last_seen": "2026-11-04",
+   "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to \u00a3355m",
+   "tokens": [
+    "355m",
+    "back",
+    "bounce",
+    "cyber-attack",
+    "profit",
+    "recover",
+    "takes",
+    "year"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "63bc1bd157ae1634"
+   ],
+   "key": "102f68874228",
+   "last_seen": "2026-11-04",
+   "title": "Canadian dollar pulls back from six-week high ahead of key jobs data",
+   "tokens": [
+    "ahead",
+    "back",
+    "canadian",
+    "data",
+    "dollar",
+    "high",
+    "jobs",
+    "key",
+    "pulls",
+    "six-week"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "aeb69efe12192b0e"
+   ],
+   "key": "104ca369c941",
+   "last_seen": "2026-11-04",
+   "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+   "tokens": [
+    "000",
+    "bmw",
+    "cost",
+    "count",
+    "cuts",
+    "job",
+    "plan",
+    "profit",
+    "warns"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "eda1c6c4c5da8ca0"
+   ],
+   "key": "104e7f1217d4",
+   "last_seen": "2026-11-04",
+   "title": "Gulf oil flows dip in October from post-Iran war high, data shows",
+   "tokens": [
+    "data",
+    "dip",
+    "flows",
+    "gulf",
+    "high",
+    "october",
+    "oil",
+    "post-iran",
+    "shows",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "1823d033433d15fa"
+   ],
+   "key": "11db78e32b04",
+   "last_seen": "2026-11-04",
+   "title": "Brazil economists raise inflation, rate forecasts after Lula reelection",
+   "tokens": [
+    "brazil",
+    "economist",
+    "forecast",
+    "inflation",
+    "lula",
+    "raise",
+    "rate",
+    "reelection"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "cc72df4dded0f3f9"
+   ],
+   "key": "13498dc105df",
+   "last_seen": "2026-11-04",
+   "title": "Thomson Reuters Reports Strong Third-Quarter Revenue Growth",
+   "tokens": [
+    "growth",
+    "report",
+    "reuter",
+    "revenue",
+    "strong",
+    "third-quarter",
+    "thomson"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f1c8fcafd09aef6b"
+   ],
+   "key": "1506a4c6165f",
+   "last_seen": "2026-11-04",
+   "title": "\u2018I will not delete my posts\u2019: Inside Uganda\u2019s crackdown on online critics",
+   "tokens": [
+    "crackdown",
+    "critic",
+    "delete",
+    "inside",
+    "my",
+    "online",
+    "posts",
+    "uganda"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "132c9995537c927a"
+   ],
+   "key": "16d0b983d09c",
+   "last_seen": "2026-11-04",
+   "title": "'Blue tsunami' in US midterms 'pummels GOP out of power'",
+   "tokens": [
+    "blue",
+    "gop",
+    "midterm",
+    "power",
+    "pummel",
+    "tsunami",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "04b9a0a082f1c0a5"
+   ],
+   "key": "1bf91a68bb80",
+   "last_published": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "title": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say, Asia News",
+   "tokens": [
+    "asia",
+    "attack",
+    "dron",
+    "east",
+    "erbil",
+    "iranian",
+    "iraq",
+    "kurdish",
+    "news",
+    "opposition",
+    "sourc",
+    "sulaymaniyah"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "34f12675acb359cd"
+   ],
+   "key": "1ced7e357a1a",
+   "last_seen": "2026-11-04",
+   "title": "Smith & Nephew fix requires bigger surgery",
+   "tokens": [
+    "bigger",
+    "fix",
+    "nephew",
+    "requir",
+    "smith",
+    "surgery"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "8c4ec9300281deb5"
+   ],
+   "key": "1d58d122c091",
+   "last_seen": "2026-11-04",
+   "title": "ANC faces anger over poor services as South Africans vote in local elections",
+   "tokens": [
+    "african",
+    "anc",
+    "anger",
+    "election",
+    "faces",
+    "local",
+    "poor",
+    "servic",
+    "south",
+    "vote"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f8c11d69e1a2da3f"
+   ],
+   "key": "1e42b91a714a",
+   "last_seen": "2026-11-04",
+   "title": "First secretary of state Louise Haigh to face deputy PMQs \u2013 UK politics live",
+   "tokens": [
+    "deputy",
+    "face",
+    "first",
+    "haigh",
+    "live",
+    "louise",
+    "pmqs",
+    "politic",
+    "secretary",
+    "state",
+    "uk"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "74348e45a10da403"
+   ],
+   "key": "1e914b147bbb",
+   "last_seen": "2026-11-04",
+   "title": "US midterms latest results: Mississippi Senate race 'neck and neck'",
+   "tokens": [
+    "latest",
+    "midterm",
+    "mississippi",
+    "neck",
+    "race",
+    "result",
+    "senate",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "08c9100b61f9128a"
+   ],
+   "key": "1ed9ae417492",
+   "last_seen": "2026-11-04",
+   "title": "GOP\u2019s redistricting gamble backfires in Florida as Democrats hold ground",
+   "tokens": [
+    "backfir",
+    "democrat",
+    "florida",
+    "gamble",
+    "gop",
+    "ground",
+    "hold",
+    "redistrict"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f91b9ef92800e111"
+   ],
+   "key": "243c25aea1ba",
+   "last_seen": "2026-11-04",
+   "title": "Iran war, Epstein, impeachment? What will Democrats do with control of Congress?",
+   "tokens": [
+    "congres",
+    "control",
+    "democrat",
+    "do",
+    "epstein",
+    "impeachment",
+    "iran",
+    "war",
+    "what"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "9da40c4ac151cc51"
+   ],
+   "key": "24430c2c0532",
+   "last_seen": "2026-11-04",
+   "title": "BMW cuts automotive outlook for second time as restructuring deepens",
+   "tokens": [
+    "automotive",
+    "bmw",
+    "cuts",
+    "deepen",
+    "outlook",
+    "restructur",
+    "second",
+    "time"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "752832b6a0d9a86f"
+   ],
+   "key": "253be9594a4c",
+   "last_seen": "2026-11-04",
+   "title": "Australian government defends social media ban for under 16s in court",
+   "tokens": [
+    "16s",
+    "australian",
+    "ban",
+    "court",
+    "defend",
+    "government",
+    "media",
+    "soci",
+    "under"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "cc628709110f3b3b"
+   ],
+   "key": "25b2fc2b1dbf",
+   "last_seen": "2026-11-04",
+   "title": "Thomson Reuters posts higher Q3 revenue, lifts 2026 forecast",
+   "tokens": [
+    "2026",
+    "forecast",
+    "higher",
+    "lifts",
+    "posts",
+    "q3",
+    "reuter",
+    "revenue",
+    "thomson"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "1d863921229f5a78"
+   ],
+   "key": "2741cdaa80d3",
+   "last_seen": "2026-11-04",
+   "title": "New Alberta bill would compel \u2018neutrality\u2019 for post-secondary institutions on political issues",
+   "tokens": [
+    "alberta",
+    "bill",
+    "compel",
+    "institution",
+    "issu",
+    "neutrality",
+    "politic",
+    "post-secondary"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "edb8906b5e7c916f"
+   ],
+   "key": "289e2f722055",
+   "last_seen": "2026-11-04",
+   "title": "Who holds the power today? Governments or corporations?",
+   "tokens": [
+    "corporation",
+    "government",
+    "holds",
+    "power",
+    "today"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "3a01358f2eceef57"
+   ],
+   "key": "2d81c289602f",
+   "last_seen": "2026-11-04",
+   "title": "Houthis\u2019 monthlong siege on Taiz creating misery for trapped Yemenis",
+   "tokens": [
+    "creat",
+    "houthi",
+    "misery",
+    "monthlong",
+    "siege",
+    "taiz",
+    "trapp",
+    "yemeni"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "28125238fb2758e7"
+   ],
+   "key": "2fb43712a1c3",
+   "last_seen": "2026-11-04",
+   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+   "tokens": [
+    "6.3bn",
+    "binance",
+    "crypto",
+    "fake",
+    "hack",
+    "interview",
+    "job",
+    "part",
+    "used"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "cecc82388389b917"
+   ],
+   "key": "30418f6ddfbc",
+   "last_seen": "2026-11-04",
+   "title": "US lawmakers, in letter, question McDonald\u2019s CEO about algorithmic pricing practices",
+   "tokens": [
+    "about",
+    "algorithmic",
+    "ceo",
+    "lawmaker",
+    "letter",
+    "mcdonald",
+    "practic",
+    "pric",
+    "question",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "1db69aa63206590e"
+   ],
+   "key": "30903f97590f",
+   "last_seen": "2026-11-04",
+   "title": "Midterms: Trump acknowledges role of Iran war, congratulates Dems",
+   "tokens": [
+    "acknowledg",
+    "congratulat",
+    "dems",
+    "iran",
+    "midterm",
+    "role",
+    "trump",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f60167342a55afc8"
+   ],
+   "key": "30ad5a0d5fb3",
+   "last_seen": "2026-11-04",
+   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+   "tokens": [
+    "android",
+    "attack",
+    "devic",
+    "exploit",
+    "hacker",
+    "ios",
+    "n-day",
+    "use",
+    "zero-click"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "5b4ae26ebf95ceee"
+   ],
+   "key": "32a4e16728cf",
+   "last_seen": "2026-11-04",
+   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+   "tokens": [
+    "6.3",
+    "billion",
+    "binance",
+    "crypto",
+    "fake",
+    "heist",
+    "interview",
+    "job",
+    "led"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "e1fb521819e82bf6"
+   ],
+   "key": "33865305639b",
+   "last_seen": "2026-11-04",
+   "title": "9 wolves killed on unfenced stretch of highway in Yoho National Park over 5 years",
+   "tokens": [
+    "highway",
+    "kill",
+    "nation",
+    "park",
+    "stretch",
+    "unfenc",
+    "wolv",
+    "years",
+    "yoho"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "07c82c5fc5d03d3e"
+   ],
+   "key": "34331b5ee934",
+   "last_seen": "2026-11-04",
+   "title": "Inmate charged with second-degree murder in man's 2024 death at Calgary Remand Centre",
+   "tokens": [
+    "2024",
+    "calgary",
+    "centre",
+    "charg",
+    "death",
+    "inmate",
+    "man",
+    "murder",
+    "remand",
+    "second-degree"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "3ef2f349ef5787b9"
+   ],
+   "key": "34cc8fc8de85",
+   "last_seen": "2026-11-04",
+   "title": "South Carolina elects Democratic senator for first time in almost three decades",
+   "tokens": [
+    "almost",
+    "carolina",
+    "decad",
+    "democratic",
+    "elect",
+    "first",
+    "senator",
+    "south",
+    "three",
+    "time"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "728985e6b3efb6e7"
+   ],
+   "key": "363c31f003fe",
+   "last_seen": "2026-11-04",
+   "title": "Meta raises $15 billion in five-part US bond sale to fund AI expansion",
+   "tokens": [
+    "15",
+    "ai",
+    "billion",
+    "bond",
+    "expansion",
+    "five-part",
+    "fund",
+    "meta",
+    "rais",
+    "sale",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "485688d6d0512359"
+   ],
+   "key": "37cfe07dbe7f",
+   "last_seen": "2026-11-04",
+   "title": "US midterms: South Korea\u2019s AI darlings become casualty of Democratic wave",
+   "tokens": [
+    "ai",
+    "become",
+    "casualty",
+    "darling",
+    "democratic",
+    "korea",
+    "midterm",
+    "south",
+    "us",
+    "wave"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "548f4201ff0beb48"
+   ],
+   "key": "389dbe7faa31",
+   "last_seen": "2026-11-04",
+   "title": "US voters back abortion rights and reject Trump's gerrymandering in state ballot measures",
+   "tokens": [
+    "abortion",
+    "back",
+    "ballot",
+    "gerrymander",
+    "measur",
+    "reject",
+    "right",
+    "state",
+    "trump",
+    "us",
+    "voter"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "818c6f8855366db2"
+   ],
+   "key": "3b57bb2ed767",
+   "last_seen": "2026-11-04",
+   "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
+   "tokens": [
+    "apple",
+    "foreign",
+    "german",
+    "lawmaker",
+    "policy",
+    "receiv",
+    "sever",
+    "spyware",
+    "staff",
+    "warning"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "93ef87e017696a37"
+   ],
+   "key": "3ba153300f14",
+   "last_seen": "2026-11-04",
+   "title": "Houses of Parliament at risk of \u2018Notre Dame-style fire\u2019 as renovation costs rise",
+   "tokens": [
+    "costs",
+    "dame-style",
+    "fire",
+    "hous",
+    "notre",
+    "parliament",
+    "renovation",
+    "rise",
+    "risk"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "ed5d10bf28490ab4"
+   ],
+   "key": "3ec749fb3de0",
+   "last_published": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+   "tokens": [
+    "apologis",
+    "child",
+    "refuge",
+    "russian",
+    "study",
+    "told",
+    "uk",
+    "ukrainian"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f21df90c3b26b6a8"
+   ],
+   "key": "4016cc84a938",
+   "last_seen": "2026-11-04",
+   "title": "Kate McClymont questioned over \u2018nail in the coffin\u2019 and poo emoji texts at Alan Jones trial",
+   "tokens": [
+    "alan",
+    "coffin",
+    "emoji",
+    "jones",
+    "kate",
+    "mcclymont",
+    "nail",
+    "poo",
+    "question",
+    "texts",
+    "trial"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "57cbc14d8bc311c3"
+   ],
+   "key": "40734f66072a",
+   "last_published": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "title": "Aukus is \u2018worst, riskiest and most costly\u2019 Australian defence decision ever, public inquiry into submarine deal says",
+   "tokens": [
+    "aukus",
+    "australian",
+    "costly",
+    "deal",
+    "decision",
+    "defence",
+    "ever",
+    "inquiry",
+    "most",
+    "public",
+    "riskiest",
+    "submarine",
+    "worst"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "bb920ac3c7fb35f3"
+   ],
+   "key": "414417136187",
+   "last_seen": "2026-11-04",
+   "title": "Correction on our previous reporting on charges faced by Alberta hockey executive",
+   "tokens": [
+    "alberta",
+    "charg",
+    "correction",
+    "executive",
+    "faced",
+    "hockey",
+    "our",
+    "previou",
+    "report"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "b4b379025af6ad55"
+   ],
+   "key": "41cda7dc00dc",
+   "last_seen": "2026-11-04",
+   "title": "Thomson Reuters Stock (TRI) Falls 7% After Earnings Miss on the Top and Bottom Lines",
+   "tokens": [
+    "bottom",
+    "earning",
+    "falls",
+    "lines",
+    "miss",
+    "reuter",
+    "stock",
+    "thomson",
+    "top",
+    "tri"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f831f45dc02ebbc6"
+   ],
+   "key": "467c67f74d42",
+   "last_seen": "2026-11-04",
+   "title": "British businesses caught in Europe-wide supermarket fridge attacks",
+   "tokens": [
+    "attack",
+    "british",
+    "business",
+    "caught",
+    "europe-wide",
+    "fridge",
+    "supermarket"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "163a76b4a79623e5"
+   ],
+   "key": "48fc483b084a",
+   "last_seen": "2026-11-04",
+   "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
+   "tokens": [
+    "2026",
+    "congres",
+    "control",
+    "democrat",
+    "election",
+    "live",
+    "midterm",
+    "punish",
+    "trump",
+    "updat",
+    "us",
+    "voter",
+    "win"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a6341236dff5ad83"
+   ],
+   "key": "4b5ac2af581a",
+   "last_seen": "2026-11-04",
+   "title": "NEWSLETTER: Data center opposition hits the ballot box",
+   "tokens": [
+    "ballot",
+    "box",
+    "center",
+    "data",
+    "hits",
+    "newsletter",
+    "opposition"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "58e6aad3debc8be6",
+    "a524e24905add8ad",
+    "b2a51463b5265fc8",
+    "f0a83027186c7c6b"
+   ],
+   "key": "4b5b529b0b1e",
+   "last_published": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
+   "tokens": [
+    "abdul",
+    "become",
+    "democrat",
+    "el-say",
+    "election",
+    "first",
+    "michigan",
+    "muslim",
+    "progressive",
+    "race",
+    "senate",
+    "senator",
+    "set",
+    "us",
+    "win",
+    "winn",
+    "wins"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "15a5a7e336b5417d",
+    "affea5ad4694f58a"
+   ],
+   "key": "4c99ab95d290",
+   "last_seen": "2026-11-04",
+   "title": "Markets react with caution to Democrats' victory in US midterms",
+   "tokens": [
+    "caution",
+    "democrat",
+    "market",
+    "midterm",
+    "react",
+    "sweep",
+    "trump",
+    "us",
+    "victory"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "9ada2aff8c58c607"
+   ],
+   "key": "4cc3846d0520",
+   "last_seen": "2026-11-04",
+   "title": "How America voted in maps and charts",
+   "tokens": [
+    "america",
+    "chart",
+    "how",
+    "maps",
+    "voted"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "e4e3580096b71b61"
+   ],
+   "key": "4ce8dddfccca",
+   "last_seen": "2026-11-04",
+   "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+   "tokens": [
+    "autoupdate",
+    "backdoor",
+    "cpguard",
+    "data",
+    "deploy",
+    "hacker",
+    "hijack",
+    "steal"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "1a9b67e793ca3d82"
+   ],
+   "key": "4d2af5499593",
+   "last_seen": "2026-11-04",
+   "title": "How sporting events are being affected by Middle East conflict",
+   "tokens": [
+    "affect",
+    "being",
+    "conflict",
+    "east",
+    "event",
+    "how",
+    "middle",
+    "sport"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "025b7628545b9a87"
+   ],
+   "key": "4e0a0914968f",
+   "last_published": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+   "tokens": [
+    "another",
+    "attack",
+    "bear",
+    "canada",
+    "dead",
+    "grizzly",
+    "miss",
+    "one",
+    "suspect"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "cf8f9fc5949e8f9b"
+   ],
+   "key": "4ef554a6e976",
+   "last_seen": "2026-11-04",
+   "title": "Bundesbank's Nagel joins ECB chorus backing December rate hike",
+   "tokens": [
+    "back",
+    "bundesbank",
+    "choru",
+    "december",
+    "ecb",
+    "hike",
+    "joins",
+    "nagel",
+    "rate"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "69a01cf4e85a1363"
+   ],
+   "key": "50d1ddb38258",
+   "last_seen": "2026-11-04",
+   "title": "Wawira Njiru \u2014 Kenya's No. 1 school feeder honored with the German Africa Prize",
+   "tokens": [
+    "africa",
+    "feeder",
+    "german",
+    "honor",
+    "kenya",
+    "njiru",
+    "no.",
+    "prize",
+    "school",
+    "wawira"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "2c30d2fb6dfd6b30"
+   ],
+   "key": "51aef1d2a055",
+   "last_seen": "2026-11-04",
+   "title": "'The mood got better and better as the night went on': Dems celebrate midterms victory",
+   "tokens": [
+    "better",
+    "celebrate",
+    "dems",
+    "got",
+    "midterm",
+    "mood",
+    "night",
+    "victory",
+    "went"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "9f27da70ccbf0833"
+   ],
+   "key": "572cad719fc7",
+   "last_seen": "2026-11-04",
+   "title": "Ethiopia expands hydropower ambitions",
+   "tokens": [
+    "ambition",
+    "ethiopia",
+    "expand",
+    "hydropower"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "b0820a75f17e0727"
+   ],
+   "key": "58450ad51164",
+   "last_seen": "2026-11-04",
+   "title": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say",
+   "tokens": [
+    "exclusive",
+    "fractur",
+    "intelligence",
+    "official",
+    "shar",
+    "trump",
+    "under",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "56710b0014f1e888"
+   ],
+   "key": "58edfd46dfff",
+   "last_seen": "2026-11-04",
+   "title": "Georgia elects first Black woman governor in US",
+   "tokens": [
+    "black",
+    "elect",
+    "first",
+    "georgia",
+    "governor",
+    "us",
+    "woman"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "556ad7a9566ea6e0"
+   ],
+   "key": "5ed31c465f28",
+   "last_seen": "2026-11-04",
+   "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
+   "tokens": [
+    "achiev",
+    "border",
+    "china",
+    "diplomatic",
+    "flar",
+    "india",
+    "now",
+    "thaw."
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "3ec7659fde9ab39e"
+   ],
+   "key": "671a55be9da9",
+   "last_seen": "2026-11-04",
+   "title": "ANC under pressure to reverse South Africa decline",
+   "tokens": [
+    "africa",
+    "anc",
+    "decline",
+    "pressure",
+    "reverse",
+    "south",
+    "under"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "e91237d527b6310c"
+   ],
+   "key": "690097efa62b",
+   "last_seen": "2026-11-04",
+   "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+   "tokens": [
+    "anthony",
+    "deep",
+    "democrat",
+    "heartland",
+    "historic",
+    "night",
+    "push",
+    "trump",
+    "zurcher"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "7f73850f4c6bc12a"
+   ],
+   "key": "697829b86310",
+   "last_seen": "2026-11-04",
+   "title": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+   "tokens": [
+    "alex",
+    "good",
+    "honour",
+    "memorial",
+    "minnesota",
+    "pretti",
+    "renee",
+    "voter"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "d4e7b6abcd028906"
+   ],
+   "key": "6bab6b104217",
+   "last_seen": "2026-11-04",
+   "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+   "tokens": [
+    "biggest",
+    "follow",
+    "iran",
+    "israel",
+    "region",
+    "see",
+    "survey",
+    "syrian",
+    "threat"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "c61af5d442117c92"
+   ],
+   "key": "709d652426da",
+   "last_seen": "2026-11-04",
+   "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+   "tokens": [
+    "2026",
+    "50",
+    "all",
+    "election",
+    "governor",
+    "house",
+    "live",
+    "midterm",
+    "races",
+    "result",
+    "senate",
+    "stat",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "878860fdbba849ce"
+   ],
+   "key": "716873544ad6",
+   "last_seen": "2026-11-04",
+   "title": "30 million South Africans registered to vote across nine provinces",
+   "tokens": [
+    "30",
+    "acros",
+    "african",
+    "million",
+    "nine",
+    "provinc",
+    "register",
+    "south",
+    "vote"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "fa9e25f065164d6d"
+   ],
+   "key": "7a18003ce19e",
+   "last_seen": "2026-11-04",
+   "title": "\u2018A true icon of the hair industry\u2019: celebrity hairstylist John Frieda dies aged 75",
+   "tokens": [
+    "75",
+    "aged",
+    "celebrity",
+    "dies",
+    "frieda",
+    "hair",
+    "hairstylist",
+    "icon",
+    "industry",
+    "john",
+    "true"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "20883f5eb826b9ce"
+   ],
+   "key": "7ab88c2a7ee7",
+   "last_seen": "2026-11-04",
+   "title": "Mediators Set Up De-Escalation Channels Ahead of US-Iran Talks, Source Says",
+   "tokens": [
+    "ahead",
+    "channel",
+    "de-escalation",
+    "mediator",
+    "set",
+    "source",
+    "talks",
+    "us-iran"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f47e5bd752bd7830"
+   ],
+   "key": "7ac9f6d3ae71",
+   "last_published": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+   "tokens": [
+    "1988",
+    "becom",
+    "democrat",
+    "first",
+    "james",
+    "seat",
+    "senate",
+    "since",
+    "talarico",
+    "texas",
+    "win"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "9a680908a896fd0c"
+   ],
+   "key": "7b37bf6296c9",
+   "last_seen": "2026-11-04",
+   "title": "Abdul El-Sayed becomes first Muslim US senator: Defeats Republican candidate Mike Rogers; helps Democrats r...",
+   "tokens": [
+    "abdul",
+    "becom",
+    "candidate",
+    "defeat",
+    "democrat",
+    "el-say",
+    "first",
+    "helps",
+    "mike",
+    "muslim",
+    "r...",
+    "republican",
+    "roger",
+    "senator",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "15c0b8c726da53cb"
+   ],
+   "key": "81ca6f2ff564",
+   "last_seen": "2026-11-04",
+   "title": "Woman charged over alleged stalking and attempted extortion of Greens senator Jordon Steele-John",
+   "tokens": [
+    "alleg",
+    "attempt",
+    "charg",
+    "extortion",
+    "green",
+    "jordon",
+    "senator",
+    "stalk",
+    "steele-john",
+    "woman"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "9d1631aab823e8d2"
+   ],
+   "key": "8353508c9d9b",
+   "last_seen": "2026-11-04",
+   "title": "Canada will bar Russians from competing at ice hockey tournament, says Carney",
+   "tokens": [
+    "bar",
+    "canada",
+    "carney",
+    "compet",
+    "hockey",
+    "ice",
+    "russian",
+    "tournament"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f6c2feff50ff7e86"
+   ],
+   "key": "872de7701c03",
+   "last_seen": "2026-11-04",
+   "title": "Key takeaways from the 2026 midterm elections in California",
+   "tokens": [
+    "2026",
+    "california",
+    "election",
+    "key",
+    "midterm",
+    "takeaway"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "b7e92dea7cec8275"
+   ],
+   "key": "89b6117df947",
+   "last_seen": "2026-11-04",
+   "title": "Democrats sweep into control of Congress after historic midterm victories | First Thing",
+   "tokens": [
+    "congres",
+    "control",
+    "democrat",
+    "first",
+    "historic",
+    "midterm",
+    "sweep",
+    "thing",
+    "victori"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a19eb6da44d1be5c"
+   ],
+   "key": "89de02c86210",
+   "last_seen": "2026-11-04",
+   "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+   "tokens": [
+    "africa",
+    "army",
+    "league",
+    "nba",
+    "remov",
+    "rwanda",
+    "sanction",
+    "team",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "2ed33e9de98525cb",
+    "4b37491524332a83",
+    "f39873dd6096280f"
+   ],
+   "key": "8a1c69827e98",
+   "last_seen": "2026-11-04",
+   "title": "Multiple flights to European airports targeted by bomb threats",
+   "tokens": [
+    "acros",
+    "airport",
+    "bomb",
+    "disrupt",
+    "europe",
+    "european",
+    "flight",
+    "multiple",
+    "seven",
+    "suspect",
+    "target",
+    "threat"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "1c226ca6f20d79c1"
+   ],
+   "key": "8fa357138442",
+   "last_seen": "2026-11-04",
+   "title": "Five flights in Europe receive bomb threats on the same day, Reuters reports",
+   "tokens": [
+    "bomb",
+    "day",
+    "europe",
+    "five",
+    "flight",
+    "receive",
+    "report",
+    "reuter",
+    "same",
+    "threat"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "25e5bb6556bee581"
+   ],
+   "key": "916a70abcd00",
+   "last_seen": "2026-11-04",
+   "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+   "tokens": [
+    "ai",
+    "attack",
+    "charg",
+    "cloud",
+    "google",
+    "llmjack",
+    "million",
+    "rack"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "e26955f805eb3b0c"
+   ],
+   "key": "92a759792d99",
+   "last_seen": "2026-11-04",
+   "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+   "tokens": [
+    "back",
+    "came",
+    "drama",
+    "ever",
+    "kardashian",
+    "kim",
+    "tv",
+    "why",
+    "worst"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "d12948bb96e25ca3"
+   ],
+   "key": "95bee46cbcd2",
+   "last_seen": "2026-11-04",
+   "title": "As city eyes plans to extend Green Line, some councillors want more immediate transit solutions",
+   "tokens": [
+    "city",
+    "councillor",
+    "extend",
+    "eyes",
+    "green",
+    "immediate",
+    "line",
+    "plans",
+    "solution",
+    "some",
+    "transit",
+    "want"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f05f8f0f72b6f9c4"
+   ],
+   "key": "9a2e20db4463",
+   "last_seen": "2026-11-04",
+   "title": "Champions League: Paris Saint-Germain make easy work of Villarreal",
+   "tokens": [
+    "champion",
+    "easy",
+    "league",
+    "make",
+    "paris",
+    "saint-germain",
+    "villarre",
+    "work"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "70555a721db157c3"
+   ],
+   "key": "9a8aad118e0b",
+   "last_seen": "2026-11-04",
+   "title": "'A generational win' for Dems as blue wave sweeps midterms",
+   "tokens": [
+    "blue",
+    "dems",
+    "generation",
+    "midterm",
+    "sweep",
+    "wave",
+    "win"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "0a545d76244e09bb"
+   ],
+   "key": "9ba74008435d",
+   "last_seen": "2026-11-04",
+   "title": "Google dismantles massive botnet hidden in Android TV boxes",
+   "tokens": [
+    "android",
+    "botnet",
+    "boxes",
+    "dismantl",
+    "google",
+    "hidden",
+    "massive",
+    "tv"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "c711712980208eec"
+   ],
+   "key": "9c6079dff2b1",
+   "last_seen": "2026-11-04",
+   "title": "First 10 Australian songs inducted into the National Songbook after \u2018very robust\u2019 judging",
+   "tokens": [
+    "10",
+    "australian",
+    "first",
+    "induct",
+    "judg",
+    "nation",
+    "robust",
+    "songbook",
+    "songs",
+    "very"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "0ae730cdf370f22c"
+   ],
+   "key": "9d0c27bc8f7f",
+   "last_seen": "2026-11-04",
+   "title": "Can Russia compete with the US, China and the EU in Africa?",
+   "tokens": [
+    "africa",
+    "can",
+    "china",
+    "compete",
+    "eu",
+    "russia",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "41afffc9e9cc2e56"
+   ],
+   "key": "a3b315bc17d4",
+   "last_seen": "2026-11-04",
+   "title": "Florida Republicans fend off Democrats as state elects first black governor",
+   "tokens": [
+    "black",
+    "democrat",
+    "elect",
+    "fend",
+    "first",
+    "florida",
+    "governor",
+    "off",
+    "republican",
+    "state"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "81a49289c587e9f0"
+   ],
+   "key": "a4a5eea89fff",
+   "last_seen": "2026-11-04",
+   "title": "\u2018Rejecting hate\u2019: Abdul El-Sayed wins Senate seat despite racist attacks",
+   "tokens": [
+    "abdul",
+    "attack",
+    "despite",
+    "el-say",
+    "hate",
+    "racist",
+    "reject",
+    "seat",
+    "senate",
+    "wins"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "f2b628edb58a7136"
+   ],
+   "key": "a5085f2c66ef",
+   "last_seen": "2026-11-04",
+   "title": "From Kansas to Texas, Democrats win big in Republican heartlands",
+   "tokens": [
+    "big",
+    "democrat",
+    "heartland",
+    "kansa",
+    "republican",
+    "texas",
+    "win"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "aebc885cd0f482dc"
+   ],
+   "key": "a76879d9d480",
+   "last_seen": "2026-11-04",
+   "title": "US midterms bring surge of historic firsts for women and members of minority groups",
+   "tokens": [
+    "bring",
+    "first",
+    "group",
+    "historic",
+    "member",
+    "midterm",
+    "minority",
+    "surge",
+    "us",
+    "women"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "3117fc864d8706ec"
+   ],
+   "key": "ab5d6bb4ff95",
+   "last_seen": "2026-11-04",
+   "title": "Indonesian president\u2019s chief of staff dismissed over alleged wiretapping",
+   "tokens": [
+    "alleg",
+    "chief",
+    "dismiss",
+    "indonesian",
+    "president",
+    "staff",
+    "wiretapp"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "75b7b3bc3ef7483c"
+   ],
+   "key": "ab953e3e8654",
+   "last_seen": "2026-11-04",
+   "title": "Firework noise limit should be drastically cut to protect wild animals, UK government told",
+   "tokens": [
+    "animal",
+    "cut",
+    "drastically",
+    "firework",
+    "government",
+    "limit",
+    "noise",
+    "protect",
+    "should",
+    "told",
+    "uk",
+    "wild"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "1d432a41a46f72ba"
+   ],
+   "key": "b09dca0a9724",
+   "last_seen": "2026-11-04",
+   "title": "Oil prices climb amid uncertainty over Iran war, US political shift",
+   "tokens": [
+    "climb",
+    "iran",
+    "oil",
+    "politic",
+    "pric",
+    "shift",
+    "uncertainty",
+    "us",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "615b7b982cb15b63"
+   ],
+   "key": "b0c5f7806029",
+   "last_seen": "2026-11-04",
+   "title": "Exclusive-Ambani's Jio explores tech-for-equity talks with Comcast and Charter, sources say",
+   "tokens": [
+    "charter",
+    "comcast",
+    "exclusive-ambani",
+    "explor",
+    "jio",
+    "sourc",
+    "talks",
+    "tech-for-equity"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "84bd2682f93a0670"
+   ],
+   "key": "b220e11de334",
+   "last_seen": "2026-11-04",
+   "title": "Leaders from rural Alberta municipalities gather in Edmonton, raise concerns to premier",
+   "tokens": [
+    "alberta",
+    "concern",
+    "edmonton",
+    "gather",
+    "leader",
+    "municipaliti",
+    "premier",
+    "raise",
+    "rural"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "3b6ab8d64292daa1"
+   ],
+   "key": "b6cd16624fde",
+   "last_seen": "2026-11-04",
+   "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+   "tokens": [
+    "bar",
+    "exam",
+    "kardashian",
+    "kim",
+    "quitter",
+    "retak"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "601829d838173386"
+   ],
+   "key": "baa9eb9aecfb",
+   "last_seen": "2026-11-04",
+   "title": "\u2018Not been this excited in a long time\u2019: US expats ride the blue wave at Australian midterms watch parties",
+   "tokens": [
+    "australian",
+    "been",
+    "blue",
+    "excit",
+    "expat",
+    "long",
+    "midterm",
+    "parti",
+    "ride",
+    "time",
+    "us",
+    "watch",
+    "wave"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "1e7fe7c1f8d3c94e"
+   ],
+   "key": "bb43c5f25431",
+   "last_seen": "2026-11-04",
+   "title": "Alberta to lawyer up if NDP challenges electoral boundary report: Smith",
+   "tokens": [
+    "alberta",
+    "boundary",
+    "challeng",
+    "elector",
+    "if",
+    "lawyer",
+    "ndp",
+    "report",
+    "smith"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "847d94d16f5c2e7d"
+   ],
+   "key": "bd952d25f8a1",
+   "last_seen": "2026-11-04",
+   "title": "US dollar slides after Democrats\u2019 midterm election win as growth fears rise",
+   "tokens": [
+    "democrat",
+    "dollar",
+    "election",
+    "fears",
+    "growth",
+    "midterm",
+    "rise",
+    "slid",
+    "us",
+    "win"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "04f335e35da90b5f"
+   ],
+   "key": "c1990d88d249",
+   "last_seen": "2026-11-04",
+   "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+   "tokens": [
+    "against",
+    "canada",
+    "coalition",
+    "hockey",
+    "ice",
+    "joins",
+    "play",
+    "refus",
+    "russia",
+    "ukraine",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "88e3a96a20af2380"
+   ],
+   "key": "c2b2deb3eee1",
+   "last_seen": "2026-11-04",
+   "title": "Democrat Annie Andrews wins US Senate seat in South Carolina upset",
+   "tokens": [
+    "andrew",
+    "annie",
+    "carolina",
+    "democrat",
+    "seat",
+    "senate",
+    "south",
+    "upset",
+    "us",
+    "wins"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "6c23037cb425e862"
+   ],
+   "key": "c554fb88e765",
+   "last_seen": "2026-11-04",
+   "title": "CVS will split up its pharmacy and insurance business into two companies, WSJ says",
+   "tokens": [
+    "busines",
+    "compani",
+    "cvs",
+    "insurance",
+    "pharmacy",
+    "split",
+    "two",
+    "wsj"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "7a9ca277cb2c9de4"
+   ],
+   "key": "cd25a32769c8",
+   "last_seen": "2026-11-04",
+   "title": "South Korea pushes digital detox for young people addicted to screens",
+   "tokens": [
+    "addict",
+    "detox",
+    "digit",
+    "korea",
+    "people",
+    "push",
+    "screen",
+    "south",
+    "young"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a920eabaab95b49b"
+   ],
+   "key": "cf22437d7893",
+   "last_seen": "2026-11-04",
+   "title": "Another round of water restrictions starts as Calgary's replacement pipe nears finish line",
+   "tokens": [
+    "another",
+    "calgary",
+    "finish",
+    "line",
+    "nears",
+    "pipe",
+    "replacement",
+    "restriction",
+    "round",
+    "start",
+    "water"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "6a0e74aca0b34716"
+   ],
+   "key": "d08c1d984d86",
+   "last_seen": "2026-11-04",
+   "title": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
+   "tokens": [
+    "arab",
+    "chad",
+    "distrust",
+    "face",
+    "flee",
+    "hostility",
+    "refuge",
+    "sudanese"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a3299f33a927a30e"
+   ],
+   "key": "d2d0478e156d",
+   "last_seen": "2026-11-04",
+   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "tokens": [
+    "ahead",
+    "air",
+    "delhi",
+    "diwali",
+    "enter",
+    "firework",
+    "force",
+    "quality",
+    "restriction",
+    "worsen"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "ef7c90f07cb16ca0"
+   ],
+   "key": "d3a7ea44f239",
+   "last_seen": "2026-11-04",
+   "title": "\u2018The point was to dehumanise\u2019: London Holocaust archive examines world\u2019s first \u2018viral\u2019 antisemitism scandal",
+   "tokens": [
+    "antisemitism",
+    "archive",
+    "dehumanise",
+    "examin",
+    "first",
+    "holocaust",
+    "london",
+    "point",
+    "scand",
+    "viral",
+    "world"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "e4c76261043ef8a7"
+   ],
+   "key": "d85abeca5264",
+   "last_seen": "2026-11-04",
+   "title": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
+   "tokens": [
+    "collin",
+    "democrat",
+    "jackson",
+    "maine",
+    "republican",
+    "senator",
+    "susan",
+    "troy",
+    "unseat"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a143994be5486339"
+   ],
+   "key": "d8b09ef56961",
+   "last_seen": "2026-11-04",
+   "title": "EU to lead talks on support for Ukraine with US, Nato, partners \u2013 Europe live",
+   "tokens": [
+    "eu",
+    "europe",
+    "lead",
+    "live",
+    "nato",
+    "partner",
+    "support",
+    "talks",
+    "ukraine",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "bd1aee5121d935c5"
+   ],
+   "key": "da35fb0394c1",
+   "last_seen": "2026-11-04",
+   "title": "Iran's chief negotiator says Americans voted 'no to war'",
+   "tokens": [
+    "american",
+    "chief",
+    "iran",
+    "negotiator",
+    "no",
+    "voted",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "206e3a8608a1af6d"
+   ],
+   "key": "db53c363bf83",
+   "last_seen": "2026-11-04",
+   "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+   "tokens": [
+    "artillery",
+    "bottle",
+    "china",
+    "disput",
+    "guinea",
+    "papua",
+    "report",
+    "shell",
+    "weapon",
+    "wine"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "62c15a814bbd30da"
+   ],
+   "key": "db6ee6d3236d",
+   "last_seen": "2026-11-04",
+   "title": "Democrat from Kansas elected to US Senate for first time since 1932",
+   "tokens": [
+    "1932",
+    "democrat",
+    "elect",
+    "first",
+    "kansa",
+    "senate",
+    "since",
+    "time",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "06122f8ea1f5e9c3"
+   ],
+   "key": "dce16ae34b11",
+   "last_seen": "2026-11-04",
+   "title": "Photos: US Democrats celebrate winning control of Congress",
+   "tokens": [
+    "celebrate",
+    "congres",
+    "control",
+    "democrat",
+    "photo",
+    "us",
+    "winn"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "9daf35c2597bdc10"
+   ],
+   "key": "df88bab4ea56",
+   "last_seen": "2026-11-04",
+   "title": "Israel vote results confirmed as election commission rejects fraud claims",
+   "tokens": [
+    "claim",
+    "commission",
+    "confirm",
+    "election",
+    "fraud",
+    "israel",
+    "reject",
+    "result",
+    "vote"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "d2fefe33a1f443a4"
+   ],
+   "key": "e81b5e6682dd",
+   "last_seen": "2026-11-04",
+   "title": "Palestinians return to ruined Hebron homes after Israel\u2019s 10-day siege",
+   "tokens": [
+    "10-day",
+    "hebron",
+    "homes",
+    "israel",
+    "palestinian",
+    "return",
+    "ruin",
+    "siege"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "5ff572312ee7c6c0"
+   ],
+   "key": "e84b962e631b",
+   "last_seen": "2026-11-04",
+   "title": "Oil edges down as investors await US midterm election results",
+   "tokens": [
+    "await",
+    "down",
+    "edges",
+    "election",
+    "investor",
+    "midterm",
+    "oil",
+    "result",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "3060f906634c794a"
+   ],
+   "key": "e85709f82040",
+   "last_seen": "2026-11-04",
+   "title": "DR Congo residents sue Chinese mining giant for widespread pollution",
+   "tokens": [
+    "chinese",
+    "congo",
+    "dr",
+    "giant",
+    "min",
+    "pollution",
+    "resident",
+    "sue",
+    "widespread"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "ad306d4356642c93"
+   ],
+   "key": "eb7b9f198ab7",
+   "last_seen": "2026-11-04",
+   "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+   "tokens": [
+    "captur",
+    "escap",
+    "killer",
+    "manhunt",
+    "prison",
+    "tennessee",
+    "week-long"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "45f1dc4bafd4cc31"
+   ],
+   "key": "ecb67bf6fa45",
+   "last_seen": "2026-11-04",
+   "title": "Why Democrats may struggle to rein in Trump\u2019s foreign policy",
+   "tokens": [
+    "democrat",
+    "foreign",
+    "policy",
+    "rein",
+    "struggle",
+    "trump",
+    "why"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "24178701b735c766"
+   ],
+   "key": "f393502dd3c4",
+   "last_seen": "2026-11-04",
+   "title": "\u2018Call me senator\u2019: How Abdul El-Sayed beat Trump\u2019s hate to create history",
+   "tokens": [
+    "abdul",
+    "beat",
+    "call",
+    "create",
+    "el-say",
+    "hate",
+    "history",
+    "how",
+    "me",
+    "senator",
+    "trump"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "dba14e34b47eb5db"
+   ],
+   "key": "f4242382f03f",
+   "last_seen": "2026-11-04",
+   "title": "A billionaire with ties to Trump plans to acquire Lukoil's international assets \u2013 Reuters",
+   "tokens": [
+    "acquire",
+    "asset",
+    "billionaire",
+    "internation",
+    "lukoil",
+    "plans",
+    "reuter",
+    "ties",
+    "trump"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a0be763ba7fe47a5"
+   ],
+   "key": "f63572e6f340",
+   "last_seen": "2026-11-04",
+   "title": "South Africa's EV sales this year race past last year's total",
+   "tokens": [
+    "africa",
+    "ev",
+    "last",
+    "past",
+    "race",
+    "sales",
+    "south",
+    "total",
+    "year"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "6ae44b3654c5a907"
+   ],
+   "key": "f958c1063842",
+   "last_seen": "2026-11-04",
+   "title": "OpenAI employees warned about operational security lapses for years, sources say",
+   "tokens": [
+    "about",
+    "employe",
+    "laps",
+    "openai",
+    "operation",
+    "security",
+    "sourc",
+    "warn",
+    "years"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "a13d006911e3a6a9"
+   ],
+   "key": "fa41520b71fd",
+   "last_seen": "2026-11-04",
+   "title": "Thomson Reuters Earnings Call Highlights AI-Fueled Growth",
+   "tokens": [
+    "ai-fuel",
+    "call",
+    "earning",
+    "growth",
+    "highlight",
+    "reuter",
+    "thomson"
+   ]
+  },
+  {
+   "first_seen": "2026-11-04",
+   "item_ids": [
+    "915697c807d29423"
+   ],
+   "key": "fc42bf17d918",
+   "last_seen": "2026-11-04",
+   "title": "Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
+   "tokens": [
+    "chemical",
+    "fund",
+    "japan",
+    "jic",
+    "jsr",
+    "mitsui",
+    "plans",
+    "sell",
+    "sourc"
+   ]
   }
  ],
  "http": {
   "aljazeera": {
-   "etag": "W/\"aabdfe14718098417bd4bd3ac043fcdc\"",
-   "last_modified": "Tue, 03 Nov 2026 17:15:43 GMT"
+   "etag": "W/\"cf0b4390a2f9c3a7672f90113f8e9b05\"",
+   "last_modified": "Wed, 04 Nov 2026 11:55:43 GMT"
   },
   "bbc_world": {
    "etag": null,
@@ -17945,7 +20597,7 @@
   },
   "bleepingcomputer": {
    "etag": null,
-   "last_modified": "Tue, 03 Nov 2026 17:16:21 GMT"
+   "last_modified": "Wed, 04 Nov 2026 12:02:59 GMT"
   },
   "cbc_calgary": {
    "etag": null,
@@ -17968,15 +20620,15 @@
    "last_modified": null
   },
   "gac_travel": {
-   "etag": "\"d2d33ed1b46bdd1:0\"",
-   "last_modified": "Tue, 03 Nov 2026 17:00:23 GMT"
+   "etag": "\"ea3a8081e16bdd1:0\"",
+   "last_modified": "Tue, 03 Nov 2026 22:20:17 GMT"
   },
   "gdacs": {
-   "etag": "\"eed3c2f2b66bdd1:0\"",
-   "last_modified": "Tue, 03 Nov 2026 17:15:39 GMT"
+   "etag": "\"8fe09d65536cdd1:0\"",
+   "last_modified": "Wed, 04 Nov 2026 11:55:33 GMT"
   },
   "guardian_world": {
-   "etag": "W/\"hash-412465334976854523\"",
+   "etag": "W/\"hash8653326724789180322\"",
    "last_modified": null
   },
   "reuters_gn": {
@@ -17984,8 +20636,8 @@
    "last_modified": null
   },
   "sans_isc": {
-   "etag": "\"1b47-65f628709a4a7\"",
-   "last_modified": "Tue, 03 Nov 2026 17:23:57 GMT"
+   "etag": "\"1b47-65f722c7a41c6\"",
+   "last_modified": "Wed, 04 Nov 2026 12:03:57 GMT"
   },
   "therecord": {
    "etag": null,
@@ -17993,7 +20645,7 @@
   },
   "usgs_sig": {
    "etag": null,
-   "last_modified": "Tue, 03 Nov 2026 17:25:08 GMT"
+   "last_modified": "Wed, 04 Nov 2026 12:04:46 GMT"
   }
  },
  "spend": {
@@ -18002,6 +20654,7 @@
   "2026-10-31": 0.0,
   "2026-11-01": 0.0,
   "2026-11-02": 0.0,
-  "2026-11-03": 0.0
+  "2026-11-03": 0.0,
+  "2026-11-04": 0.0
  }
 }

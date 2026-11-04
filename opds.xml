@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
 <id>urn:daily-wire:catalog</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-03T17:25:29.632239+00:00</updated>
+<updated>2026-11-04T12:05:29.118548+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" href="opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <link rel="start" href="opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry><id>urn:daily-wire:2026-11-04</id><title>Campfire Transmissions 2026-11-04</title><updated>2026-11-04T12:05:29.118548+00:00</updated><dc:language>en</dc:language><dc:issued>2026-11-04</dc:issued><summary>llm edition, 231 words</summary><link rel="http://opds-spec.org/acquisition" href="editions/briefing-2026-11-04.epub" type="application/epub+zip" length="4541"/></entry>
 <entry><id>urn:daily-wire:2026-11-03</id><title>Campfire Transmissions 2026-11-03</title><updated>2026-11-03T17:25:29.632239+00:00</updated><dc:language>en</dc:language><dc:issued>2026-11-03</dc:issued><summary>llm edition, 249 words</summary><link rel="http://opds-spec.org/acquisition" href="editions/briefing-2026-11-03.epub" type="application/epub+zip" length="4076"/></entry>
 <entry><id>urn:daily-wire:2026-11-02</id><title>Campfire Transmissions 2026-11-02</title><updated>2026-11-02T18:26:37.103562+00:00</updated><dc:language>en</dc:language><dc:issued>2026-11-02</dc:issued><summary>llm edition, 245 words</summary><link rel="http://opds-spec.org/acquisition" href="editions/briefing-2026-11-02.epub" type="application/epub+zip" length="4737"/></entry>
 <entry><id>urn:daily-wire:2026-11-01</id><title>Campfire Transmissions 2026-11-01</title><updated>2026-11-01T16:05:37.750454+00:00</updated><dc:language>en</dc:language><dc:issued>2026-11-01</dc:issued><summary>llm edition, 285 words</summary><link rel="http://opds-spec.org/acquisition" href="editions/briefing-2026-11-01.epub" type="application/epub+zip" length="4500"/></entry>

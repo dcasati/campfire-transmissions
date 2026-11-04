@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-03T17:25:29.632239+00:00</updated>
+<updated>2026-11-04T12:05:29.118548+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-04</id><title>Campfire Transmissions 2026-11-04</title><updated>2026-11-04T12:05:29.118548+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-04.epub"/><summary>Al Jazeera, The Guardian and France 24 reported that Democrat Abdul El-Sayed defeated Republican Mike Rogers in Michigan’s Senate race; The Guardian and France 24 said El-Sayed would become the first Muslim US senator. Reuters reported, citing sources, that drones attacked Iranian Kurdish opposition in Sulaymaniyah and east Erbil in Iraq.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Al Jazeera, The Guardian and France 24 reported that Democrat Abdul El-Sayed defeated Republican Mike Rogers in Michigan’s Senate race; The Guardian and France 24 said El-Sayed would become the first Muslim US senator. Reuters reported, citing sources, that drones attacked Iranian Kurdish opposition in Sulaymaniyah and east Erbil in Iraq.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Guardian reported that the UK apologised to Ukrainian child refugees who were told to study Russian in English schools and launched funding for a new Ukrainian GCSE. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Reuters reported, citing sources, that drones attacked Iranian Kurdish opposition in Sulaymaniyah and east Erbil in Iraq. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Indo-Pacific&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Guardian reported that a public inquiry called for the AUKUS nuclear submarine agreement to be suspended and for a royal commission. &lt;i&gt;(attributed)&lt;/i&gt; [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;North America&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Guardian reported that a mother died and her daughter was missing in western Canada after a suspected grizzly bear attack. &lt;i&gt;(attributed)&lt;/i&gt; [9]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Abdul El-Sayed defeated Mike Rogers in the Michigan Senate race, according to Al Jazeera, The Guardian and France 24; The Guardian and France 24 said he would become the first Muslim US senator. &lt;i&gt;(observed)&lt;/i&gt; [1][2][3]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that James Talarico became the first Democrat to win a Texas Senate seat since 1988. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;7 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss&quot;&gt;Al Jazeera: Democrat Abdul El-Sayed wins election to US Senate from Michigan&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate&quot;&gt;The Guardian World: Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/americas/20261104-democrat-abdul-el-sayed-to-become-first-muslim-senator-after-winning-michigan-race&quot;&gt;France 24: Democrat Abdul El-Sayed to become first Muslim senator after winning Michigan race&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMitgFBVV95cUxObWxBd2d3QkktZ1drcEZjVThCNG1fV0JXLUNDZ3FmdlgyaUthMjF1dWRWa3VOblJ1MmpuQmFEbllPUXhwLXlKTGpGZUZDN1JJMDRPLXFPTkw3YWxWQ0FKOXlPVGo5anhaUlNVZTZMLUVyREtPdVZGR2FCWm11eEEzUWtLU2s2Mm9qQ2U2ajNTRlcwSzdOa08zUWUzOE9MVnJuVWFBMXluUTgtSzNHWVdJcUgxeHdrUQ?oc=5&quot;&gt;Reuters (via Google News): Drones attack Iranian Kurdish opposition in Iraq&amp;#x27;s Sulaymaniyah and east Erbil, sources say, Asia News&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o&quot;&gt;BBC News World: James Talarico becomes first Democrat to win Texas Senate seat since 1988&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown&quot;&gt;BleepingComputer: Police seizes over 100 servers in investment scam crackdown&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees&quot;&gt;The Guardian World: UK apologises to Ukrainian child refugees who were told to study Russian&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry&quot;&gt;The Guardian World: Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada&quot;&gt;The Guardian World: One dead and another missing in suspected grizzly bear attack in Canada&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-03</id><title>Campfire Transmissions 2026-11-03</title><updated>2026-11-03T17:25:29.632239+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-03.epub"/><summary>France 24 reported that a Russian strike on a Ukrainian school used for aid distribution killed at least 31 people, according to local authorities. The Guardian reported that the US launched limited strikes on Iran’s Qeshm Island late on Monday; the strikes reportedly targeted missiles used against US assets. BBC News World and Deutsche Welle reported that the US plans to remove South Africa and Rwanda from its duty-free trade initiative.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that a Russian strike on a Ukrainian school used for aid distribution killed at least 31 people, according to local authorities. The Guardian reported that the US launched limited strikes on Iran’s Qeshm Island late on Monday; the strikes reportedly targeted missiles used against US assets. BBC News World and Deutsche Welle reported that the US plans to remove South Africa and Rwanda from its duty-free trade initiative.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;France 24 reported that a Russian “double tap” strike hit a Ukrainian school being used for aid distribution; local authorities said at least 31 people were killed. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;

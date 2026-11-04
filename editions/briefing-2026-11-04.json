@@ -1,0 +1,247 @@
+{
+ "bluf": "Al Jazeera, The Guardian and France 24 reported that Democrat Abdul El-Sayed defeated Republican Mike Rogers in Michigan’s Senate race; The Guardian and France 24 said El-Sayed would become the first Muslim US senator. Reuters reported, citing sources, that drones attacked Iranian Kurdish opposition in Sulaymaniyah and east Erbil in Iraq.",
+ "changes": [],
+ "changes_summary": "7 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 173,
+  "items": 233,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E4",
+   "kind": "attributed",
+   "refs": [
+    6
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-04",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E3",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 6.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 6.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 6.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 6.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 6.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-04T12:05:29.118548+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "Europe / Russia",
+     "text": "The Guardian reported that the UK apologised to Ukrainian child refugees who were told to study Russian in English schools and launched funding for a new Ukrainian GCSE."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "Reuters reported, citing sources, that drones attacked Iranian Kurdish opposition in Sulaymaniyah and east Erbil in Iraq."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      8
+     ],
+     "section": "Indo-Pacific",
+     "text": "The Guardian reported that a public inquiry called for the AUKUS nuclear submarine agreement to be suspended and for a royal commission."
+    }
+   ],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      9
+     ],
+     "section": "North America",
+     "text": "The Guardian reported that a mother died and her daughter was missing in western Canada after a suspected grizzly bear attack."
+    }
+   ],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "observed",
+     "refs": [
+      1,
+      2,
+      3
+     ],
+     "section": "Other Regions",
+     "text": "Abdul El-Sayed defeated Mike Rogers in the Michigan Senate race, according to Al Jazeera, The Guardian and France 24; The Guardian and France 24 said he would become the first Muslim US senator."
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Other Regions",
+     "text": "BBC News World reported that James Talarico became the first Democrat to win a Texas Senate seat since 1988."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "58e6aad3debc8be6",
+   "n": 1,
+   "name": "Al Jazeera",
+   "published": "2026-11-04T08:18:40+00:00",
+   "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss"
+  },
+  {
+   "id": "b2a51463b5265fc8",
+   "n": 2,
+   "name": "The Guardian World",
+   "published": "2026-11-04T08:42:22+00:00",
+   "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+   "url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate"
+  },
+  {
+   "id": "f0a83027186c7c6b",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-11-04T09:20:05+00:00",
+   "title": "Democrat Abdul El-Sayed to become first Muslim senator after winning Michigan race",
+   "url": "https://www.france24.com/en/americas/20261104-democrat-abdul-el-sayed-to-become-first-muslim-senator-after-winning-michigan-race"
+  },
+  {
+   "id": "04b9a0a082f1c0a5",
+   "n": 4,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-04T09:23:18+00:00",
+   "title": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say, Asia News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWxBd2d3QkktZ1drcEZjVThCNG1fV0JXLUNDZ3FmdlgyaUthMjF1dWRWa3VOblJ1MmpuQmFEbllPUXhwLXlKTGpGZUZDN1JJMDRPLXFPTkw3YWxWQ0FKOXlPVGo5anhaUlNVZTZMLUVyREtPdVZGR2FCWm11eEEzUWtLU2s2Mm9qQ2U2ajNTRlcwSzdOa08zUWUzOE9MVnJuVWFBMXluUTgtSzNHWVdJcUgxeHdrUQ?oc=5"
+  },
+  {
+   "id": "f47e5bd752bd7830",
+   "n": 5,
+   "name": "BBC News World",
+   "published": "2026-11-04T05:39:36+00:00",
+   "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o"
+  },
+  {
+   "id": "87893c219097abee",
+   "n": 6,
+   "name": "BleepingComputer",
+   "published": "2026-11-03T13:33:49+00:00",
+   "title": "Police seizes over 100 servers in investment scam crackdown",
+   "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown"
+  },
+  {
+   "id": "ed5d10bf28490ab4",
+   "n": 7,
+   "name": "The Guardian World",
+   "published": "2026-11-04T05:00:25+00:00",
+   "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+   "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees"
+  },
+  {
+   "id": "57cbc14d8bc311c3",
+   "n": 8,
+   "name": "The Guardian World",
+   "published": "2026-11-04T07:02:44+00:00",
+   "title": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry"
+  },
+  {
+   "id": "025b7628545b9a87",
+   "n": 9,
+   "name": "The Guardian World",
+   "published": "2026-11-03T22:08:50+00:00",
+   "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+   "url": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2362,
+  "tokens_out": 473
+ },
+ "warnings": [],
+ "watch": [],
+ "window_end": "2026-11-04T12:05:29.118548+00:00",
+ "window_start": "2026-11-03T12:05:29.118548+00:00",
+ "words": 231
+}
