@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-04T12:05:29.118548+00:00</updated>
+<updated>2026-11-05T12:05:28.822493+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-05</id><title>Campfire Transmissions 2026-11-05</title><updated>2026-11-05T12:05:28.822493+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-05.epub"/><summary>France 24 reported that the death toll from a Russian bombing of an aid distribution point in Ukraine’s Zaporizhzhia region rose to 42, with dozens still missing; the bombing was on Monday. Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities, according to Al Jazeera; France 24 described the sentence as 10 more years.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that the death toll from a Russian bombing of an aid distribution point in Ukraine’s Zaporizhzhia region rose to 42, with dozens still missing; the bombing was on Monday. Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities, according to Al Jazeera; France 24 described the sentence as 10 more years.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that the death toll from a Russian bombing of an aid distribution point in southeastern Zaporizhzhia rose to 42, with dozens still missing; officials said the bombing occurred on Monday. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Al Jazeera reported that the US sanctioned Indian and Turkish firms accused of helping Iran; the US Treasury said an Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Al Jazeera reported that Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities; France 24 described it as 10 more years. The event date is not stated. &lt;i&gt;(attributed)&lt;/i&gt; [2][3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that Zyxel patched a zero-day vulnerability in GS1900 network switches after attackers exploited it to compromise nearly 1,000 devices worldwide and steal configuration files and credentials; the event date is not stated. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;li&gt;BleepingComputer reported that CISA warned federal agencies that attackers were exploiting a recently patched WordPress vulnerability in the wild. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;4 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Dozens killed, dozens more missing after Russian strike on Ukrainian aid site [1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Further changes to the reported death toll or number of missing people after the bombing in Zaporizhzhia.&lt;/b&gt; Would show whether the reported casualty and missing-person counts have changed. [1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre&quot;&gt;France 24: Dozens dead and missing after Russian strike on Ukrainian aid centre&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion&quot;&gt;France 24: Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss&quot;&gt;Al Jazeera: Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches&quot;&gt;BleepingComputer: Zyxel fixes zero-day exploited to hack nearly 1,000 network switches&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss&quot;&gt;Al Jazeera: US sanctions Indian and Turkish firms accused of helping Iran&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks&quot;&gt;BleepingComputer: CISA flags WordPress RCE flaw as actively exploited in attacks&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-04</id><title>Campfire Transmissions 2026-11-04</title><updated>2026-11-04T12:05:29.118548+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-04.epub"/><summary>Al Jazeera, The Guardian and France 24 reported that Democrat Abdul El-Sayed defeated Republican Mike Rogers in Michigan’s Senate race; The Guardian and France 24 said El-Sayed would become the first Muslim US senator. Reuters reported, citing sources, that drones attacked Iranian Kurdish opposition in Sulaymaniyah and east Erbil in Iraq.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Al Jazeera, The Guardian and France 24 reported that Democrat Abdul El-Sayed defeated Republican Mike Rogers in Michigan’s Senate race; The Guardian and France 24 said El-Sayed would become the first Muslim US senator. Reuters reported, citing sources, that drones attacked Iranian Kurdish opposition in Sulaymaniyah and east Erbil in Iraq.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;The Guardian reported that the UK apologised to Ukrainian child refugees who were told to study Russian in English schools and launched funding for a new Ukrainian GCSE. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;

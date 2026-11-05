@@ -1,0 +1,217 @@
+{
+ "bluf": "France 24 reported that the death toll from a Russian bombing of an aid distribution point in Ukraine’s Zaporizhzhia region rose to 42, with dozens still missing; the bombing was on Monday. Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities, according to Al Jazeera; France 24 described the sentence as 10 more years.",
+ "changes": [
+  {
+   "refs": [
+    1
+   ],
+   "text": "Updated since previous brief: Dozens killed, dozens more missing after Russian strike on Ukrainian aid site"
+  }
+ ],
+ "changes_summary": "4 new and 1 updated development(s) reported.",
+ "collection": {
+  "clusters": 136,
+  "items": 189,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E2",
+   "kind": "attributed",
+   "refs": [
+    4
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that Zyxel patched a zero-day vulnerability in GS1900 network switches after attackers exploited it to compromise nearly 1,000 devices worldwide and steal configuration files and credentials; the event date is not stated."
+  },
+  {
+   "event_id": "E7",
+   "kind": "attributed",
+   "refs": [
+    6
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that CISA warned federal agencies that attackers were exploiting a recently patched WordPress vulnerability in the wild."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-05",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 10.64,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.75,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E3",
+   "score": 8.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 7.85,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-05T12:05:28.822493+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that the death toll from a Russian bombing of an aid distribution point in southeastern Zaporizhzhia rose to 42, with dozens still missing; officials said the bombing occurred on Monday."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Middle East",
+     "text": "Al Jazeera reported that the US sanctioned Indian and Turkish firms accused of helping Iran; the US Treasury said an Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      2,
+      3
+     ],
+     "section": "Other Regions",
+     "text": "Al Jazeera reported that Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities; France 24 described it as 10 more years. The event date is not stated."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "8a13978ee7151bc1",
+   "n": 1,
+   "name": "France 24",
+   "published": "2026-11-05T10:34:55+00:00",
+   "title": "Dozens dead and missing after Russian strike on Ukrainian aid centre",
+   "url": "https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre"
+  },
+  {
+   "id": "961948348fabaf9d",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-05T03:31:53+00:00",
+   "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
+   "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
+  },
+  {
+   "id": "4d179952eb22b593",
+   "n": 3,
+   "name": "Al Jazeera",
+   "published": "2026-11-05T07:50:44+00:00",
+   "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+   "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss"
+  },
+  {
+   "id": "8548203aec91f02a",
+   "n": 4,
+   "name": "BleepingComputer",
+   "published": "2026-11-04T20:58:19+00:00",
+   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches"
+  },
+  {
+   "id": "51965ab7748cf111",
+   "n": 5,
+   "name": "Al Jazeera",
+   "published": "2026-11-05T09:57:04+00:00",
+   "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+   "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss"
+  },
+  {
+   "id": "74f7e0f5736588da",
+   "n": 6,
+   "name": "BleepingComputer",
+   "published": "2026-11-04T12:11:05+00:00",
+   "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2395,
+  "tokens_out": 487
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Further changes to the reported death toll or number of missing people after the bombing in Zaporizhzhia.",
+   "refs": [
+    1
+   ],
+   "significance": "Would show whether the reported casualty and missing-person counts have changed."
+  }
+ ],
+ "window_end": "2026-11-05T12:05:28.822493+00:00",
+ "window_start": "2026-11-04T12:05:28.822493+00:00",
+ "words": 269
+}
