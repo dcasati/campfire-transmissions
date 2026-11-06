@@ -1,0 +1,228 @@
+{
+ "bluf": "GDACS reported a magnitude 6.1 earthquake in Fiji at 17:21 UTC, with few people potentially affected within 100km. The Record reported that a ransomware attack disrupted Wi-Fi and on-site computers at Queens Public Library; BBC News World reported evidence of digging and new buildings near Iran missile bases in satellite imagery taken in November.",
+ "changes": [],
+ "changes_summary": "6 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 124,
+  "items": 177,
+  "quarantined": 0,
+  "sources_ok": 13,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E1",
+   "kind": "attributed",
+   "refs": [
+    2
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "The Record reported that a ransomware attack disrupted Wi-Fi and on-site computers at Queens Public Library; the library system confirmed the disruption was caused by ransomware."
+  }
+ ],
+ "disasters": [
+  {
+   "event_id": "E3",
+   "kind": "observed",
+   "refs": [
+    1
+   ],
+   "section": "Significant Disasters",
+   "text": "GDACS reported an earthquake in Fiji at 17:21 UTC with magnitude 6.1 and a depth of 535km; it said few people were potentially affected within 100km."
+  }
+ ],
+ "edition": "2026-11-06",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 7.85,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E3",
+   "score": 7.05,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 6.8,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E5",
+   "score": 6.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 6.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 6.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 6.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-06T12:05:26.826267+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "BBC News World reported that satellite imagery taken in November showed evidence of digging and new buildings near Iran missile bases."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "North America",
+     "text": "CBC Calgary reported that three First Nations in Alberta filed legal challenges seeking to overturn the federal government’s national-interest designation of the Pacific Link pipeline."
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "North America",
+     "text": "CBC Calgary reported that Telus said a small number of calls were interrupted in Eastern Canada on Thursday; the company reported that issues in Ontario had since been resolved."
+    }
+   ],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Other Regions",
+     "text": "The Guardian World reported that Eva Geller died in hospital almost 12 months after being shot during the Bondi beach attack."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "c3fc0db6ebe02dd7",
+   "n": 1,
+   "name": "GDACS",
+   "published": "2026-11-05T17:39:33+00:00",
+   "title": "Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1575788"
+  },
+  {
+   "id": "fd981599e3c66956",
+   "n": 2,
+   "name": "The Record",
+   "published": "2026-11-05T22:08:00+00:00",
+   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+   "url": "https://therecord.media/queens-library-ransomware-causes-disruptions"
+  },
+  {
+   "id": "106be822f2849f4d",
+   "n": 3,
+   "name": "BBC News World",
+   "published": "2026-11-06T07:33:41+00:00",
+   "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro"
+  },
+  {
+   "id": "5c6df774f6ccb4f6",
+   "n": 4,
+   "name": "CBC Calgary",
+   "published": "2026-11-06T12:00:00+00:00",
+   "title": "First Nations challenging Pacific Link pipeline’s national-interest designation",
+   "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-first-nation-pipeline-challenges-9.7411621?cmp=rss"
+  },
+  {
+   "id": "9a0925b7929cab65",
+   "n": 5,
+   "name": "CBC Calgary",
+   "published": "2026-11-05T16:10:27+00:00",
+   "title": "Telus says 'small number' of calls interrupted in Eastern Canada on Thursday",
+   "url": "https://www.cbc.ca/news/business/telus-outage-quebec-ontario-9.7410552?cmp=rss"
+  },
+  {
+   "id": "8eb4edf88c7a96e0",
+   "n": 6,
+   "name": "The Guardian World",
+   "published": "2026-11-06T06:26:03+00:00",
+   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2082,
+  "tokens_out": 527
+ },
+ "warnings": [
+  "Partial coverage: 1 of 14 sources unavailable."
+ ],
+ "watch": [
+  {
+   "indicator": "Updates on Queens Public Library Wi-Fi and on-site computer availability",
+   "refs": [
+    2
+   ],
+   "significance": "Would indicate whether the reported service disruption continues or has ended."
+  },
+  {
+   "indicator": "Further legal developments in the three First Nations’ challenges to the Pacific Link designation",
+   "refs": [
+    4
+   ],
+   "significance": "Would indicate whether the designation is being contested further or overturned."
+  }
+ ],
+ "window_end": "2026-11-06T12:05:26.826267+00:00",
+ "window_start": "2026-11-05T12:05:26.826267+00:00",
+ "words": 255
+}

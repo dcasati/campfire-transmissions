@@ -17,10 +17,12 @@
     "0adc032731e4269f",
     "0b3629275e06096b",
     "0b4f423374709f3b",
+    "0e84ef918a274a54",
     "0fc7f4cb438bd151",
     "126966b1365ab229",
     "12d99f5158f86579",
     "15ca2fde609516c3",
+    "16d064a02f240cd1",
     "1720711625dc9c72",
     "17dc8d424a3eae9f",
     "18cd6bb74970f83a",
@@ -29,6 +31,7 @@
     "1bbf165c3c8e2e82",
     "1cce737bb7647552",
     "1f32b4c678528536",
+    "1f5c6a9ab32b43e2",
     "1ffec2e51be3568e",
     "204346c030fb449b",
     "2082b71561940a3c",
@@ -39,11 +42,13 @@
     "2939e2ef9e1c8927",
     "29a0bda079a40674",
     "2bb5603a773e5fdc",
+    "2c0c22ce1bd87b6a",
     "2ce2c0384cfdd0e2",
     "33da549ef8a471c6",
     "344c3624038c4d41",
     "3486bfe1eb8fc60b",
     "3636380c75a60095",
+    "372b7d7672c314cb",
     "37d3389f3fe31a24",
     "38512ca694f6b704",
     "38626c227c59e223",
@@ -54,6 +59,7 @@
     "39e5df8ce97ae6c9",
     "3a1d1639fedbc730",
     "3a38e39f4d0095c0",
+    "3ba047937e03d8b1",
     "3ba35253f590d61d",
     "3df84c72bbbd125e",
     "3e59a4dfdb302b1b",
@@ -77,9 +83,12 @@
     "50b850b693729750",
     "51b4fd6e944ebc9c",
     "52a8d00dfb9cfbee",
+    "52dc9d50aba68b9a",
     "533733db3f2899d5",
     "538e27b43578461c",
+    "54b7ebf97f4d0335",
     "54bc9cdc0a5b064a",
+    "54ce2b98a7cb84eb",
     "55437d8f6424cb17",
     "55d812c5dc9093c0",
     "56ddf5d7b65818dd",
@@ -97,6 +106,7 @@
     "5f5b26926bb35c37",
     "5fd409204ff001dd",
     "6027876fbec6a836",
+    "63501b3721c54695",
     "640f75d4f7afc063",
     "645b741450f9715b",
     "65bb44b8554a4f10",
@@ -104,6 +114,7 @@
     "67f5868ce49dfb03",
     "68e793d25ad312d9",
     "69020b70536b418e",
+    "696c3fd958dea799",
     "6d010cc1f2791892",
     "6dbbee70ba5cf000",
     "6e0b820919d927cc",
@@ -118,6 +129,8 @@
     "77684966f2ad9889",
     "7b81428fac146a25",
     "7bbc2b54f628c8e1",
+    "7c8249727b1c2760",
+    "7c83a9231d558732",
     "7d0cbfab2ccda0f9",
     "7f65fff6b6611211",
     "7fd3b74336f8e924",
@@ -131,13 +144,17 @@
     "86b3ff8e8ae0ae9d",
     "87a21c5e4ab34388",
     "87a353d3a36bbd08",
+    "87f695e26168e371",
     "8864089a22972ed5",
     "8978a83de8f0da69",
     "89a1da403f712b0d",
     "89ab78bfb7919d40",
+    "89f26068a8a64907",
     "8a11af320aa82acf",
     "8a3e36a6981c6e6f",
+    "8b7a22c0c16302de",
     "8d4a257a8b105c9f",
+    "905289a2f4fdf608",
     "92164e1e44d0a5e0",
     "923c1c7297a99b22",
     "934cdb35be4a0379",
@@ -145,6 +162,7 @@
     "9521a9f3f8e51e43",
     "9627dfac4ac766a9",
     "9927637df36e9ca0",
+    "997b074808b49e46",
     "9a18b59a5585b53e",
     "9a78fe7f2a72dc7d",
     "9dbfb9831884ebf6",
@@ -153,6 +171,7 @@
     "a03553d039a5d02e",
     "a073dc96525190dd",
     "a1773b6360e2f2bf",
+    "a1c701d89ed79cd3",
     "a2aa87e818965564",
     "a560c6d04bddc121",
     "a6254221b07b2328",
@@ -162,11 +181,13 @@
     "b0687f5150154843",
     "b25d764fb46c36de",
     "b260e948916e0faf",
+    "b3ccd09206c885db",
     "b3d421e437f34f69",
     "b42f5042f4304780",
     "b4c5aba63c0799aa",
     "b4fc919c5e109e0f",
     "b59592f60de85e0c",
+    "b5ff7c267123431c",
     "b648fca918c5f848",
     "b67abecf573b4cff",
     "b6e846e13b97e046",
@@ -174,14 +195,18 @@
     "b7ce56f30fcdf2ca",
     "b8509365ae5bad75",
     "b8516b0bce3fb9ad",
+    "ba2bf2b2cc47d745",
     "ba3988d6ca37c7a6",
     "bd18668bf6636191",
+    "bd2ae6cf046cbebe",
     "be1b1db3987c3875",
     "bee8af9e21686fd4",
     "bf920b1fed56840f",
     "bfa3c93233538279",
+    "c04dfa821d97d2b4",
     "c437d6db4bcf93d9",
     "c6441af66b17352b",
+    "c66662d5ad37c591",
     "c712211b75f48f7d",
     "c7c598c43fc70990",
     "c7d7cbf3c2649e02",
@@ -201,7 +226,10 @@
     "d39ca4d62c4e2bd1",
     "d6efd9d69c750743",
     "d77ef84c6edecf96",
+    "d892b4197c2fc353",
+    "d8e8a0b12aaff1d6",
     "d959a803f45dde25",
+    "d9bd334c3d3e33f3",
     "da1350c403db360d",
     "db2a4c7440bd94ab",
     "db391dd48d57c851",
@@ -210,13 +238,17 @@
     "dfa9907f367f1dec",
     "dfe080b1ad54b6a6",
     "e09b096b336455ec",
+    "e0f5e55aaf70eed8",
     "e10574e1bc1e1b2f",
     "e25f3d0071576e40",
     "e293633b72a5681c",
     "e3cea078bde00596",
+    "e4bc25b21ab112e6",
     "e4e76446aec7c105",
+    "e58547ef36874836",
     "e5ef398091612679",
     "e6d351c07b9992a9",
+    "e728a3c527e31ad0",
     "ea025b05d6576113",
     "ea1394592a526b9e",
     "eaa88e3b98e458eb",
@@ -230,6 +262,7 @@
     "f19065f563f5b6a4",
     "f38dafaeb9e4d391",
     "f46557002c3f9e9b",
+    "f46636d7b438d21d",
     "f5af82bf00e8760c",
     "f5f9864b4a1a6c97",
     "f6a5c21f31c3964a",
@@ -239,10 +272,11 @@
     "fb8769f25294c90a",
     "fd693e63b5fadcc1",
     "fe258ae5128e9bce",
-    "fe706eb247834746"
+    "fe706eb247834746",
+    "ff7c0107cc800cd9"
    ],
    "key": "038e30711218",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "Green forest fire notification in Brazil",
    "tokens": [
     "africa",
@@ -1705,20 +1739,25 @@
   {
    "first_seen": "2026-10-29",
    "item_ids": [
-    "57b3e4d86d370681"
+    "57b3e4d86d370681",
+    "5cb3839c52dd84a2"
    ],
    "key": "72962784f667",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-06",
    "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
    "tokens": [
     "10158",
+    "10168",
     "2026",
     "30th",
+    "6th",
     "fri",
     "friday",
     "https",
     "isc",
     "isc.sans.edu",
+    "nov",
+    "november",
     "oct",
     "october",
     "podcastdetail",
@@ -2866,26 +2905,36 @@
   {
    "first_seen": "2026-10-29",
    "item_ids": [
+    "bc39a3388869944f",
     "fcd341b0b89dab49"
    ],
    "key": "d4895c0fe1c7",
    "last_published": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-06",
    "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].",
    "tokens": [
+    "06",
     "07",
     "10",
     "10km",
+    "11",
     "2026",
     "29",
+    "39",
     "49",
+    "6.1m",
     "6.4m",
+    "coast",
     "depth",
     "earthquake",
+    "east",
     "easter",
     "green",
+    "honshu",
     "island",
+    "japan",
     "magnitude",
+    "off",
     "southeast",
     "unknown",
     "utc"
@@ -5668,17 +5717,19 @@
    "item_ids": [
     "0175a37b70211429",
     "68216d7dff670c9a",
+    "c1d7e3f3da4d140d",
     "e229ce84f2e6ecfa"
    ],
    "key": "dfc08e5e483b",
    "last_published": "2026-10-30",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-06",
    "title": "Green flood alert in Syria",
    "tokens": [
     "alert",
     "bhutan",
     "egypt",
     "flood",
+    "france",
     "green",
     "syria"
    ]
@@ -8721,10 +8772,11 @@
   {
    "first_seen": "2026-11-01",
    "item_ids": [
-    "289460923052c72b"
+    "289460923052c72b",
+    "4bc95f546ab6df31"
    ],
    "key": "162041232443",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-06",
    "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.204 million .",
    "tokens": [
     "1.204",
@@ -8732,6 +8784,7 @@
     "affect",
     "category",
     "cyclone",
+    "green",
     "higher",
     "km",
     "million",
@@ -8740,6 +8793,8 @@
     "population",
     "red",
     "speed",
+    "storm",
+    "thirtyone-26.",
     "tropic",
     "wind"
    ]
@@ -17546,7 +17601,7 @@
     "85ac1e330c2f1f91"
    ],
    "key": "f3ebf3c9a7ce",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "Four planes flying across Europe targeted by bomb threats",
    "tokens": [
     "acros",
@@ -17557,6 +17612,7 @@
     "flight",
     "fly",
     "four",
+    "happen",
     "live",
     "multiple",
     "plan",
@@ -17674,20 +17730,24 @@
   {
    "first_seen": "2026-11-03",
    "item_ids": [
+    "5c6df774f6ccb4f6",
     "b1ae5f639add82bc"
    ],
    "key": "1f9966603c6d",
-   "last_seen": "2026-11-03",
+   "last_published": "2026-11-06",
+   "last_seen": "2026-11-06",
    "title": "First Nations in B.C. challenge Carney's Pacific Link pipeline national interest designation",
    "tokens": [
     "b.c.",
     "carney",
+    "challeng",
     "challenge",
     "designation",
     "first",
     "interest",
     "link",
     "nation",
+    "national-interest",
     "pacific",
     "pipeline"
    ]
@@ -19659,26 +19719,32 @@
   {
    "first_seen": "2026-11-04",
    "item_ids": [
+    "1e12b483f9faf776",
     "2ed33e9de98525cb",
     "4b37491524332a83",
     "f39873dd6096280f"
    ],
    "key": "8a1c69827e98",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-06",
    "title": "Multiple flights to European airports targeted by bomb threats",
    "tokens": [
     "acros",
     "airport",
     "bomb",
     "disrupt",
+    "dozen",
     "europe",
     "european",
+    "fears",
     "flight",
+    "hybrid",
     "multiple",
+    "rais",
     "seven",
     "suspect",
     "target",
-    "threat"
+    "threat",
+    "war"
    ]
   },
   {
@@ -21216,13 +21282,15 @@
   {
    "first_seen": "2026-11-05",
    "item_ids": [
+    "724b2860c320e55c",
     "d90ab3b3ece9bcb0",
     "e0883bc17ec33951"
    ],
    "key": "428c61b0d4a8",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "New bomb threats bring more disruption to flights across Europe",
    "tokens": [
+    "about",
     "acros",
     "bomb",
     "bring",
@@ -21230,8 +21298,12 @@
     "disruption",
     "europe",
     "flight",
+    "hoax",
+    "know",
     "major",
-    "threat"
+    "threat",
+    "we",
+    "what"
    ]
   },
   {
@@ -21509,18 +21581,25 @@
   {
    "first_seen": "2026-11-05",
    "item_ids": [
-    "000b54c4acdba0b3"
+    "000b54c4acdba0b3",
+    "88ced3427b567c5c"
    ],
    "key": "5cb95e0c1fc0",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "Melania Trump to host Ukrainian, Russian officials at White House",
    "tokens": [
+    "calls",
     "host",
+    "hosts",
     "house",
+    "last",
     "melania",
     "official",
     "russian",
+    "she",
+    "truce",
     "trump",
+    "ukraine",
     "ukrainian",
     "white"
    ]
@@ -21858,7 +21937,7 @@
     "e9d67e10e79f37d2"
    ],
    "key": "785939db6371",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
    "tokens": [
     "2026",
@@ -21867,13 +21946,17 @@
     "democrat",
     "election",
     "eye",
+    "flip",
     "game",
+    "happen",
     "historic",
+    "house",
     "live",
     "midterm",
     "mississippi",
     "race",
     "republican",
+    "seats",
     "senate",
     "upset",
     "us"
@@ -21926,7 +22009,7 @@
     "fcca291697462563"
    ],
    "key": "82573fbec56b",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "Binance hack prompted US regulators to check in on bank systems, sources say",
    "tokens": [
     "bank",
@@ -22314,22 +22397,29 @@
   {
    "first_seen": "2026-11-05",
    "item_ids": [
+    "667a8dcf183660e0",
     "95100bf0b692e5ca"
    ],
    "key": "ab939a90e761",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird\u2019s phone and poured water into his fuel tank",
    "tokens": [
     "baird",
     "beau",
     "double",
+    "fir",
+    "first",
     "fuel",
     "he",
     "jesse",
     "lamarre-condon",
+    "move",
     "murder",
     "phone",
     "pour",
+    "right",
+    "shot",
+    "shoulder",
     "tank",
     "tells",
     "through",
@@ -22869,16 +22959,24 @@
     "7a233fca9b7c70a5"
    ],
    "key": "e826169c84f5",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "title": "France gears up for strikes and protests as unions promise national mobilisation",
    "tokens": [
+    "cost",
     "france",
+    "french",
     "gears",
+    "high",
+    "join",
+    "liv",
     "mobilisation",
     "nation",
+    "number",
     "promise",
     "protest",
+    "see",
     "strik",
+    "surge",
     "union"
    ]
   },
@@ -23185,12 +23283,2230 @@
     "retirement",
     "ronaldo"
    ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "c85887538fe24dbe"
+   ],
+   "key": "0394af63e3b6",
+   "last_seen": "2026-11-06",
+   "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
+   "tokens": [
+    "12.5",
+    "court",
+    "ex-politician",
+    "jail",
+    "macao",
+    "pro-democracy",
+    "sentenc",
+    "years"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "131aff427d48b2ca"
+   ],
+   "key": "03f1d636fa55",
+   "last_seen": "2026-11-06",
+   "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+   "tokens": [
+    "air",
+    "bomb",
+    "control",
+    "hoax",
+    "how",
+    "messag",
+    "pass",
+    "reve",
+    "threat",
+    "traffic"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "90a9132e0b10bdd9"
+   ],
+   "key": "07e4bf880b71",
+   "last_seen": "2026-11-06",
+   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+   "tokens": [
+    "1.5",
+    "expos",
+    "million",
+    "nearly",
+    "program",
+    "revocation",
+    "secret",
+    "target"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "9a970121eb62e815"
+   ],
+   "key": "0caa1cd1af3c",
+   "last_seen": "2026-11-06",
+   "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+   "tokens": [
+    "acquitt",
+    "found",
+    "guilty",
+    "incit",
+    "leader",
+    "opposition",
+    "tanzanian",
+    "treason",
+    "unrest"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "cace75881c1ac5cc"
+   ],
+   "key": "0dd31d35a7b1",
+   "last_seen": "2026-11-06",
+   "title": "US Justice Department sues Penn State over undocumented students\u2019 tuition",
+   "tokens": [
+    "department",
+    "justice",
+    "penn",
+    "state",
+    "student",
+    "sues",
+    "tuition",
+    "undocument",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "bc289b307cc90ecf"
+   ],
+   "key": "0e4dff3aecfe",
+   "last_seen": "2026-11-06",
+   "title": "Friday briefing: \u200bAfter a week of disruption, is living with threats our new normal?",
+   "tokens": [
+    "brief",
+    "disruption",
+    "friday",
+    "liv",
+    "norm",
+    "our",
+    "threat",
+    "week"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "1eeee5c84be759ca"
+   ],
+   "key": "122a0bd97d0f",
+   "last_seen": "2026-11-06",
+   "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative \u2013 UK politics live",
+   "tokens": [
+    "alternative",
+    "british",
+    "contract",
+    "controversi",
+    "draws",
+    "extend",
+    "government",
+    "live",
+    "nhs",
+    "palantir",
+    "plan",
+    "politic",
+    "uk"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "d9339e2922b1db67"
+   ],
+   "key": "130a36bbc4d4",
+   "last_seen": "2026-11-06",
+   "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
+   "tokens": [
+    "appoint",
+    "ashes",
+    "australia",
+    "consultant",
+    "cricket",
+    "cup",
+    "hussey",
+    "mike",
+    "world"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "1c4a411c97ad2062"
+   ],
+   "key": "13708306b6f4",
+   "last_seen": "2026-11-06",
+   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+   "tokens": [
+    "america",
+    "begin",
+    "cancer",
+    "latin",
+    "lengthy",
+    "lung",
+    "pope",
+    "surgery",
+    "trip",
+    "weeks"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "deca9e14c1b1bd6c"
+   ],
+   "key": "155cd78ee032",
+   "last_seen": "2026-11-06",
+   "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+   "tokens": [
+    "2026",
+    "250",
+    "blue",
+    "congres",
+    "democrat",
+    "election",
+    "exce",
+    "grows",
+    "house",
+    "live",
+    "midterm",
+    "seats",
+    "sweep",
+    "us",
+    "wave"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "b95c1a9af9cb877c"
+   ],
+   "key": "1a136bd70114",
+   "last_seen": "2026-11-06",
+   "title": "Musk Threw $445 Million Down the Drain Supporting Republicans \u2013 Reuters",
+   "tokens": [
+    "445",
+    "down",
+    "drain",
+    "million",
+    "musk",
+    "republican",
+    "reuter",
+    "support",
+    "threw"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "a6b05f00a851709c"
+   ],
+   "key": "1a8fa0f2d1e5",
+   "last_seen": "2026-11-06",
+   "title": "As high oil prices curb demand, fresh signs of glut appear",
+   "tokens": [
+    "appear",
+    "curb",
+    "demand",
+    "fresh",
+    "glut",
+    "high",
+    "oil",
+    "pric",
+    "signs"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "c91265f9b0fb3941"
+   ],
+   "key": "20c097486f9c",
+   "last_seen": "2026-11-06",
+   "title": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say",
+   "tokens": [
+    "china",
+    "chipmaker",
+    "exclusive",
+    "factory",
+    "flash",
+    "homegrown",
+    "memory",
+    "sourc",
+    "target",
+    "tools",
+    "top"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "c3fc0db6ebe02dd7"
+   ],
+   "key": "248c957e028e",
+   "last_published": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "title": "Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.",
+   "tokens": [
+    "05",
+    "100km.",
+    "11",
+    "17",
+    "2026",
+    "21",
+    "535km",
+    "6.1m",
+    "affect",
+    "depth",
+    "earthquake",
+    "few",
+    "fiji",
+    "green",
+    "magnitude",
+    "people",
+    "utc"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "a0d3f6bf9a9de441"
+   ],
+   "key": "26185a223d55",
+   "last_seen": "2026-11-06",
+   "title": "Macau jails pro-democracy campaigner in city's first national security case",
+   "tokens": [
+    "campaigner",
+    "case",
+    "city",
+    "first",
+    "jails",
+    "macau",
+    "nation",
+    "pro-democracy",
+    "security"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "2daf0a4edc67769c"
+   ],
+   "key": "278358f605b3",
+   "last_seen": "2026-11-06",
+   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+   "tokens": [
+    "attack",
+    "cool",
+    "critic",
+    "feds",
+    "harden",
+    "infrastructure",
+    "now",
+    "operator",
+    "system",
+    "warn"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "9b225e31f95fe29d"
+   ],
+   "key": "27f985341b1c",
+   "last_seen": "2026-11-06",
+   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "tokens": [
+    "appear",
+    "cybertruck",
+    "elon",
+    "end",
+    "musk",
+    "road",
+    "sign"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "f9455a5870c433cd"
+   ],
+   "key": "2f4a5ad65f83",
+   "last_seen": "2026-11-06",
+   "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
+   "tokens": [
+    "deal",
+    "deepen",
+    "illustrat",
+    "launcher",
+    "relation",
+    "rocket",
+    "russia-iran"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "64bcd1bded4d2734"
+   ],
+   "key": "3541747f640c",
+   "last_seen": "2026-11-06",
+   "title": "Carney's bet on economic growth \u2014 and the risks that come with it",
+   "tokens": [
+    "bet",
+    "carney",
+    "come",
+    "economic",
+    "growth",
+    "risks"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "f4499c87874be124"
+   ],
+   "key": "365e875a6d71",
+   "last_seen": "2026-11-06",
+   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+   "tokens": [
+    "backdoor",
+    "cwp",
+    "hacker",
+    "linux",
+    "server",
+    "trojaniz",
+    "using",
+    "web"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "7f566ad47ddc3447"
+   ],
+   "key": "3a1ca79176a5",
+   "last_seen": "2026-11-06",
+   "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+   "tokens": [
+    "chris",
+    "election",
+    "runn",
+    "stake",
+    "vs",
+    "what",
+    "zealand"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "f49b9ebbcf328255"
+   ],
+   "key": "3cba0b8de407",
+   "last_seen": "2026-11-06",
+   "title": "UK jailing of Indian sailor over Russia sanctions sets off \u2018perfect storm\u2019",
+   "tokens": [
+    "indian",
+    "jail",
+    "off",
+    "perfect",
+    "russia",
+    "sailor",
+    "sanction",
+    "sets",
+    "storm",
+    "uk"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "6b8d48fdb1d9be60"
+   ],
+   "key": "408860dbf97b",
+   "last_seen": "2026-11-06",
+   "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
+   "tokens": [
+    "12m",
+    "arrest",
+    "court",
+    "ex-malaysian",
+    "grant",
+    "house",
+    "najib",
+    "pardon",
+    "pm",
+    "royal"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "af8a5bce86a91f3b"
+   ],
+   "key": "413d03297cc9",
+   "last_seen": "2026-11-06",
+   "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
+   "tokens": [
+    "alberta",
+    "approach",
+    "midterm",
+    "premier",
+    "smith",
+    "tariff",
+    "u.s.",
+    "vindication"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "939512efbcd160a4"
+   ],
+   "key": "48c5eabd0110",
+   "last_seen": "2026-11-06",
+   "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+   "tokens": [
+    "191",
+    "cult",
+    "doomsday",
+    "given",
+    "kenyan",
+    "leader",
+    "life",
+    "murder",
+    "people",
+    "sentence"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "49d9b403a56b4953"
+   ],
+   "key": "499fe0ed9797",
+   "last_seen": "2026-11-06",
+   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+   "tokens": [
+    "affect",
+    "attack",
+    "didn",
+    "infrastructure",
+    "metamask",
+    "recent",
+    "wallet"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "9e7d1c8dc3b08b40"
+   ],
+   "key": "4eeb8ef436c3",
+   "last_seen": "2026-11-06",
+   "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused \u2013 as it happened",
+   "tokens": [
+    "accus",
+    "beau",
+    "begin",
+    "cross-examination",
+    "double",
+    "happen",
+    "lamarre-condon",
+    "murder",
+    "prosecution",
+    "trial"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "20039ba541620570"
+   ],
+   "key": "4fdf2541e50d",
+   "last_seen": "2026-11-06",
+   "title": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks",
+   "tokens": [
+    "astra",
+    "gpt-6",
+    "obstruct",
+    "openai",
+    "research",
+    "safety",
+    "silently",
+    "tasks"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "5248563254d58543"
+   ],
+   "key": "522df6f7f369",
+   "last_seen": "2026-11-06",
+   "title": "Israel\u2019s President Herzog to name candidate to form government on Sunday",
+   "tokens": [
+    "candidate",
+    "form",
+    "government",
+    "herzog",
+    "israel",
+    "name",
+    "president",
+    "sunday"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "86d21b1f4f1ac76f"
+   ],
+   "key": "564e662836fc",
+   "last_seen": "2026-11-06",
+   "title": "Yemen\u2019s president sacks ministers and officers in attempt to turn tide of war",
+   "tokens": [
+    "attempt",
+    "minister",
+    "officer",
+    "president",
+    "sacks",
+    "tide",
+    "turn",
+    "war",
+    "yemen"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "cf0e8892152b4715"
+   ],
+   "key": "5650ffb92d6e",
+   "last_seen": "2026-11-06",
+   "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+   "tokens": [
+    "deni",
+    "election",
+    "hegseth",
+    "house",
+    "jobs",
+    "leave",
+    "loss",
+    "republican",
+    "rubio",
+    "white"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "989836776b9f9277"
+   ],
+   "key": "5c594d30063c",
+   "last_seen": "2026-11-06",
+   "title": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
+   "tokens": [
+    "deepen",
+    "fourth",
+    "indonesia",
+    "intrigue",
+    "names",
+    "politic",
+    "suspect",
+    "wiretapp"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "113fbdd9a90d2233"
+   ],
+   "key": "5d801692d6d7",
+   "last_seen": "2026-11-06",
+   "title": "Tanzania\u2019s smallholder farmers struggle to benefit from digital agriculture",
+   "tokens": [
+    "agriculture",
+    "benefit",
+    "digit",
+    "farmer",
+    "smallholder",
+    "struggle",
+    "tanzania"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "20e5ea8a8d513923",
+    "c807175afc4174cd"
+   ],
+   "key": "5e656041f9ef",
+   "last_seen": "2026-11-06",
+   "title": "Global tech stocks plunge over fears of AI curbs in US",
+   "tokens": [
+    "ai",
+    "curbs",
+    "democrat",
+    "fears",
+    "glob",
+    "midterm",
+    "plunge",
+    "slowdown",
+    "stock",
+    "tech",
+    "triumph",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "5c87636b678e8b92"
+   ],
+   "key": "5eaa5bb9c4b2",
+   "last_seen": "2026-11-06",
+   "title": "Iran signals satisfaction, skepticism after US midterm vote",
+   "tokens": [
+    "iran",
+    "midterm",
+    "satisfaction",
+    "signal",
+    "skepticism",
+    "us",
+    "vote"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "8eb4edf88c7a96e0"
+   ],
+   "key": "5fe43bec94a3",
+   "last_published": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "tokens": [
+    "90",
+    "antisemitic",
+    "attack",
+    "beach",
+    "bondi",
+    "dies",
+    "dur",
+    "eva",
+    "geller",
+    "hospit",
+    "massacre",
+    "shoot",
+    "shot",
+    "year"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "7d6a5cd6a2220374"
+   ],
+   "key": "61dff39dfda3",
+   "last_seen": "2026-11-06",
+   "title": "Two dead after bus crashes in France, officials say",
+   "tokens": [
+    "bus",
+    "crash",
+    "dead",
+    "france",
+    "official",
+    "two"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "1ed8bccc62af0eb7"
+   ],
+   "key": "653f3af8c089",
+   "last_seen": "2026-11-06",
+   "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: \u2018They\u2019re taking our neighbors\u2019",
+   "tokens": [
+    "back",
+    "ice",
+    "latino",
+    "neighbor",
+    "our",
+    "polls",
+    "re",
+    "sent",
+    "tactic",
+    "tak",
+    "them",
+    "trump",
+    "voter",
+    "wooed"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "fdf49967a23921af"
+   ],
+   "key": "679922e95c44",
+   "last_seen": "2026-11-06",
+   "title": "Somalia's top court rejects president's term extension amid political crisis",
+   "tokens": [
+    "court",
+    "crisi",
+    "extension",
+    "politic",
+    "president",
+    "reject",
+    "somalia",
+    "term",
+    "top"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "42dd12a7c88d7b55"
+   ],
+   "key": "6a5487cb5ebf",
+   "last_seen": "2026-11-06",
+   "title": "Worst of beef price hikes may be over, but don\u2019t expect cheaper steak anytime soon",
+   "tokens": [
+    "anytime",
+    "beef",
+    "cheaper",
+    "don",
+    "expect",
+    "hikes",
+    "price",
+    "soon",
+    "steak",
+    "worst"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "b57f64c741cb7f5f"
+   ],
+   "key": "6af1f5e2c158",
+   "last_seen": "2026-11-06",
+   "title": "Trump could woo North Korea after midterm setback, but Kim may not respond",
+   "tokens": [
+    "kim",
+    "korea",
+    "midterm",
+    "north",
+    "respond",
+    "setback",
+    "trump",
+    "woo"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "c217d5452819fed4"
+   ],
+   "key": "6cf7d1ebba6b",
+   "last_seen": "2026-11-06",
+   "title": "\u2018Clicky Ponting\u2019 cheating scandal cricketer banned and club relegated",
+   "tokens": [
+    "bann",
+    "cheat",
+    "clicky",
+    "club",
+    "cricketer",
+    "pont",
+    "relegat",
+    "scand"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "5803b4e0f561e92f"
+   ],
+   "key": "6d492a3dcaa6",
+   "last_seen": "2026-11-06",
+   "title": "YELLOW WARNING - WIND, City of Calgary",
+   "tokens": [
+    "calgary",
+    "city",
+    "warn",
+    "wind",
+    "yellow"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "baee136e8ad92073"
+   ],
+   "key": "6ed4f04ec5a7",
+   "last_seen": "2026-11-06",
+   "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
+   "tokens": [
+    "blue",
+    "despite",
+    "district",
+    "one",
+    "redrawn",
+    "republican",
+    "texas",
+    "tsunami",
+    "why",
+    "won"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "987bf29fcdd66954"
+   ],
+   "key": "7126e6982864",
+   "last_seen": "2026-11-06",
+   "title": "K-pop group NewJeans\u2019s contract omitted rights to \u2018sleep and free choice\u2019 \u2013 report",
+   "tokens": [
+    "choice",
+    "contract",
+    "free",
+    "group",
+    "k-pop",
+    "newjean",
+    "omitt",
+    "report",
+    "right",
+    "sleep"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "8916e40aa5d32b52"
+   ],
+   "key": "72070a18e36b",
+   "last_seen": "2026-11-06",
+   "title": "In Athens\u2019s pro-Palestinian heartland, Israeli buyers spark resentment",
+   "tokens": [
+    "athen",
+    "buyer",
+    "heartland",
+    "israeli",
+    "pro-palestinian",
+    "resentment",
+    "spark"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "b22a3fbcabf5df79"
+   ],
+   "key": "772a1d0d9af1",
+   "last_seen": "2026-11-06",
+   "title": "California governor commutes sentences for state's 548 death row inmates",
+   "tokens": [
+    "548",
+    "california",
+    "commut",
+    "death",
+    "governor",
+    "inmat",
+    "row",
+    "sentenc",
+    "state"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "fdd155e992e7df0d"
+   ],
+   "key": "7851e8ad944e",
+   "last_seen": "2026-11-06",
+   "title": "Asia stocks to drop after AI rout rocks US markets",
+   "tokens": [
+    "ai",
+    "asia",
+    "drop",
+    "market",
+    "rocks",
+    "rout",
+    "stock",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "4ed512a549927637"
+   ],
+   "key": "7a34f92ce497",
+   "last_seen": "2026-11-06",
+   "title": "CBC Money to launch next year with slate of original content dedicated to personal finance",
+   "tokens": [
+    "cbc",
+    "content",
+    "dedicat",
+    "finance",
+    "launch",
+    "money",
+    "next",
+    "origin",
+    "person",
+    "slate",
+    "year"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "106be822f2849f4d"
+   ],
+   "key": "7b8cb9a843ed",
+   "last_published": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "tokens": [
+    "bases",
+    "construction",
+    "imag",
+    "iran",
+    "major",
+    "missile",
+    "near",
+    "ongo",
+    "satellite",
+    "suggest"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "27b63128b0703e04"
+   ],
+   "key": "7cd18567b914",
+   "last_seen": "2026-11-06",
+   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+   "tokens": [
+    "15",
+    "california",
+    "compulsive",
+    "giant",
+    "kids",
+    "law",
+    "media",
+    "overturn",
+    "shield",
+    "soci",
+    "sue",
+    "under",
+    "use"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "ce724a95edfb18ee"
+   ],
+   "key": "7d6eb4f3375b",
+   "last_seen": "2026-11-06",
+   "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+   "tokens": [
+    "ai",
+    "asian",
+    "continu",
+    "driven",
+    "fears",
+    "rout",
+    "stock",
+    "tech",
+    "trad",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "646602439acadc24"
+   ],
+   "key": "7dc06904dc2e",
+   "last_seen": "2026-11-06",
+   "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
+   "tokens": [
+    "christma",
+    "commuter",
+    "disruption",
+    "driver",
+    "face",
+    "run-up",
+    "shopper",
+    "strik",
+    "tube"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "fd981599e3c66956"
+   ],
+   "key": "7e1deb98d1da",
+   "last_published": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+   "tokens": [
+    "attack",
+    "computer",
+    "disrupt",
+    "library",
+    "on-site",
+    "public",
+    "queen",
+    "ransomware",
+    "wi-fi"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "9c3874388999a4f2"
+   ],
+   "key": "7fa4d86f68e7",
+   "last_seen": "2026-11-06",
+   "title": "Eight killed in series of shootings in western Turkey",
+   "tokens": [
+    "eight",
+    "kill",
+    "seri",
+    "shooting",
+    "turkey",
+    "western"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "f3d4fc33d1407bc0"
+   ],
+   "key": "822710350ce0",
+   "last_seen": "2026-11-06",
+   "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+   "tokens": [
+    "account",
+    "attacker",
+    "flaw",
+    "lets",
+    "linux",
+    "log",
+    "openssh",
+    "password-disabl"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "20c33dd0e7cfefd1"
+   ],
+   "key": "83e240970c0d",
+   "last_seen": "2026-11-06",
+   "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+   "tokens": [
+    "china",
+    "exempt",
+    "hormuz",
+    "india",
+    "iran",
+    "iraq",
+    "qatar",
+    "restriction",
+    "why"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "28665a3ef6a06c74"
+   ],
+   "key": "84916c1ba6e5",
+   "last_seen": "2026-11-06",
+   "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+   "tokens": [
+    "airlin",
+    "airport",
+    "bomb",
+    "european",
+    "hoax",
+    "second",
+    "target",
+    "threat",
+    "time",
+    "week"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "1facdec52f6244d4"
+   ],
+   "key": "850bc0cf6bb8",
+   "last_seen": "2026-11-06",
+   "title": "Calgary staff acted 'improperly' after water recommendations didn't reach council: report",
+   "tokens": [
+    "acted",
+    "calgary",
+    "council",
+    "didn",
+    "improperly",
+    "reach",
+    "recommendation",
+    "report",
+    "staff",
+    "water"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "30fe957a25ecbdac"
+   ],
+   "key": "85d026ba7cdf",
+   "last_seen": "2026-11-06",
+   "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
+   "tokens": [
+    "fifa",
+    "japanese",
+    "kozo",
+    "offici",
+    "presidency",
+    "runn",
+    "tashima"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "bc8ee2ea5ba1e1c2"
+   ],
+   "key": "878ba1d96f6c",
+   "last_seen": "2026-11-06",
+   "title": "Israel\u2019s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
+   "tokens": [
+    "back",
+    "decide",
+    "eisenkot",
+    "form",
+    "government",
+    "herzog",
+    "israel",
+    "secur",
+    "should",
+    "significant",
+    "yet"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "3cb88bfdd891f7d2"
+   ],
+   "key": "891809c3e7ff",
+   "last_seen": "2026-11-06",
+   "title": "SocGen to cut about 40 branches in France by 2027, source says",
+   "tokens": [
+    "2027",
+    "40",
+    "about",
+    "branch",
+    "cut",
+    "france",
+    "socgen",
+    "source"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "1f3d4c5250d9c48e"
+   ],
+   "key": "8a10b040e6b3",
+   "last_seen": "2026-11-06",
+   "title": "Carney's 2nd budget earmarks billions for affordability and Canadian sovereignty",
+   "tokens": [
+    "2nd",
+    "affordability",
+    "billion",
+    "budget",
+    "canadian",
+    "carney",
+    "earmark",
+    "sovereignty"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "99117beecd82fa62"
+   ],
+   "key": "8c5bddd130f3",
+   "last_seen": "2026-11-06",
+   "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+   "tokens": [
+    "british",
+    "demand",
+    "famili",
+    "kill",
+    "know",
+    "loved",
+    "ones",
+    "spain.",
+    "these",
+    "why",
+    "wildfire"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "277b426af7e90f82"
+   ],
+   "key": "8e15a621140b",
+   "last_seen": "2026-11-06",
+   "title": "EU accuses TikTok of trapping users in harmful \u2018rabbit holes\u2019",
+   "tokens": [
+    "accus",
+    "eu",
+    "harmful",
+    "holes",
+    "rabbit",
+    "tiktok",
+    "trapp",
+    "users"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "57d71f238b6ed1bd"
+   ],
+   "key": "9169bb7238c2",
+   "last_seen": "2026-11-06",
+   "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+   "tokens": [
+    "east",
+    "grip",
+    "how",
+    "israel",
+    "jerusalem",
+    "palestinian",
+    "school",
+    "tighten"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "09fb401084b6939b"
+   ],
+   "key": "921821f5bb6e",
+   "last_seen": "2026-11-06",
+   "title": "European skies on high alert after hoax bomb threats this week \u2013 Europe live",
+   "tokens": [
+    "alert",
+    "bomb",
+    "europe",
+    "european",
+    "high",
+    "hoax",
+    "live",
+    "skies",
+    "threat",
+    "week"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "7734cad685a6cd3c"
+   ],
+   "key": "9315577322ba",
+   "last_seen": "2026-11-06",
+   "title": "Did a data centre revolt affect the US midterm election results?",
+   "tokens": [
+    "affect",
+    "centre",
+    "data",
+    "did",
+    "election",
+    "midterm",
+    "result",
+    "revolt",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "2054f95d23d2d0e5"
+   ],
+   "key": "99bbb7a50dcb",
+   "last_seen": "2026-11-06",
+   "title": "Canada travel advisory for France: Exercise a high degree of caution",
+   "tokens": [
+    "advisory",
+    "canada",
+    "caution",
+    "degree",
+    "exercise",
+    "france",
+    "high",
+    "travel"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "8ded0e185ace2c3e"
+   ],
+   "key": "a5f606a70b28",
+   "last_seen": "2026-11-06",
+   "title": "Calgary son and mother admit they engaged in insider trading for years, ordered to pay $330,000",
+   "tokens": [
+    "000",
+    "330",
+    "admit",
+    "calgary",
+    "engag",
+    "insider",
+    "mother",
+    "order",
+    "pay",
+    "son",
+    "trad",
+    "years"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "0d2e5da9d9026409"
+   ],
+   "key": "a8c0c4cc3613",
+   "last_seen": "2026-11-06",
+   "title": "Arrests and investigations as Serbia begins post-election clean-up",
+   "tokens": [
+    "arrest",
+    "begin",
+    "clean-up",
+    "investigation",
+    "post-election",
+    "serbia"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "84847d386bb7b82a"
+   ],
+   "key": "a9f12c536d2f",
+   "last_seen": "2026-11-06",
+   "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+   "tokens": [
+    "boston",
+    "bring",
+    "heat",
+    "low",
+    "midwest",
+    "pressure",
+    "unseasonable",
+    "us",
+    "york"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "e64e8ae46d745017"
+   ],
+   "key": "abc0cc7da12c",
+   "last_seen": "2026-11-06",
+   "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
+   "tokens": [
+    "against",
+    "american",
+    "conflict",
+    "countri",
+    "end",
+    "gulf",
+    "hope",
+    "iran",
+    "means",
+    "trump",
+    "voted",
+    "war."
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "2993bb03a807082f"
+   ],
+   "key": "b105f02708fd",
+   "last_seen": "2026-11-06",
+   "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+   "tokens": [
+    "5th",
+    "cisco",
+    "header",
+    "ios",
+    "nov",
+    "older",
+    "opt-out",
+    "scans",
+    "thu",
+    "vulnerability"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "887d304af7036389"
+   ],
+   "key": "b17c9b24eaee",
+   "last_seen": "2026-11-06",
+   "title": "What does Trump's midterm elections loss mean for strained US-India ties?",
+   "tokens": [
+    "does",
+    "election",
+    "loss",
+    "mean",
+    "midterm",
+    "strain",
+    "ties",
+    "trump",
+    "us-india",
+    "what"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "403abb497c45f0b6"
+   ],
+   "key": "b26dfdee988f",
+   "last_seen": "2026-11-06",
+   "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+   "tokens": [
+    "air",
+    "back",
+    "capit",
+    "delhi",
+    "indian",
+    "pollution",
+    "prepar",
+    "toxic",
+    "winter"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "190a8727d78a0c03"
+   ],
+   "key": "b2f1be938fda",
+   "last_seen": "2026-11-06",
+   "title": "Death a \u2018distinct possibility\u2019 in collision running and face-slapping competitions, inquiry hears",
+   "tokens": [
+    "collision",
+    "competition",
+    "death",
+    "distinct",
+    "face-slapp",
+    "hears",
+    "inquiry",
+    "possibility",
+    "runn"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "e767c5baa51e08c0"
+   ],
+   "key": "b88a225e51c1",
+   "last_seen": "2026-11-06",
+   "title": "Nigerian court rules opposition candidate cannot stand in elections",
+   "tokens": [
+    "candidate",
+    "cannot",
+    "court",
+    "election",
+    "nigerian",
+    "opposition",
+    "rules",
+    "stand"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "140a6585c43bca24"
+   ],
+   "key": "b98edd6d4353",
+   "last_seen": "2026-11-06",
+   "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+   "tokens": [
+    "angel",
+    "bass",
+    "defeat",
+    "democratic",
+    "incumbent",
+    "karen",
+    "los",
+    "mayor",
+    "race",
+    "socialist"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "cb91d7b093c8bed1"
+   ],
+   "key": "b9999742c931",
+   "last_seen": "2026-11-06",
+   "title": "\u2018Nobody can stop them\u2019: Who are Europe\u2019s Black Bloc protesters?",
+   "tokens": [
+    "black",
+    "bloc",
+    "can",
+    "europe",
+    "nobody",
+    "protester",
+    "stop",
+    "them"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "4aaf0eb3517ae35f"
+   ],
+   "key": "b9a6d37d1d18",
+   "last_seen": "2026-11-06",
+   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "tokens": [
+    "cisa",
+    "cyberattack",
+    "fbi",
+    "refrigeration",
+    "system",
+    "target",
+    "warn"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "1df33798258e20d1"
+   ],
+   "key": "b9b0217d4e5e",
+   "last_seen": "2026-11-06",
+   "title": "Closing the Identity Gap at the Service Desk",
+   "tokens": [
+    "clos",
+    "desk",
+    "gap",
+    "identity",
+    "service"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "9b8a27139ae641e8"
+   ],
+   "key": "bd07637b2f63",
+   "last_seen": "2026-11-06",
+   "title": "South Africa's Treasury says GDP rebasing has improved key fiscal metrics",
+   "tokens": [
+    "africa",
+    "fisc",
+    "gdp",
+    "improv",
+    "key",
+    "metric",
+    "rebas",
+    "south",
+    "treasury"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "cca1668580310ae9"
+   ],
+   "key": "beda64fbe914",
+   "last_seen": "2026-11-06",
+   "title": "Can America ever return to pre-Trump politics?",
+   "tokens": [
+    "america",
+    "can",
+    "ever",
+    "politic",
+    "pre-trump",
+    "return"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "e4d5cf5a389f8f24"
+   ],
+   "key": "ca9e1fbaf8fc",
+   "last_seen": "2026-11-06",
+   "title": "Airbus delivered about 74 planes in October, Bloomberg News reports",
+   "tokens": [
+    "74",
+    "about",
+    "airbu",
+    "bloomberg",
+    "deliver",
+    "news",
+    "october",
+    "plan",
+    "report"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "58baebef2c52a55d"
+   ],
+   "key": "cbb3541473f3",
+   "last_seen": "2026-11-06",
+   "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
+   "tokens": [
+    "bank",
+    "crisi",
+    "frozen",
+    "million",
+    "paraguay",
+    "people",
+    "president",
+    "quits",
+    "saving"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "92bc1f725e220112"
+   ],
+   "key": "d0384924238c",
+   "last_seen": "2026-11-06",
+   "title": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
+   "tokens": [
+    "bank",
+    "collapse",
+    "paraguay",
+    "pe",
+    "president",
+    "resign",
+    "santiago"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "9a0925b7929cab65"
+   ],
+   "key": "d12c4e22fc8c",
+   "last_published": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "title": "Telus says 'small number' of calls interrupted in Eastern Canada on Thursday",
+   "tokens": [
+    "calls",
+    "canada",
+    "eastern",
+    "interrupt",
+    "number",
+    "small",
+    "telus",
+    "thursday"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "522938542b5bb4e7",
+    "7bacc30ff84575ca"
+   ],
+   "key": "d1fb9760dcbd",
+   "last_seen": "2026-11-06",
+   "title": "Trump issues proclamation declaring Oval Office national monument",
+   "tokens": [
+    "declar",
+    "issu",
+    "monument",
+    "nation",
+    "office",
+    "order",
+    "oval",
+    "preserve",
+    "proclamation",
+    "signs",
+    "trump"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "5fa5dde8d5c95aba"
+   ],
+   "key": "d5e1e9a69409",
+   "last_seen": "2026-11-06",
+   "title": "Met police chief urges potential victims of Russell Brand to come forward",
+   "tokens": [
+    "brand",
+    "chief",
+    "come",
+    "forward",
+    "met",
+    "police",
+    "potenti",
+    "russell",
+    "urges",
+    "victim"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "8f6a824b19444c40"
+   ],
+   "key": "d646025f8ca8",
+   "last_seen": "2026-11-06",
+   "title": "'Actually laughable': Budget 2026 gets mixed reactions from Calgary mayor, business community",
+   "tokens": [
+    "2026",
+    "actually",
+    "budget",
+    "busines",
+    "calgary",
+    "community",
+    "gets",
+    "laughable",
+    "mayor",
+    "mixed",
+    "reaction"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "d9ae7f1c0a070e03"
+   ],
+   "key": "d796e53f20c0",
+   "last_seen": "2026-11-06",
+   "title": "Duchess of Sussex\u2019s estranged half-brother \u2018person of interest\u2019 in child sexual abuse inquiry",
+   "tokens": [
+    "abuse",
+    "child",
+    "duches",
+    "estrang",
+    "half-brother",
+    "inquiry",
+    "interest",
+    "person",
+    "sexu",
+    "sussex"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "25938fb9924c057a"
+   ],
+   "key": "db01a14eb3a1",
+   "last_seen": "2026-11-06",
+   "title": "Elections Alberta reveals October referendum cost $84M, receives additional funds from legislature committee",
+   "tokens": [
+    "84m",
+    "addition",
+    "alberta",
+    "committee",
+    "cost",
+    "election",
+    "funds",
+    "legislature",
+    "october",
+    "receiv",
+    "referendum",
+    "reveal"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "d329bb03cf8c1aab"
+   ],
+   "key": "dd2d581cd1b4",
+   "last_seen": "2026-11-06",
+   "title": "DigiCert data breach exposes customer information, identity documents",
+   "tokens": [
+    "breach",
+    "customer",
+    "data",
+    "digicert",
+    "document",
+    "expos",
+    "identity",
+    "information"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "ebb6db4a8f7c1c46"
+   ],
+   "key": "dee3b9e68876",
+   "last_seen": "2026-11-06",
+   "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
+   "tokens": [
+    "chang",
+    "gold-cover",
+    "office",
+    "oval",
+    "prevent",
+    "proclamation",
+    "signs",
+    "trump",
+    "try"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "12cd5386123ca069"
+   ],
+   "key": "df52eb75a58e",
+   "last_seen": "2026-11-06",
+   "title": "Denmark\u2019s top court to rule on \u2018parallel societies\u2019 after \u2018non-western\u2019 people evicted",
+   "tokens": [
+    "court",
+    "denmark",
+    "evict",
+    "non-western",
+    "parallel",
+    "people",
+    "rule",
+    "societi",
+    "top"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "9b869bd5428bef10"
+   ],
+   "key": "e0ca0e4ffb88",
+   "last_seen": "2026-11-06",
+   "title": "House fire and explosion rocks community southeast of Calgary",
+   "tokens": [
+    "calgary",
+    "community",
+    "explosion",
+    "fire",
+    "house",
+    "rocks",
+    "southeast"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "e578355f7abfe81a"
+   ],
+   "key": "e14be814dab1",
+   "last_seen": "2026-11-06",
+   "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+   "tokens": [
+    "displac",
+    "dozen",
+    "homes",
+    "israeli",
+    "jericho",
+    "palestinian",
+    "seize",
+    "settler"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "d1043c057c6734b8"
+   ],
+   "key": "e159b38f40fb",
+   "last_seen": "2026-11-06",
+   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+   "tokens": [
+    "account",
+    "event",
+    "fake",
+    "google",
+    "microsoft",
+    "openai",
+    "spacex",
+    "steal",
+    "used"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "d4c39040763a0a3d"
+   ],
+   "key": "e8519e8b98c3",
+   "last_seen": "2026-11-06",
+   "title": "Who could be behind hoax bomb threats to European air travel?",
+   "tokens": [
+    "air",
+    "behind",
+    "bomb",
+    "european",
+    "hoax",
+    "threat",
+    "travel"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "647b7ca14bb51e9f"
+   ],
+   "key": "e9bb89c1c59e",
+   "last_seen": "2026-11-06",
+   "title": "Iraq\u2019s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+   "tokens": [
+    "al-zaidi",
+    "baghdad",
+    "iran",
+    "iraq",
+    "seeks",
+    "stay",
+    "talks",
+    "trump",
+    "war"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "3b992b58e7e18831"
+   ],
+   "key": "ece459b43c9d",
+   "last_seen": "2026-11-06",
+   "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+   "tokens": [
+    "australia",
+    "congres",
+    "control",
+    "expert",
+    "faces",
+    "flipp",
+    "issu",
+    "midterm",
+    "same",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "53af5e2699d8dcb1"
+   ],
+   "key": "ee1126d041e1",
+   "last_seen": "2026-11-06",
+   "title": "Abdul El-Sayed did not have to become less Muslim to win",
+   "tokens": [
+    "abdul",
+    "become",
+    "did",
+    "el-say",
+    "less",
+    "muslim",
+    "win"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "3368c169451a0e50"
+   ],
+   "key": "f090e798ee7e",
+   "last_seen": "2026-11-06",
+   "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+   "tokens": [
+    "000",
+    "airport",
+    "dirty",
+    "discover",
+    "inside",
+    "official",
+    "peru",
+    "smuggl",
+    "socks",
+    "tarantula"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "a4f3e55d93cf97a9"
+   ],
+   "key": "f4d26847e016",
+   "last_seen": "2026-11-06",
+   "title": "Anthropic\u2019s IPO timing threatened by AI backlash, historic tech rout",
+   "tokens": [
+    "ai",
+    "anthropic",
+    "backlash",
+    "historic",
+    "ipo",
+    "rout",
+    "tech",
+    "threaten",
+    "tim"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "586ac5b20bc56712"
+   ],
+   "key": "f5c0da4fd366",
+   "last_seen": "2026-11-06",
+   "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+   "tokens": [
+    "bags",
+    "escalation",
+    "fears",
+    "israeli",
+    "lebanese",
+    "pack",
+    "stock"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "5a09467e75c6d7d0"
+   ],
+   "key": "f5e72fb5cc20",
+   "last_seen": "2026-11-06",
+   "title": "What is the cost to leave an abusive relationship in Alberta? A new report works to find out",
+   "tokens": [
+    "abusive",
+    "alberta",
+    "cost",
+    "find",
+    "leave",
+    "relationship",
+    "report",
+    "what",
+    "works"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "ffb4752e48d8e37e"
+   ],
+   "key": "fd398ee843ec",
+   "last_seen": "2026-11-06",
+   "title": "US issues more sanctions against Prince Group scam center affiliates",
+   "tokens": [
+    "affiliat",
+    "against",
+    "center",
+    "group",
+    "issu",
+    "prince",
+    "sanction",
+    "scam",
+    "us"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "6c972124dd9b58a8"
+   ],
+   "key": "fd89b70fbd03",
+   "last_seen": "2026-11-06",
+   "title": "\u2018Everything is so out of whack\u2019: UK trees experience spring six months early",
+   "tokens": [
+    "early",
+    "everyth",
+    "experience",
+    "month",
+    "six",
+    "so",
+    "spr",
+    "trees",
+    "uk",
+    "whack"
+   ]
+  },
+  {
+   "first_seen": "2026-11-06",
+   "item_ids": [
+    "4baea1587b4eb8d1",
+    "ecd3dc8faa60e1ab"
+   ],
+   "key": "ff7b981ab9b4",
+   "last_seen": "2026-11-06",
+   "title": "Judge temporarily halts building work on Trump\u2019s triumphal arch",
+   "tokens": [
+    "arch",
+    "build",
+    "construction",
+    "dc",
+    "halts",
+    "judge",
+    "temporarily",
+    "triumph",
+    "trump",
+    "us",
+    "washington",
+    "work"
+   ]
   }
  ],
  "http": {
   "aljazeera": {
-   "etag": "W/\"c17e9196711d59e7a65cde6df9ab985d\"",
-   "last_modified": "Thu, 05 Nov 2026 12:01:37 GMT"
+   "etag": "W/\"882646c9d86684fb5381bb566655c5c4\"",
+   "last_modified": "Fri, 06 Nov 2026 11:38:29 GMT"
   },
   "bbc_world": {
    "etag": null,
@@ -23198,7 +25514,7 @@
   },
   "bleepingcomputer": {
    "etag": null,
-   "last_modified": "Thu, 05 Nov 2026 11:59:51 GMT"
+   "last_modified": "Fri, 06 Nov 2026 12:02:34 GMT"
   },
   "cbc_calgary": {
    "etag": null,
@@ -23213,23 +25529,23 @@
    "last_modified": null
   },
   "ec_calgary": {
-   "etag": "W/\"5ae-ekazDsax0e2AlnaAmvn7MnpPbIE\"",
-   "last_modified": "Sun, 18 Oct 2026 01:21:55 GMT"
+   "etag": "W/\"60e-ZT6SeaofBaqegsh9vfEbAJegX2I\"",
+   "last_modified": "Fri, 06 Nov 2026 10:32:38 GMT"
   },
   "france24": {
    "etag": null,
    "last_modified": null
   },
   "gac_travel": {
-   "etag": "\"dbd54615a56cdd1:0\"",
-   "last_modified": "Wed, 04 Nov 2026 21:40:17 GMT"
+   "etag": "\"fed6aaa716ddd1:0\"",
+   "last_modified": "Thu, 05 Nov 2026 22:00:16 GMT"
   },
   "gdacs": {
-   "etag": "\"9162a68f1c6ddd1:0\"",
-   "last_modified": "Thu, 05 Nov 2026 11:55:32 GMT"
+   "etag": "\"96e634bbe56ddd1:0\"",
+   "last_modified": "Fri, 06 Nov 2026 11:55:34 GMT"
   },
   "guardian_world": {
-   "etag": "W/\"hash2362870701702470036\"",
+   "etag": "W/\"hash645002958242325176\"",
    "last_modified": null
   },
   "reuters_gn": {
@@ -23237,8 +25553,8 @@
    "last_modified": null
   },
   "sans_isc": {
-   "etag": "\"1b7a-65f864a537e9e\"",
-   "last_modified": "Thu, 05 Nov 2026 12:03:57 GMT"
+   "etag": "\"1ca5-65f9a682a36c8\"",
+   "last_modified": "Fri, 06 Nov 2026 12:03:57 GMT"
   },
   "therecord": {
    "etag": null,
@@ -23246,17 +25562,17 @@
   },
   "usgs_sig": {
    "etag": null,
-   "last_modified": "Thu, 05 Nov 2026 12:05:29 GMT"
+   "last_modified": "Fri, 06 Nov 2026 12:05:27 GMT"
   }
  },
  "spend": {
-  "2026-10-29": 0.0,
   "2026-10-30": 0.0,
   "2026-10-31": 0.0,
   "2026-11-01": 0.0,
   "2026-11-02": 0.0,
   "2026-11-03": 0.0,
   "2026-11-04": 0.0,
-  "2026-11-05": 0.0
+  "2026-11-05": 0.0,
+  "2026-11-06": 0.0
  }
 }
