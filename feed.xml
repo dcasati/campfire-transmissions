@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-06T12:05:26.826267+00:00</updated>
+<updated>2026-11-07T17:45:35.100751+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-07</id><title>Campfire Transmissions 2026-11-07</title><updated>2026-11-07T17:45:35.100751+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-07.epub"/><summary>The Guardian reported Russian attacks on Ukraine’s energy grid, with blackouts and water shortages in Kyiv; BBC News World reported damage to Ukraine’s power network and nine people wounded ahead of talks in Abu Dhabi. France 24 reported at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province, with responsibility disputed.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; The Guardian reported Russian attacks on Ukraine’s energy grid, with blackouts and water shortages in Kyiv; BBC News World reported damage to Ukraine’s power network and nine people wounded ahead of talks in Abu Dhabi. France 24 reported at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province, with responsibility disputed.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Guardian reported that Moscow used 172 drones and 36 ballistic missiles against electricity substations and a bridge over the Dnipro; an overnight attack on Ukraine’s energy grid was followed by blackouts and water shortages in Kyiv. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that Russian strikes wounded nine people and damaged Ukraine’s power network ahead of trilateral talks in Abu Dhabi next week. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province. Houthi rebels blamed Saudi airstrikes, while government forces and local authorities disputed that account and accused the Houthis of indiscriminate fire. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that SonicWall released security updates for seven SonicOS vulnerabilities, including an SSL-VPN authentication-bypass flaw exploited in attacks. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;4 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Further reports of blackouts or water shortages in Kyiv&lt;/b&gt; Would indicate continued disruption following the reported energy-grid attacks. [1]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Whether Ukrainian and Russian delegations take part in the trilateral talks in Abu Dhabi next week&lt;/b&gt; Would show whether the talks reported as upcoming proceed. [2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid&quot;&gt;The Guardian World: Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cm4g1nq8158po&quot;&gt;BBC News World: Russian strikes wound nine and damage Ukraine&amp;#x27;s power network ahead of talks&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market&quot;&gt;France 24: Yemen: 30 dead in strikes on Taiz market&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks&quot;&gt;BleepingComputer: SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-06</id><title>Campfire Transmissions 2026-11-06</title><updated>2026-11-06T12:05:26.826267+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-06.epub"/><summary>GDACS reported a magnitude 6.1 earthquake in Fiji at 17:21 UTC, with few people potentially affected within 100km. The Record reported that a ransomware attack disrupted Wi-Fi and on-site computers at Queens Public Library; BBC News World reported evidence of digging and new buildings near Iran missile bases in satellite imagery taken in November.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; GDACS reported a magnitude 6.1 earthquake in Fiji at 17:21 UTC, with few people potentially affected within 100km. The Record reported that a ransomware attack disrupted Wi-Fi and on-site computers at Queens Public Library; BBC News World reported evidence of digging and new buildings near Iran missile bases in satellite imagery taken in November.&lt;/p&gt;
 &lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;BBC News World reported that satellite imagery taken in November showed evidence of digging and new buildings near Iran missile bases. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;

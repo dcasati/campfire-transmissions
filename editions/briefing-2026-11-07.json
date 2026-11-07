@@ -1,0 +1,190 @@
+{
+ "bluf": "The Guardian reported Russian attacks on Ukraine’s energy grid, with blackouts and water shortages in Kyiv; BBC News World reported damage to Ukraine’s power network and nine people wounded ahead of talks in Abu Dhabi. France 24 reported at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province, with responsibility disputed.",
+ "changes": [],
+ "changes_summary": "4 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 122,
+  "items": 183,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E8",
+   "kind": "attributed",
+   "refs": [
+    4
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that SonicWall released security updates for seven SonicOS vulnerabilities, including an SSL-VPN authentication-bypass flaw exploited in attacks."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-07",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 9.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.75,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-07T17:45:35.100751+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "The Guardian reported that Moscow used 172 drones and 36 ballistic missiles against electricity substations and a bridge over the Dnipro; an overnight attack on Ukraine’s energy grid was followed by blackouts and water shortages in Kyiv."
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that Russian strikes wounded nine people and damaged Ukraine’s power network ahead of trilateral talks in Abu Dhabi next week."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "France 24 reported that at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province. Houthi rebels blamed Saudi airstrikes, while government forces and local authorities disputed that account and accused the Houthis of indiscriminate fire."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "62f39c82b1348381",
+   "n": 1,
+   "name": "The Guardian World",
+   "published": "2026-11-07T13:03:03+00:00",
+   "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+   "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+  },
+  {
+   "id": "4b2c83578e55be0c",
+   "n": 2,
+   "name": "BBC News World",
+   "published": "2026-11-07T12:49:36+00:00",
+   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
+  },
+  {
+   "id": "55647188719350fa",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-11-07T09:37:16+00:00",
+   "title": "Yemen: 30 dead in strikes on Taiz market",
+   "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market"
+  },
+  {
+   "id": "238ba52c2ebada97",
+   "n": 4,
+   "name": "BleepingComputer",
+   "published": "2026-11-07T00:00:55+00:00",
+   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2059,
+  "tokens_out": 462
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Further reports of blackouts or water shortages in Kyiv",
+   "refs": [
+    1
+   ],
+   "significance": "Would indicate continued disruption following the reported energy-grid attacks."
+  },
+  {
+   "indicator": "Whether Ukrainian and Russian delegations take part in the trilateral talks in Abu Dhabi next week",
+   "refs": [
+    2
+   ],
+   "significance": "Would show whether the talks reported as upcoming proceed."
+  }
+ ],
+ "window_end": "2026-11-07T17:45:35.100751+00:00",
+ "window_start": "2026-11-06T17:45:35.100751+00:00",
+ "words": 230
+}
