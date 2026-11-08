@@ -1,14 +1,16 @@
 {
- "last_success": "2026-11-07T17:45:35.100751+00:00",
- "edition": "2026-11-07",
- "mode": "llm",
- "words": 230,
+ "last_success": "2026-11-08T14:14:58.726182+00:00",
+ "edition": "2026-11-08",
+ "mode": "evidence-only",
+ "words": 205,
  "usage": {
-  "calls": 1,
-  "tokens_in": 2059,
-  "tokens_out": 462,
+  "calls": 2,
+  "tokens_in": 3932,
+  "tokens_out": 927,
   "estimated_cost_usd": 0.0
  },
  "label": null,
- "warnings": []
+ "warnings": [
+  "Automated summary failed verification; evidence-only edition. E7: number '630,000' not in cited evidence"
+ ]
 }

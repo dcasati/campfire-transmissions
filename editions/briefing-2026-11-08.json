@@ -1,0 +1,267 @@
+{
+ "bluf": "Highest-ranked development: US offers $20m reward for information about Iran's nuclear programme. Further items follow by region.",
+ "changes": [],
+ "changes_summary": "8 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 103,
+  "items": 185,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [
+  {
+   "event_id": "E7",
+   "kind": "observed",
+   "refs": [
+    7
+   ],
+   "section": "Significant Disasters",
+   "text": "Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V."
+  },
+  {
+   "event_id": "E8",
+   "kind": "observed",
+   "refs": [
+    8
+   ],
+   "section": "Significant Disasters",
+   "text": "Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown]."
+  }
+ ],
+ "edition": "2026-11-08",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E7",
+   "score": 7.05,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E8",
+   "score": 7.05,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-08T14:14:58.726182+00:00",
+ "label": null,
+ "mode": "evidence-only",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Europe / Russia",
+     "text": "According to Al Jazeera: Russian strikes on Ukraine leave hundreds of thousands without electricity"
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Middle East",
+     "text": "According to BBC News World: US offers $20m reward for information about Iran's nuclear programme"
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Middle East",
+     "text": "According to France 24: Middle East live: Yemen’s Houthis claim attack on Riyadh financial district"
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "According to BBC News World: Gaza wedding festival sees 250 couples married at the same time"
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "According to BBC News World: Houthis say at least 33 killed in Saudi air strike"
+    },
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Middle East",
+     "text": "According to Reuters (via Google News): Houthi-run health ministry says airstrikes kill 33 near Yemen capital"
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "b7ba65c704ad4512",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-07T18:14:38+00:00",
+   "title": "US offers $20m reward for information about Iran's nuclear programme",
+   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
+  },
+  {
+   "id": "c83bf488fa4c730e",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-08T09:47:36+00:00",
+   "title": "Middle East live: Yemen’s Houthis claim attack on Riyadh financial district",
+   "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections"
+  },
+  {
+   "id": "b8e51085a95d4037",
+   "n": 3,
+   "name": "BBC News World",
+   "published": "2026-11-07T17:58:41+00:00",
+   "title": "Gaza wedding festival sees 250 couples married at the same time",
+   "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o"
+  },
+  {
+   "id": "e62725ac95eaaaaf",
+   "n": 4,
+   "name": "BBC News World",
+   "published": "2026-11-08T04:03:12+00:00",
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
+  },
+  {
+   "id": "3d7cbd9e381d19ed",
+   "n": 5,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-07T22:48:58+00:00",
+   "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5"
+  },
+  {
+   "id": "c3a3b8dabb02dec0",
+   "n": 6,
+   "name": "Al Jazeera",
+   "published": "2026-11-08T12:20:17+00:00",
+   "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+   "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+  },
+  {
+   "id": "bcce9471c6847f75",
+   "n": 7,
+   "name": "GDACS",
+   "published": "2026-11-07T16:22:23+00:00",
+   "title": "Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576118"
+  },
+  {
+   "id": "bedc202b4b41be01",
+   "n": 8,
+   "name": "GDACS",
+   "published": "2026-11-07T23:36:33+00:00",
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576162"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 3932,
+  "tokens_out": 927
+ },
+ "warnings": [
+  "Automated summary failed verification; evidence-only edition. E7: number '630,000' not in cited evidence"
+ ],
+ "watch": [
+  {
+   "indicator": "Independent reporting on: US offers $20m reward for information about Iran's nuclear programme",
+   "refs": [
+    1
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: Middle East live: Yemen’s Houthis claim attack on Riyadh financial district",
+   "refs": [
+    2
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: Gaza wedding festival sees 250 couples married at the same time",
+   "refs": [
+    3
+   ],
+   "significance": "Would confirm or contradict the current account."
+  }
+ ],
+ "window_end": "2026-11-08T14:14:58.726182+00:00",
+ "window_start": "2026-11-07T14:14:58.726182+00:00",
+ "words": 205
+}
