@@ -2,40 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-08T14:14:58.726182+00:00</updated>
+<updated>2026-11-08T23:20:26.189728+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
-<entry><id>urn:daily-wire:2026-11-08</id><title>Campfire Transmissions 2026-11-08</title><updated>2026-11-08T14:14:58.726182+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-08.epub"/><summary>Highest-ranked development: US offers $20m reward for information about Iran&#x27;s nuclear programme. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Highest-ranked development: US offers $20m reward for information about Iran&amp;#x27;s nuclear programme. Further items follow by region.&lt;/p&gt;
+<entry><id>urn:daily-wire:2026-11-08</id><title>Campfire Transmissions 2026-11-08</title><updated>2026-11-08T23:20:26.189728+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-08.epub"/><summary>Highest-ranked development: Russian strikes leave hundreds of thousands without power. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Highest-ranked development: Russian strikes leave hundreds of thousands without power. Further items follow by region.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to Al Jazeera: Russian strikes on Ukraine leave hundreds of thousands without electricity &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;li&gt;According to France 24: Ukraine: Russian strikes leave hundreds of thousands without power &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to BBC News World: US offers $20m reward for information about Iran&amp;#x27;s nuclear programme &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;li&gt;According to France 24: Middle East live: Yemen’s Houthis claim attack on Riyadh financial district &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;li&gt;According to BBC News World: Gaza wedding festival sees 250 couples married at the same time &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;li&gt;According to BBC News World: Houthis say at least 33 killed in Saudi air strike &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
-&lt;li&gt;According to Reuters (via Google News): Houthi-run health ministry says airstrikes kill 33 near Yemen capital &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;li&gt;According to Reuters (via Google News): Production suspended at Iraq&amp;#x27;s Khor Mor gas field after drone attack, sources say &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;li&gt;According to Reuters (via Google News): Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Significant Disasters&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V. &lt;i&gt;(observed)&lt;/i&gt; [7]&lt;/li&gt;
-&lt;li&gt;Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown]. &lt;i&gt;(observed)&lt;/i&gt; [8]&lt;/li&gt;
+&lt;h3&gt;North America&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;According to CBC Calgary: Injured Wainwright soldiers benefit from cutting-edge Canadian burn research &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;8 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;According to The Guardian World: Two police officers hailed as heroes for confronting Kraków gunman &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;According to The Guardian World: Polish prosecutors open terrorism investigation into Kraków shooting &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;li&gt;According to Reuters (via Google News): LOOK: Two trains collided south of the Egyptian capital on Sunday, derailing several carriages, killing four and injuring dozens, according to the authorities. The health ministry said an initial count put the toll from the crash at four passengers killed, with 88 othe &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;6 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Russian strikes on Ukraine leave hundreds of thousands without electricity [1]&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: US offers $20m reward for information about Iran&amp;#x27;s nuclear programme&lt;/b&gt; Would confirm or contradict the current account. [1]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: Middle East live: Yemen’s Houthis claim attack on Riyadh financial district&lt;/b&gt; Would confirm or contradict the current account. [2]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: Gaza wedding festival sees 250 couples married at the same time&lt;/b&gt; Would confirm or contradict the current account. [3]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Independent reporting on: Ukraine: Russian strikes leave hundreds of thousands without power&lt;/b&gt; Would confirm or contradict the current account. [1]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Independent reporting on: Production suspended at Iraq&amp;#x27;s Khor Mor gas field after drone attack, sources say&lt;/b&gt; Would confirm or contradict the current account. [2]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Independent reporting on: Two police officers hailed as heroes for confronting Kraków gunman&lt;/b&gt; Would confirm or contradict the current account. [3]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c6d091ev3p0jo&quot;&gt;BBC News World: US offers $20m reward for information about Iran&amp;#x27;s nuclear programme&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections&quot;&gt;France 24: Middle East live: Yemen’s Houthis claim attack on Riyadh financial district&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/videos/ckr5ygm78j76o&quot;&gt;BBC News World: Gaza wedding festival sees 250 couples married at the same time&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c65yn1v99ypmo&quot;&gt;BBC News World: Houthis say at least 33 killed in Saudi air strike&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5&quot;&gt;Reuters (via Google News): Houthi-run health ministry says airstrikes kill 33 near Yemen capital&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss&quot;&gt;Al Jazeera: Russian strikes on Ukraine leave hundreds of thousands without electricity&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1576118&quot;&gt;GDACS: Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V.&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1576162&quot;&gt;GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power&quot;&gt;France 24: Ukraine: Russian strikes leave hundreds of thousands without power&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFJZUEUzZ1ZYbEJjSU1xYlNocjhWWjIyY240VFc2VVNzRWl4VDJPQXM5ZDlWSlN4MExFeGZ3YmVsRHBUci0zbVpSdGRtUkNieTBZR1EtcVRfSVl0SHJKNzg4WGNCRm5IM0RwUHA5QWhsWGQ0dDZjSjJ5UExkU1lpQjhB?oc=5&quot;&gt;Reuters (via Google News): Production suspended at Iraq&amp;#x27;s Khor Mor gas field after drone attack, sources say&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland&quot;&gt;The Guardian World: Two police officers hailed as heroes for confronting Kraków gunman&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation&quot;&gt;The Guardian World: Polish prosecutors open terrorism investigation into Kraków shooting&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVJqMVdFWGU5ak9QX2NJR0J5dzNZc0NlUlpLVVYyMHhyVGZwV3c4YUNNMFJJalVWeF83VzZHV3pIYlN2SXNKbVNSTHJWdUNTclNDQ0V1VENWVXV5RDFWeTgtR2xINFFwSHZSMWE5UF9KSjk5VVNIY092N1k4bFpoNjFGVHphYnpxOHkwaWc2VjItSEJyeUh3NU1jVDB6UjZzTlY3aW4wbjM1MEpaNFhwUlhBUUtycVMwTERWcjVNYTM0dUlGdXhXbWt4S0JMR2NxNVZF?oc=5&quot;&gt;Reuters (via Google News): LOOK: Two trains collided south of the Egyptian capital on Sunday, derailing several carriages, killing four and injuring dozens, according to the authorities. The health ministry said an initial count put the toll from the crash at four passengers killed, with 88 othe&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkVnbFl5NGk3T1MxTzYtWXRzU3E3bXMwcEpLSGJkaFVyVWNaWDZSZTZOWDF0LUhoYkpQbW4ta0FYWldZVEZ4LTBUTklJbHVmTlh6ZFhVWmtTYzN2T3BTVkozS1FHdUNVTjhiOG5EWEFBTmpUbmRLczBBSXNCOWE2Nk44djE1ZUc1ai1vNzlSdDhLTUZ3Nk1FLWRVV29jY252Wl9EdUx0MVA1OUhlSVVra09ORGsyalNiUExoeFBCbw?oc=5&quot;&gt;Reuters (via Google News): Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.cbc.ca/news/canada/manitoba/injured-soldiers-wainwright-burn-experts-9.7410917?cmp=rss&quot;&gt;CBC Calgary: Injured Wainwright soldiers benefit from cutting-edge Canadian burn research&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-07</id><title>Campfire Transmissions 2026-11-07</title><updated>2026-11-07T17:45:35.100751+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-07.epub"/><summary>The Guardian reported Russian attacks on Ukraine’s energy grid, with blackouts and water shortages in Kyiv; BBC News World reported damage to Ukraine’s power network and nine people wounded ahead of talks in Abu Dhabi. France 24 reported at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province, with responsibility disputed.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; The Guardian reported Russian attacks on Ukraine’s energy grid, with blackouts and water shortages in Kyiv; BBC News World reported damage to Ukraine’s power network and nine people wounded ahead of talks in Abu Dhabi. France 24 reported at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province, with responsibility disputed.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;

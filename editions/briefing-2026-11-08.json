@@ -1,104 +1,72 @@
 {
- "bluf": "Highest-ranked development: US offers $20m reward for information about Iran's nuclear programme. Further items follow by region.",
- "changes": [],
- "changes_summary": "8 new and 0 updated development(s) reported.",
+ "bluf": "Highest-ranked development: Russian strikes leave hundreds of thousands without power. Further items follow by region.",
+ "changes": [
+  {
+   "refs": [
+    1
+   ],
+   "text": "Updated since previous brief: Russian strikes on Ukraine leave hundreds of thousands without electricity"
+  }
+ ],
+ "changes_summary": "6 new and 1 updated development(s) reported.",
  "collection": {
   "clusters": 103,
-  "items": 185,
+  "items": 170,
   "quarantined": 0,
   "sources_ok": 14,
   "sources_total": 14
  },
  "cyber": [],
- "disasters": [
-  {
-   "event_id": "E7",
-   "kind": "observed",
-   "refs": [
-    7
-   ],
-   "section": "Significant Disasters",
-   "text": "Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V."
-  },
-  {
-   "event_id": "E8",
-   "kind": "observed",
-   "refs": [
-    8
-   ],
-   "section": "Significant Disasters",
-   "text": "Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown]."
-  }
- ],
+ "disasters": [],
  "edition": "2026-11-08",
  "events": [
   {
    "confidence": "low",
    "event_id": "E1",
-   "score": 8.8,
-   "status": "new"
+   "score": 7.85,
+   "status": "updated"
   },
   {
    "confidence": "low",
    "event_id": "E2",
-   "score": 8.6,
-   "status": "new"
-  },
-  {
-   "confidence": "low",
-   "event_id": "E3",
    "score": 7.8,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E4",
-   "score": 7.8,
+   "score": 7.6,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E5",
-   "score": 7.8,
+   "score": 6.6,
    "status": "new"
   },
   {
    "confidence": "low",
    "event_id": "E6",
-   "score": 7.6,
+   "score": 5.8,
    "status": "new"
   },
   {
-   "confidence": "moderate",
+   "confidence": "low",
    "event_id": "E7",
-   "score": 7.05,
+   "score": 5.8,
    "status": "new"
   },
   {
-   "confidence": "moderate",
+   "confidence": "low",
    "event_id": "E8",
-   "score": 7.05,
+   "score": 5.7,
    "status": "new"
   }
  ],
- "generated_at": "2026-11-08T14:14:58.726182+00:00",
+ "generated_at": "2026-11-08T23:20:26.189728+00:00",
  "label": null,
  "mode": "evidence-only",
  "sections": [
-  {
-   "items": [
-    {
-     "event_id": "E6",
-     "kind": "attributed",
-     "refs": [
-      6
-     ],
-     "section": "Europe / Russia",
-     "text": "According to Al Jazeera: Russian strikes on Ukraine leave hundreds of thousands without electricity"
-    }
-   ],
-   "name": "Europe / Russia"
-  },
   {
    "items": [
     {
@@ -107,9 +75,14 @@
      "refs": [
       1
      ],
-     "section": "Middle East",
-     "text": "According to BBC News World: US offers $20m reward for information about Iran's nuclear programme"
-    },
+     "section": "Europe / Russia",
+     "text": "According to France 24: Ukraine: Russian strikes leave hundreds of thousands without power"
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
     {
      "event_id": "E2",
      "kind": "attributed",
@@ -117,34 +90,16 @@
       2
      ],
      "section": "Middle East",
-     "text": "According to France 24: Middle East live: Yemen’s Houthis claim attack on Riyadh financial district"
+     "text": "According to Reuters (via Google News): Production suspended at Iraq's Khor Mor gas field after drone attack, sources say"
     },
     {
-     "event_id": "E3",
+     "event_id": "E7",
      "kind": "attributed",
      "refs": [
-      3
+      6
      ],
      "section": "Middle East",
-     "text": "According to BBC News World: Gaza wedding festival sees 250 couples married at the same time"
-    },
-    {
-     "event_id": "E4",
-     "kind": "attributed",
-     "refs": [
-      4
-     ],
-     "section": "Middle East",
-     "text": "According to BBC News World: Houthis say at least 33 killed in Saudi air strike"
-    },
-    {
-     "event_id": "E5",
-     "kind": "attributed",
-     "refs": [
-      5
-     ],
-     "section": "Middle East",
-     "text": "According to Reuters (via Google News): Houthi-run health ministry says airstrikes kill 33 near Yemen capital"
+     "text": "According to Reuters (via Google News): Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says"
     }
    ],
    "name": "Middle East"
@@ -154,114 +109,144 @@
    "name": "Indo-Pacific"
   },
   {
-   "items": [],
+   "items": [
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "North America",
+     "text": "According to CBC Calgary: Injured Wainwright soldiers benefit from cutting-edge Canadian burn research"
+    }
+   ],
    "name": "North America"
   },
   {
-   "items": [],
+   "items": [
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Other Regions",
+     "text": "According to The Guardian World: Two police officers hailed as heroes for confronting Kraków gunman"
+    },
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Other Regions",
+     "text": "According to The Guardian World: Polish prosecutors open terrorism investigation into Kraków shooting"
+    },
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Other Regions",
+     "text": "According to Reuters (via Google News): LOOK: Two trains collided south of the Egyptian capital on Sunday, derailing several carriages, killing four and injuring dozens, according to the authorities. The health ministry said an initial count put the toll from the crash at four passengers killed, with 88 othe"
+    }
+   ],
    "name": "Other Regions"
   }
  ],
  "sources": [
   {
-   "id": "b7ba65c704ad4512",
+   "id": "c719f8373e325a0b",
    "n": 1,
-   "name": "BBC News World",
-   "published": "2026-11-07T18:14:38+00:00",
-   "title": "US offers $20m reward for information about Iran's nuclear programme",
-   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
-  },
-  {
-   "id": "c83bf488fa4c730e",
-   "n": 2,
    "name": "France 24",
-   "published": "2026-11-08T09:47:36+00:00",
-   "title": "Middle East live: Yemen’s Houthis claim attack on Riyadh financial district",
-   "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections"
+   "published": "2026-11-08T16:59:42+00:00",
+   "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+   "url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power"
   },
   {
-   "id": "b8e51085a95d4037",
+   "id": "efef8a2dc32329de",
+   "n": 2,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-08T20:47:02+00:00",
+   "title": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFJZUEUzZ1ZYbEJjSU1xYlNocjhWWjIyY240VFc2VVNzRWl4VDJPQXM5ZDlWSlN4MExFeGZ3YmVsRHBUci0zbVpSdGRtUkNieTBZR1EtcVRfSVl0SHJKNzg4WGNCRm5IM0RwUHA5QWhsWGQ0dDZjSjJ5UExkU1lpQjhB?oc=5"
+  },
+  {
+   "id": "892996f722c40901",
    "n": 3,
-   "name": "BBC News World",
-   "published": "2026-11-07T17:58:41+00:00",
-   "title": "Gaza wedding festival sees 250 couples married at the same time",
-   "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o"
+   "name": "The Guardian World",
+   "published": "2026-11-08T21:11:40+00:00",
+   "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+   "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
   },
   {
-   "id": "e62725ac95eaaaaf",
+   "id": "34430db32ce5c9d8",
    "n": 4,
-   "name": "BBC News World",
-   "published": "2026-11-08T04:03:12+00:00",
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
+   "name": "The Guardian World",
+   "published": "2026-11-08T11:50:15+00:00",
+   "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+   "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
   },
   {
-   "id": "3d7cbd9e381d19ed",
+   "id": "7e110e8914df90da",
    "n": 5,
    "name": "Reuters (via Google News)",
-   "published": "2026-11-07T22:48:58+00:00",
-   "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5"
+   "published": "2026-11-08T17:11:00+00:00",
+   "title": "LOOK: Two trains collided south of the Egyptian capital on Sunday, derailing several carriages, killing four and injuring dozens, according to the authorities. The health ministry said an initial count put the toll from the crash at four passengers killed, with 88 othe",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVJqMVdFWGU5ak9QX2NJR0J5dzNZc0NlUlpLVVYyMHhyVGZwV3c4YUNNMFJJalVWeF83VzZHV3pIYlN2SXNKbVNSTHJWdUNTclNDQ0V1VENWVXV5RDFWeTgtR2xINFFwSHZSMWE5UF9KSjk5VVNIY092N1k4bFpoNjFGVHphYnpxOHkwaWc2VjItSEJyeUh3NU1jVDB6UjZzTlY3aW4wbjM1MEpaNFhwUlhBUUtycVMwTERWcjVNYTM0dUlGdXhXbWt4S0JMR2NxNVZF?oc=5"
   },
   {
-   "id": "c3a3b8dabb02dec0",
+   "id": "3fe35e7d4f864e99",
    "n": 6,
-   "name": "Al Jazeera",
-   "published": "2026-11-08T12:20:17+00:00",
-   "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-   "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-08T13:28:21+00:00",
+   "title": "Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkVnbFl5NGk3T1MxTzYtWXRzU3E3bXMwcEpLSGJkaFVyVWNaWDZSZTZOWDF0LUhoYkpQbW4ta0FYWldZVEZ4LTBUTklJbHVmTlh6ZFhVWmtTYzN2T3BTVkozS1FHdUNVTjhiOG5EWEFBTmpUbmRLczBBSXNCOWE2Nk44djE1ZUc1ai1vNzlSdDhLTUZ3Nk1FLWRVV29jY252Wl9EdUx0MVA1OUhlSVVra09ORGsyalNiUExoeFBCbw?oc=5"
   },
   {
-   "id": "bcce9471c6847f75",
+   "id": "b921899e8dbb7732",
    "n": 7,
-   "name": "GDACS",
-   "published": "2026-11-07T16:22:23+00:00",
-   "title": "Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576118"
-  },
-  {
-   "id": "bedc202b4b41be01",
-   "n": 8,
-   "name": "GDACS",
-   "published": "2026-11-07T23:36:33+00:00",
-   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576162"
+   "name": "CBC Calgary",
+   "published": "2026-11-08T09:00:00+00:00",
+   "title": "Injured Wainwright soldiers benefit from cutting-edge Canadian burn research",
+   "url": "https://www.cbc.ca/news/canada/manitoba/injured-soldiers-wainwright-burn-experts-9.7410917?cmp=rss"
   }
  ],
  "title": "Campfire Transmissions",
  "usage": {
   "calls": 2,
   "estimated_cost_usd": 0.0,
-  "tokens_in": 3932,
-  "tokens_out": 927
+  "tokens_in": 4760,
+  "tokens_out": 723
  },
  "warnings": [
-  "Automated summary failed verification; evidence-only edition. E7: number '630,000' not in cited evidence"
+  "Automated summary failed verification; evidence-only edition. E3: known disagreement in evidence not disclosed"
  ],
  "watch": [
   {
-   "indicator": "Independent reporting on: US offers $20m reward for information about Iran's nuclear programme",
+   "indicator": "Independent reporting on: Ukraine: Russian strikes leave hundreds of thousands without power",
    "refs": [
     1
    ],
    "significance": "Would confirm or contradict the current account."
   },
   {
-   "indicator": "Independent reporting on: Middle East live: Yemen’s Houthis claim attack on Riyadh financial district",
+   "indicator": "Independent reporting on: Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
    "refs": [
     2
    ],
    "significance": "Would confirm or contradict the current account."
   },
   {
-   "indicator": "Independent reporting on: Gaza wedding festival sees 250 couples married at the same time",
+   "indicator": "Independent reporting on: Two police officers hailed as heroes for confronting Kraków gunman",
    "refs": [
     3
    ],
    "significance": "Would confirm or contradict the current account."
   }
  ],
- "window_end": "2026-11-08T14:14:58.726182+00:00",
- "window_start": "2026-11-07T14:14:58.726182+00:00",
- "words": 205
+ "window_end": "2026-11-08T23:20:26.189728+00:00",
+ "window_start": "2026-11-07T23:20:26.189728+00:00",
+ "words": 240
 }
