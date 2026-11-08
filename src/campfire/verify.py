@@ -25,11 +25,17 @@ def _corpus(entries: list[dict]) -> str:
     return " ".join(f"{e['title']} {e['snippet']} {e['source']}" for e in entries).lower()
 
 
+def _digits(s: str) -> str:
+    """Collapse thousands separators ("630,000", "630 000", "630\u202f000") so formatting differences don't fail grounding."""
+    return re.sub(r"(?<=\d)[,\u00a0\u202f\u2009 ](?=\d{3}\b)", "", s)
+
+
 def check_grounding(text: str, corpus: str) -> list[str]:
     errs = []
     cw = _words(corpus)
+    flat = _digits(corpus)
     for num in re.findall(r"\d[\d,.]*\d|\d", text):
-        if num.strip(",.") not in corpus:
+        if num.strip(",.") not in corpus and _digits(num) not in flat:
             errs.append(f"number '{num}' not in cited evidence")
     stripped = re.sub(r"(^|[.!?]\s+|:\s+)\S+", r"\1", text)  # ignore sentence-initial words
     for noun in re.findall(r"\b[A-Z][a-z]{2,}\b", stripped):
