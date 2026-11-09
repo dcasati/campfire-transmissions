@@ -1,0 +1,298 @@
+{
+ "bluf": "Highest-ranked development: Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live. Further items follow by region.",
+ "changes": [
+  {
+   "refs": [
+    7
+   ],
+   "text": "Updated since previous brief: Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV."
+  },
+  {
+   "refs": [
+    8
+   ],
+   "text": "Updated since previous brief: Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says"
+  }
+ ],
+ "changes_summary": "6 new and 2 updated development(s) reported.",
+ "collection": {
+  "clusters": 107,
+  "items": 185,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [
+  {
+   "event_id": "E5",
+   "kind": "observed",
+   "refs": [
+    7
+   ],
+   "section": "Significant Disasters",
+   "text": "Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI."
+  }
+ ],
+ "edition": "2026-11-09",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 10.6,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E2",
+   "score": 8.675,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E5",
+   "score": 6.3,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 5.85,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 5.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 5.8,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-09T13:16:44.537721+00:00",
+ "label": null,
+ "mode": "evidence-only",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "According to The Guardian World: Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live"
+    },
+    {
+     "event_id": "E2",
+     "kind": "observed",
+     "refs": [
+      2,
+      3,
+      4
+     ],
+     "section": "Europe / Russia",
+     "text": "Krakow shooting suspect has died in hospital, police say"
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "According to France 24: 'We call it war-life balance': Daryna's daily struggle to live, survive in wartime Ukraine"
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Europe / Russia",
+     "text": "According to Al Jazeera: At least four people killed as Russia and Ukraine trade strikes overnight"
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      8
+     ],
+     "section": "Middle East",
+     "text": "According to France 24: Saudi Arabia intercepts Houthi missiles as Riyadh's Aramco building damaged"
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      9
+     ],
+     "section": "Middle East",
+     "text": "According to Reuters (via Google News): Oil falls as Trump signals restraint on Iran despite fresh shipping attacks"
+    },
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      10
+     ],
+     "section": "Middle East",
+     "text": "According to BBC News World: Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes"
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "34ac4a1f64169d13",
+   "n": 1,
+   "name": "The Guardian World",
+   "published": "2026-11-09T12:43:10+00:00",
+   "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
+  },
+  {
+   "id": "4bd23233bd3238eb",
+   "n": 2,
+   "name": "BBC News World",
+   "published": "2026-11-09T11:56:25+00:00",
+   "title": "Krakow shooting suspect has died in hospital, police say",
+   "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o"
+  },
+  {
+   "id": "714d42698e915433",
+   "n": 3,
+   "name": "Deutsche Welle",
+   "published": "2026-11-09T06:53:00+00:00",
+   "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+   "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-world-4025-rdf"
+  },
+  {
+   "id": "3337f13987e8a49a",
+   "n": 4,
+   "name": "Al Jazeera",
+   "published": "2026-11-09T07:03:24+00:00",
+   "title": "Poland mass shooting assailant dies in hospital, police say",
+   "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
+  },
+  {
+   "id": "1349017086532979",
+   "n": 5,
+   "name": "France 24",
+   "published": "2026-11-09T09:10:50+00:00",
+   "title": "'We call it war-life balance': Daryna's daily struggle to live, survive in wartime Ukraine",
+   "url": "https://www.france24.com/en/europe/20261109-we-call-it-war-life-balance-daryna-s-daily-struggle-to-live-survive-in-wartime-ukraine"
+  },
+  {
+   "id": "381127e0274a5136",
+   "n": 6,
+   "name": "Al Jazeera",
+   "published": "2026-11-09T10:08:45+00:00",
+   "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
+   "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss"
+  },
+  {
+   "id": "2cbf9593ea34fda0",
+   "n": 7,
+   "name": "GDACS",
+   "published": "2026-11-09T03:45:14+00:00",
+   "title": "Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576364"
+  },
+  {
+   "id": "908b03ae8d4d6284",
+   "n": 8,
+   "name": "France 24",
+   "published": "2026-11-09T10:41:55+00:00",
+   "title": "Saudi Arabia intercepts Houthi missiles as Riyadh's Aramco building damaged",
+   "url": "https://www.france24.com/en/video/20261109-saudi-arabia-intercepts-houthi-missiles-as-riyadh-s-aramco-building-damaged"
+  },
+  {
+   "id": "6057b07c22d0417e",
+   "n": 9,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-08T23:50:00+00:00",
+   "title": "Oil falls as Trump signals restraint on Iran despite fresh shipping attacks",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
+  },
+  {
+   "id": "758129ee12ce6a6f",
+   "n": 10,
+   "name": "BBC News World",
+   "published": "2026-11-08T21:37:36+00:00",
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4530,
+  "tokens_out": 864
+ },
+ "warnings": [
+  "Automated summary failed verification; evidence-only edition. bluf exceeds three sentences"
+ ],
+ "watch": [
+  {
+   "indicator": "Independent reporting on: Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+   "refs": [
+    1
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: 'We call it war-life balance': Daryna's daily struggle to live, survive in wartime Ukraine",
+   "refs": [
+    5
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: At least four people killed as Russia and Ukraine trade strikes overnight",
+   "refs": [
+    6
+   ],
+   "significance": "Would confirm or contradict the current account."
+  }
+ ],
+ "window_end": "2026-11-09T13:16:44.537721+00:00",
+ "window_start": "2026-11-08T13:16:44.537721+00:00",
+ "words": 281
+}
