@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-09T13:16:44.537721+00:00</updated>
+<updated>2026-11-10T12:05:28.286686+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-10</id><title>Campfire Transmissions 2026-11-10</title><updated>2026-11-10T12:05:28.286686+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-10.epub"/><summary>BBC News World reported at least 17 deaths in a steel factory blast in Turkey. Al Jazeera reported that a drone strike at Khor Mor disrupted electricity supply in Iraq&#x27;s semi-autonomous Kurdish region. BleepingComputer reported that N-able took hosted N-central environments offline after disclosure of more than 30 alleged zero-day vulnerabilities.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; BBC News World reported at least 17 deaths in a steel factory blast in Turkey. Al Jazeera reported that a drone strike at Khor Mor disrupted electricity supply in Iraq&amp;#x27;s semi-autonomous Kurdish region. BleepingComputer reported that N-able took hosted N-central environments offline after disclosure of more than 30 alleged zero-day vulnerabilities.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News World reported that France accused Iran of supermarket fridge hacking and that tons of chilled and frozen food spoiled last month as fridges and freezers in hundreds of supermarkets heated up. Al Jazeera reported that France summoned Iran&amp;#x27;s ambassador over supermarket fridge &amp;#x27;sabotage&amp;#x27; and that the French government said it was seeking tough sanctions to deter further cyberattacks across Europe. Timing of the diplomatic actions was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [4][5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Al Jazeera reported that a drone strike at Khor Mor disrupted electricity supply in Iraq&amp;#x27;s semi-autonomous Kurdish region, renewing concerns about armed groups and energy security. Event timing was not stated; the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News World reported at least 17 deaths in a steel factory blast in Turkey, with eyewitness accounts describing an explosion near the Habas Demir Celik plant in Aliaga. Event timing was not stated; the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that N-able took its hosted N-central environments offline and urged on-premises customers to shut down their servers after a researcher publicly disclosed more than 30 alleged zero-day vulnerabilities. Event timing was not stated; the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;BleepingComputer reported that Google released emergency security updates for a Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. Release timing was not stated; the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;li&gt;BleepingComputer reported that Vanderbilt University was responding to a cyberattack claimed by the BYOD ransomware gang. The gang claimed it encrypted university databases and stole sensitive student, employee, and research data. Event timing was not stated; the claims were not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;5 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Production suspended at Iraq&amp;#x27;s Khor Mor gas field after drone attack, sources say [2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo&quot;&gt;BBC News World: Turkey steel factory blast kills at least 17 people&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss&quot;&gt;Al Jazeera: Khor Mor drone attack raises fears over Iraq’s energy security&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published&quot;&gt;BleepingComputer: N-able takes cloud platform offline after 30+ &amp;quot;zero-days&amp;quot; published&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cmg474vk6dyqo&quot;&gt;BBC News World: France accuses Iran of supermarket fridge hacking&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss&quot;&gt;Al Jazeera: France summons Iran’s ambassador over supermarket fridge ‘sabotage’&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year&quot;&gt;BleepingComputer: Google patches eighth Chrome zero-day exploited in attacks this year&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed&quot;&gt;BleepingComputer: Vanderbilt University hit in BYOD ransomware attack, data theft claimed&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-09</id><title>Campfire Transmissions 2026-11-09</title><updated>2026-11-09T13:16:44.537721+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-09.epub"/><summary>Highest-ranked development: Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Highest-ranked development: Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live. Further items follow by region.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;According to The Guardian World: Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;

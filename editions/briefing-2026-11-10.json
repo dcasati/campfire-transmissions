@@ -1,0 +1,226 @@
+{
+ "bluf": "BBC News World reported at least 17 deaths in a steel factory blast in Turkey. Al Jazeera reported that a drone strike at Khor Mor disrupted electricity supply in Iraq's semi-autonomous Kurdish region. BleepingComputer reported that N-able took hosted N-central environments offline after disclosure of more than 30 alleged zero-day vulnerabilities.",
+ "changes": [
+  {
+   "refs": [
+    2
+   ],
+   "text": "Updated since previous brief: Production suspended at Iraq's Khor Mor gas field after drone attack, sources say"
+  }
+ ],
+ "changes_summary": "5 new and 1 updated development(s) reported.",
+ "collection": {
+  "clusters": 164,
+  "items": 217,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E1",
+   "kind": "attributed",
+   "refs": [
+    3
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that N-able took its hosted N-central environments offline and urged on-premises customers to shut down their servers after a researcher publicly disclosed more than 30 alleged zero-day vulnerabilities. Event timing was not stated; the report was not independently corroborated."
+  },
+  {
+   "event_id": "E2",
+   "kind": "attributed",
+   "refs": [
+    6
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that Google released emergency security updates for a Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. Release timing was not stated; the report was not independently corroborated."
+  },
+  {
+   "event_id": "E4",
+   "kind": "attributed",
+   "refs": [
+    7
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that Vanderbilt University was responding to a cyberattack claimed by the BYOD ransomware gang. The gang claimed it encrypted university databases and stole sensitive student, employee, and research data. Event timing was not stated; the claims were not independently corroborated."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-10",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 7.85,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 6.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 6.7,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E7",
+   "score": 6.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 6.7,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-10T12:05:28.286686+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      4,
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that France accused Iran of supermarket fridge hacking and that tons of chilled and frozen food spoiled last month as fridges and freezers in hundreds of supermarkets heated up. Al Jazeera reported that France summoned Iran's ambassador over supermarket fridge 'sabotage' and that the French government said it was seeking tough sanctions to deter further cyberattacks across Europe. Timing of the diplomatic actions was not stated."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Middle East",
+     "text": "Al Jazeera reported that a drone strike at Khor Mor disrupted electricity supply in Iraq's semi-autonomous Kurdish region, renewing concerns about armed groups and energy security. Event timing was not stated; the report was not independently corroborated."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Other Regions",
+     "text": "BBC News World reported at least 17 deaths in a steel factory blast in Turkey, with eyewitness accounts describing an explosion near the Habas Demir Celik plant in Aliaga. Event timing was not stated; the report was not independently corroborated."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "bfba74fdc28fbe1a",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-09T20:42:04+00:00",
+   "title": "Turkey steel factory blast kills at least 17 people",
+   "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+  },
+  {
+   "id": "f4a2f49004b2be14",
+   "n": 2,
+   "name": "Al Jazeera",
+   "published": "2026-11-10T06:22:00+00:00",
+   "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss"
+  },
+  {
+   "id": "b024199ea3b9c784",
+   "n": 3,
+   "name": "BleepingComputer",
+   "published": "2026-11-09T21:26:25+00:00",
+   "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+   "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published"
+  },
+  {
+   "id": "378762c45f75e88a",
+   "n": 4,
+   "name": "BBC News World",
+   "published": "2026-11-09T20:20:08+00:00",
+   "title": "France accuses Iran of supermarket fridge hacking",
+   "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+  },
+  {
+   "id": "fb787cd5b4a08519",
+   "n": 5,
+   "name": "Al Jazeera",
+   "published": "2026-11-10T10:51:02+00:00",
+   "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+   "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss"
+  },
+  {
+   "id": "b12ca73a56ad5494",
+   "n": 6,
+   "name": "BleepingComputer",
+   "published": "2026-11-10T08:51:25+00:00",
+   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year"
+  },
+  {
+   "id": "5fa4642d1d14b30c",
+   "n": 7,
+   "name": "BleepingComputer",
+   "published": "2026-11-09T23:52:12+00:00",
+   "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+   "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4310,
+  "tokens_out": 1250
+ },
+ "warnings": [],
+ "watch": [],
+ "window_end": "2026-11-10T12:05:28.286686+00:00",
+ "window_start": "2026-11-09T12:05:28.286686+00:00",
+ "words": 342
+}
