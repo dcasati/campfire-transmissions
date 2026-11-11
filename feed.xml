@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-10T12:05:28.286686+00:00</updated>
+<updated>2026-11-11T19:38:32.852399+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-11</id><title>Campfire Transmissions 2026-11-11</title><updated>2026-11-11T19:38:32.852399+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-11.epub"/><summary>The Guardian World reported that millions joined Spain’s first general strike in 14 years to protest housing prices, less than three weeks before parliamentary elections. BleepingComputer reported that CISA warned a Cisco BroadWorks vulnerability was being exploited in attacks.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; The Guardian World reported that millions joined Spain’s first general strike in 14 years to protest housing prices, less than three weeks before parliamentary elections. BleepingComputer reported that CISA warned a Cisco BroadWorks vulnerability was being exploited in attacks.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that Iranian security chief Mohsen Rezaei said Tehran would attack US bases in Europe if they were used for bombing raids against Iran. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Guardian World reported that millions joined the general strike in Spain to protest housing prices; BBC News World said protests were expected in major cities ahead of parliamentary elections. &lt;i&gt;(attributed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that CISA warned hackers were exploiting a high-severity Cisco BroadWorks vulnerability in attacks. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;The Record reported that Microsoft’s latest Patch Tuesday listed 1,093 bugs and that an exploited Outlook vulnerability drew most of the attention. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;3 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: CISA flags WordPress RCE flaw as actively exploited in attacks [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Protests in Spain’s biggest cities, which BBC News World said were expected.&lt;/b&gt; Their presence would indicate where strike-related protests are taking place ahead of the parliamentary elections. [1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwvg25nypmrvo&quot;&gt;BBC News World: Spain sees widespread disruption in first general strike for 14 years&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs&quot;&gt;The Guardian World: Millions join Spain’s first general strike in 14 years in protest at housing costs&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks&quot;&gt;BleepingComputer: CISA flags Cisco BroadWorks flaw as actively exploited in attacks&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://therecord.media/patch-tuesday-microsoft-1000-bugs-again&quot;&gt;The Record: Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says&quot;&gt;France 24: Tehran will strike US bases in Europe if used to attack Iran, security chief says&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-10</id><title>Campfire Transmissions 2026-11-10</title><updated>2026-11-10T12:05:28.286686+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-10.epub"/><summary>BBC News World reported at least 17 deaths in a steel factory blast in Turkey. Al Jazeera reported that a drone strike at Khor Mor disrupted electricity supply in Iraq&#x27;s semi-autonomous Kurdish region. BleepingComputer reported that N-able took hosted N-central environments offline after disclosure of more than 30 alleged zero-day vulnerabilities.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; BBC News World reported at least 17 deaths in a steel factory blast in Turkey. Al Jazeera reported that a drone strike at Khor Mor disrupted electricity supply in Iraq&amp;#x27;s semi-autonomous Kurdish region. BleepingComputer reported that N-able took hosted N-central environments offline after disclosure of more than 30 alleged zero-day vulnerabilities.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;BBC News World reported that France accused Iran of supermarket fridge hacking and that tons of chilled and frozen food spoiled last month as fridges and freezers in hundreds of supermarkets heated up. Al Jazeera reported that France summoned Iran&amp;#x27;s ambassador over supermarket fridge &amp;#x27;sabotage&amp;#x27; and that the French government said it was seeking tough sanctions to deter further cyberattacks across Europe. Timing of the diplomatic actions was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [4][5]&lt;/li&gt;
