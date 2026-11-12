@@ -1,0 +1,244 @@
+{
+ "bluf": "Highest-ranked development: Israeli strike on Gaza hospital kills six Palestinians, health ministry says. Further items follow by region.",
+ "changes": [],
+ "changes_summary": "7 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 153,
+  "items": 243,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [],
+ "edition": "2026-11-12",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-12T12:05:27.298373+00:00",
+ "label": null,
+ "mode": "evidence-only",
+ "sections": [
+  {
+   "items": [],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Middle East",
+     "text": "According to BBC News World: Israeli strike on Gaza hospital kills six Palestinians, health ministry says"
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Middle East",
+     "text": "According to Deutsche Welle: Israel targets senior Hamas member in Gaza hospital strike"
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "According to The Guardian World: Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others"
+    },
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "According to The Guardian World: Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems"
+    },
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "Middle East",
+     "text": "According to The Guardian World: Trump planning new military assault or tighter sanctions, say Iranian officials"
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Indo-Pacific",
+     "text": "According to Al Jazeera: Ten police officers, 18 fighters killed in northwest Pakistan attack"
+    }
+   ],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "North America",
+     "text": "According to BBC News World: Four grizzly bears killed in Canada after fatal attack on mother and daughter"
+    }
+   ],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "f3c5272ca1471829",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-12T12:03:47+00:00",
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
+  },
+  {
+   "id": "92a13e3301116e0a",
+   "n": 2,
+   "name": "Deutsche Welle",
+   "published": "2026-11-12T11:27:00+00:00",
+   "title": "Israel targets senior Hamas member in Gaza hospital strike",
+   "url": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf"
+  },
+  {
+   "id": "6e0cb4a87e740b3a",
+   "n": 3,
+   "name": "The Guardian World",
+   "published": "2026-11-12T11:24:09+00:00",
+   "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+   "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+  },
+  {
+   "id": "a3a8143d72caaf86",
+   "n": 4,
+   "name": "The Guardian World",
+   "published": "2026-11-12T03:00:07+00:00",
+   "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems"
+  },
+  {
+   "id": "af3aefb2bd20da30",
+   "n": 5,
+   "name": "BBC News World",
+   "published": "2026-11-11T13:24:29+00:00",
+   "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+   "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo"
+  },
+  {
+   "id": "3d1b1518d76109d5",
+   "n": 6,
+   "name": "Al Jazeera",
+   "published": "2026-11-12T08:35:20+00:00",
+   "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+   "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss"
+  },
+  {
+   "id": "e67498a9b2e9e867",
+   "n": 7,
+   "name": "The Guardian World",
+   "published": "2026-11-11T18:47:57+00:00",
+   "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
+   "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4619,
+  "tokens_out": 925
+ },
+ "warnings": [
+  "Automated summary failed verification; evidence-only edition. E1: assertive term 'killed' not in cited evidence; E3: known disagreement in evidence not disclosed"
+ ],
+ "watch": [
+  {
+   "indicator": "Independent reporting on: Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "refs": [
+    1
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: Israel targets senior Hamas member in Gaza hospital strike",
+   "refs": [
+    2
+   ],
+   "significance": "Would confirm or contradict the current account."
+  },
+  {
+   "indicator": "Independent reporting on: Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+   "refs": [
+    3
+   ],
+   "significance": "Would confirm or contradict the current account."
+  }
+ ],
+ "window_end": "2026-11-12T12:05:27.298373+00:00",
+ "window_start": "2026-11-11T12:05:27.298373+00:00",
+ "words": 201
+}
