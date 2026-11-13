@@ -1,16 +1,14 @@
 {
- "last_success": "2026-11-12T12:05:27.298373+00:00",
- "edition": "2026-11-12",
- "mode": "evidence-only",
- "words": 201,
+ "last_success": "2026-11-13T12:05:24.144140+00:00",
+ "edition": "2026-11-13",
+ "mode": "llm",
+ "words": 236,
  "usage": {
-  "calls": 2,
-  "tokens_in": 4619,
-  "tokens_out": 925,
+  "calls": 1,
+  "tokens_in": 2104,
+  "tokens_out": 487,
   "estimated_cost_usd": 0.0
  },
  "label": null,
- "warnings": [
-  "Automated summary failed verification; evidence-only edition. E1: assertive term 'killed' not in cited evidence; E3: known disagreement in evidence not disclosed"
- ]
+ "warnings": []
 }

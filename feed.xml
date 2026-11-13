@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-12T12:05:27.298373+00:00</updated>
+<updated>2026-11-13T12:05:24.144140+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-13</id><title>Campfire Transmissions 2026-11-13</title><updated>2026-11-13T12:05:24.144140+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-13.epub"/><summary>The Guardian World reported that Russia attacked a hospital in central Kyiv, near several western embassies. BBC News World reported that a Russian ballistic missile strike left one of Ukraine’s largest power stations barely standing, with the site under constant drone threat. Reuters and BleepingComputer reported a worldwide Microsoft 365 outage affecting Outlook, Teams and Copilot.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; The Guardian World reported that Russia attacked a hospital in central Kyiv, near several western embassies. BBC News World reported that a Russian ballistic missile strike left one of Ukraine’s largest power stations barely standing, with the site under constant drone threat. Reuters and BleepingComputer reported a worldwide Microsoft 365 outage affecting Outlook, Teams and Copilot.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Guardian World reported that Russia attacked a hospital in central Kyiv, close to several western embassies. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that one of Ukraine’s largest power stations was barely left standing after a Russian ballistic missile strike, and was under constant drone threat. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that a Russian warship was hit by a Ukrainian drone in the Gulf of Finland; the outlet said this was thought to be the first such attack on a Russian ship in an open stretch of the Baltic Sea. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;A worldwide Microsoft 365 outage affected Outlook, Teams and Copilot, with users reporting connectivity problems. &lt;i&gt;(observed)&lt;/i&gt; [3][4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that Check Point released emergency hotfixes for a high-severity flaw exploited to gain root privileges and establish persistence on vulnerable devices since late October. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;li&gt;BleepingComputer reported that a critical flaw in the Apache HTTP Server HTTP/2 module could allow an unauthenticated attacker to obtain remote code execution. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;6 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Further reports of connectivity problems with Outlook, Teams or Copilot&lt;/b&gt; Would indicate the worldwide Microsoft 365 outage is continuing to affect users. [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails&quot;&gt;The Guardian World: Russia strikes hospital in central Kyiv after SpaceX system falters again&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo&quot;&gt;BBC News World: &amp;#x27;We&amp;#x27;ve got to run&amp;#x27;: Inside ruined Ukraine power plant under constant drone threat&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5&quot;&gt;Reuters (via Google News): Microsoft outage hits Outlook, Teams and Copilot worldwide&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide&quot;&gt;BleepingComputer: Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cmn0d33zz34zo&quot;&gt;BBC News World: Russian warship hit by Ukrainian drone in Gulf of Finland&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access&quot;&gt;BleepingComputer: Check Point warns of zero-day flaw exploited for root access&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw&quot;&gt;BleepingComputer: Apache HTTP Server patches critical HTTP/2 remote code execution flaw&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-12</id><title>Campfire Transmissions 2026-11-12</title><updated>2026-11-12T12:05:27.298373+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-12.epub"/><summary>Highest-ranked development: Israeli strike on Gaza hospital kills six Palestinians, health ministry says. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Highest-ranked development: Israeli strike on Gaza hospital kills six Palestinians, health ministry says. Further items follow by region.&lt;/p&gt;
 &lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;According to BBC News World: Israeli strike on Gaza hospital kills six Palestinians, health ministry says &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
@@ -391,34 +417,5 @@
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5&quot;&gt;Reuters (via Google News): Saudi-led coalition says it downs drone over oil-rich Eastern Region&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo&quot;&gt;BBC News World: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5&quot;&gt;Reuters (via Google News): Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-10-30</id><title>Campfire Transmissions 2026-10-30</title><updated>2026-10-30T16:14:11.016532+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-10-30.epub"/><summary>Highest-ranked development: More than 43 million ballots cast so far in midterms early voting surge. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Highest-ranked development: More than 43 million ballots cast so far in midterms early voting surge. Further items follow by region.&lt;/p&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to Reuters (via Google News): Iran Deal Includes $300 Billion Fund, More Than Half of Which Already Committed, Source Says &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to BBC News World: More than 43 million ballots cast so far in midterms early voting surge &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;li&gt;According to Reuters (via Google News): Mapletree eyes Singapore IPO in 2027, Business Times reports, Money News &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;li&gt;According to Reuters (via Google News): EU military helicopter crash kills 4, injures 11 - PHOTO &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;li&gt;According to Reuters (via Google News): Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
-&lt;li&gt;According to France 24: Midterms 2026: The former neo-Nazi pastor speaking out against Trump &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to BleepingComputer: OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;7 new and 0 updated development(s) reported.&lt;/p&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: More than 43 million ballots cast so far in midterms early voting surge&lt;/b&gt; Would confirm or contradict the current account. [1]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: Mapletree eyes Singapore IPO in 2027, Business Times reports, Money News&lt;/b&gt; Would confirm or contradict the current account. [2]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: EU military helicopter crash kills 4, injures 11 - PHOTO&lt;/b&gt; Would confirm or contradict the current account. [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c30rlxkjv2yko&quot;&gt;BBC News World: More than 43 million ballots cast so far in midterms early voting surge&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzZZblJHY1plcjZuUllGdmJpNWxqNlM4cDEzTllOTmpQLU1kakdPd0lEd3gtYkNnb09ENDZ6eWJobWtGWDhKNWpveG9ORVFMc0M5ZWs0Nkl6cEtpaExOOVFPcFpxRTY2b3JfMFFTbXJ2UXlORDJnaE1CT05HTlhNM3lzVUhHX0F6NzNwajlGdw?oc=5&quot;&gt;Reuters (via Google News): Mapletree eyes Singapore IPO in 2027, Business Times reports, Money News&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMif0FVX3lxTE01ajdIX2xiVFJrUDdhWFlTVml1c2NHTDRvRHJZNXhsMWZSRGl5OW1SZHJpYjJvU2RiWXlhajJobWJIaEJuUjFnVGI0Sld0TGxTalloTjU0amRoQmY2OEhrdGV0UzhNZkVqamhXTTJpb0JudnJlc0RVc3A2WExFWjA?oc=5&quot;&gt;Reuters (via Google News): EU military helicopter crash kills 4, injures 11 - PHOTO&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzd3N0FYcjQ3ZFIzYjhnUWZ4V2tPT0QyUDQ5T0hCai1WM3JXRG1GWjNXUlczOEoxRmVyTmdicmNSSlVMWENEdUNjcFhFMkpFQUw4dW9Ed2V0c01EeWZ3cnhGSnhuQldid3pjVTVmOGVEV0Z5ZWZ1VWZncDhTUG9ROEdIMDNiYnRBaWJwSjBIUWN4TmFrTHpyalRYQ183T3lJWGRUTl94d0cxM1FuejJHZFM3R1piRllmbVE?oc=5&quot;&gt;Reuters (via Google News): Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlZxa2pabWh6QjU5cU9hZkN4am5vZkllNllpUGZTMWotMjQyU1puWXFqX2dlNVNEUEJyUjBaeHJJYXcydnBNVk9HbkFBM29RdDVSOUlHUzZxZFBVbUpRNGF6ejVoRDZtU1o1ODFvNXZOZFZvVGFnR1R2aC0xTU50bEVtVWhmcGdwZVRpWU5KQW1xS1JxUXR3YVJFeGFLcndDcjJmLV83OWhpZERGald5c28xUnpCZU41ZmVNTQ?oc=5&quot;&gt;Reuters (via Google News): Iran Deal Includes $300 Billion Fund, More Than Half of Which Already Committed, Source Says&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut&quot;&gt;BleepingComputer: OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261030-midterms-2026-the-former-neo-nazi-pastor-speaking-out-against-trump&quot;&gt;France 24: Midterms 2026: The former neo-Nazi pastor speaking out against Trump&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>

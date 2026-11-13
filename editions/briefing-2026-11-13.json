@@ -1,0 +1,226 @@
+{
+ "bluf": "The Guardian World reported that Russia attacked a hospital in central Kyiv, near several western embassies. BBC News World reported that a Russian ballistic missile strike left one of Ukraine’s largest power stations barely standing, with the site under constant drone threat. Reuters and BleepingComputer reported a worldwide Microsoft 365 outage affecting Outlook, Teams and Copilot.",
+ "changes": [],
+ "changes_summary": "6 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 172,
+  "items": 205,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E7",
+   "kind": "attributed",
+   "refs": [
+    6
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that Check Point released emergency hotfixes for a high-severity flaw exploited to gain root privileges and establish persistence on vulnerable devices since late October."
+  },
+  {
+   "event_id": "E6",
+   "kind": "attributed",
+   "refs": [
+    7
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that a critical flaw in the Apache HTTP Server HTTP/2 module could allow an unauthenticated attacker to obtain remote code execution."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-13",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E3",
+   "score": 7.9,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.85,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.75,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-13T12:05:24.144140+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "The Guardian World reported that Russia attacked a hospital in central Kyiv, close to several western embassies."
+    },
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that one of Ukraine’s largest power stations was barely left standing after a Russian ballistic missile strike, and was under constant drone threat."
+    },
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that a Russian warship was hit by a Ukrainian drone in the Gulf of Finland; the outlet said this was thought to be the first such attack on a Russian ship in an open stretch of the Baltic Sea."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "observed",
+     "refs": [
+      3,
+      4
+     ],
+     "section": "Other Regions",
+     "text": "A worldwide Microsoft 365 outage affected Outlook, Teams and Copilot, with users reporting connectivity problems."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "14dfc28111e6f86c",
+   "n": 1,
+   "name": "The Guardian World",
+   "published": "2026-11-13T11:24:30+00:00",
+   "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+   "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails"
+  },
+  {
+   "id": "802a209729e4a7d6",
+   "n": 2,
+   "name": "BBC News World",
+   "published": "2026-11-12T13:02:46+00:00",
+   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo"
+  },
+  {
+   "id": "3681c6c6d49c0bed",
+   "n": 3,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-12T18:32:00+00:00",
+   "title": "Microsoft outage hits Outlook, Teams and Copilot worldwide",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5"
+  },
+  {
+   "id": "8078751360462653",
+   "n": 4,
+   "name": "BleepingComputer",
+   "published": "2026-11-12T20:15:16+00:00",
+   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide"
+  },
+  {
+   "id": "8e8be77758f1ce4e",
+   "n": 5,
+   "name": "BBC News World",
+   "published": "2026-11-12T20:09:16+00:00",
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+  },
+  {
+   "id": "1b4785a1c9f30cfa",
+   "n": 6,
+   "name": "BleepingComputer",
+   "published": "2026-11-13T10:44:22+00:00",
+   "title": "Check Point warns of zero-day flaw exploited for root access",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access"
+  },
+  {
+   "id": "3e5624deb17b6943",
+   "n": 7,
+   "name": "BleepingComputer",
+   "published": "2026-11-12T19:12:55+00:00",
+   "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2104,
+  "tokens_out": 487
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Further reports of connectivity problems with Outlook, Teams or Copilot",
+   "refs": [
+    4
+   ],
+   "significance": "Would indicate the worldwide Microsoft 365 outage is continuing to affect users."
+  }
+ ],
+ "window_end": "2026-11-13T12:05:24.144140+00:00",
+ "window_start": "2026-11-12T12:05:24.144140+00:00",
+ "words": 236
+}
