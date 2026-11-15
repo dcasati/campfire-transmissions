@@ -1,0 +1,242 @@
+{
+ "bluf": "A Jordanian court sentenced three men to death over a church attack in Karak governorate that killed nine, according to BBC News World, Al Jazeera and France 24. BBC News World reported that Hamas and Israeli military officials confirmed the death of Hamas commander Samir Abu Younis in a strike on a Gaza camp.",
+ "changes": [
+  {
+   "refs": [
+    8
+   ],
+   "text": "Updated since previous brief: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km."
+  }
+ ],
+ "changes_summary": "5 new and 1 updated development(s) reported.",
+ "collection": {
+  "clusters": 110,
+  "items": 148,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [
+  {
+   "event_id": "E6",
+   "kind": "attributed",
+   "refs": [
+    8
+   ],
+   "section": "Significant Disasters",
+   "text": "GDACS reported a magnitude 5.5 earthquake at a depth of 469.881 km in Fiji at 05:15:02 AM on 11/15/2026, potentially affecting few people within 100 km."
+  }
+ ],
+ "edition": "2026-11-15",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 10.667,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 6.6,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E6",
+   "score": 6.3,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 5.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 5.8,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-15T12:05:27.171324+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "BBC News World reported that Hamas and IDF officials confirmed the death of Hamas commander Samir Abu Younis in a strike on a Gaza camp."
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Middle East",
+     "text": "France 24 reported that Iran's military confirmed an attack on a US military base in Bahrain, while Bahrain's military said it intercepted several Iranian attacks; the report described this as Iran's second targeting of Bahrain in three days."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "observed",
+     "refs": [
+      1,
+      2,
+      3
+     ],
+     "section": "Other Regions",
+     "text": "On Sunday, a Jordanian court sentenced three men to death over an attack on a church funeral in Karak governorate that killed nine."
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Other Regions",
+     "text": "Al Jazeera reported waves of drone attacks on power stations in Sudan, resulting in power outages."
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "Other Regions",
+     "text": "BBC News World reported that US officials attributed US flight disruption to old equipment overloading, not a cyberattack."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "11f7e70ff488c9cd",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-15T11:06:32+00:00",
+   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+   "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo"
+  },
+  {
+   "id": "82850fde6676df4c",
+   "n": 2,
+   "name": "Al Jazeera",
+   "published": "2026-11-15T08:15:04+00:00",
+   "title": "Jordan sentences three men to death by hanging after deadly church attack",
+   "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss"
+  },
+  {
+   "id": "cfdbddd0326efbe1",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-11-15T08:53:39+00:00",
+   "title": "Three sentenced to death over Jordan church attack",
+   "url": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack"
+  },
+  {
+   "id": "6d8f0dff3438fc39",
+   "n": 4,
+   "name": "BBC News World",
+   "published": "2026-11-15T08:17:41+00:00",
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo"
+  },
+  {
+   "id": "23e345aee6b4af21",
+   "n": 5,
+   "name": "France 24",
+   "published": "2026-11-15T09:57:35+00:00",
+   "title": "Iran claims attack on US military airbase in Bahrain",
+   "url": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
+  },
+  {
+   "id": "d473a0e9237e2e7e",
+   "n": 6,
+   "name": "Al Jazeera",
+   "published": "2026-11-15T09:59:37+00:00",
+   "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+   "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss"
+  },
+  {
+   "id": "f4aa784a106a63e0",
+   "n": 7,
+   "name": "BBC News World",
+   "published": "2026-11-14T23:11:27+00:00",
+   "title": "How telecoms upgrade work sparked US flight chaos",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+  },
+  {
+   "id": "59a69df3ee0ed964",
+   "n": 8,
+   "name": "GDACS",
+   "published": "2026-11-15T05:31:38+00:00",
+   "title": "Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577445"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2234,
+  "tokens_out": 444
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Further reported Iranian attacks or interceptions in Bahrain.",
+   "refs": [
+    5
+   ],
+   "significance": "Would indicate whether the reported targeting and interceptions are continuing."
+  }
+ ],
+ "window_end": "2026-11-15T12:05:27.171324+00:00",
+ "window_start": "2026-11-14T12:05:27.171324+00:00",
+ "words": 244
+}

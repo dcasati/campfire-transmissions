@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-14T12:05:46.262821+00:00</updated>
+<updated>2026-11-15T12:05:27.171324+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-15</id><title>Campfire Transmissions 2026-11-15</title><updated>2026-11-15T12:05:27.171324+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-15.epub"/><summary>A Jordanian court sentenced three men to death over a church attack in Karak governorate that killed nine, according to BBC News World, Al Jazeera and France 24. BBC News World reported that Hamas and Israeli military officials confirmed the death of Hamas commander Samir Abu Younis in a strike on a Gaza camp.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; A Jordanian court sentenced three men to death over a church attack in Karak governorate that killed nine, according to BBC News World, Al Jazeera and France 24. BBC News World reported that Hamas and Israeli military officials confirmed the death of Hamas commander Samir Abu Younis in a strike on a Gaza camp.&lt;/p&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News World reported that Hamas and IDF officials confirmed the death of Hamas commander Samir Abu Younis in a strike on a Gaza camp. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;li&gt;France 24 reported that Iran&amp;#x27;s military confirmed an attack on a US military base in Bahrain, while Bahrain&amp;#x27;s military said it intercepted several Iranian attacks; the report described this as Iran&amp;#x27;s second targeting of Bahrain in three days. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;On Sunday, a Jordanian court sentenced three men to death over an attack on a church funeral in Karak governorate that killed nine. &lt;i&gt;(observed)&lt;/i&gt; [1][2][3]&lt;/li&gt;
+&lt;li&gt;Al Jazeera reported waves of drone attacks on power stations in Sudan, resulting in power outages. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that US officials attributed US flight disruption to old equipment overloading, not a cyberattack. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Significant Disasters&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GDACS reported a magnitude 5.5 earthquake at a depth of 469.881 km in Fiji at 05:15:02 AM on 11/15/2026, potentially affecting few people within 100 km. &lt;i&gt;(attributed)&lt;/i&gt; [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;5 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km. [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Further reported Iranian attacks or interceptions in Bahrain.&lt;/b&gt; Would indicate whether the reported targeting and interceptions are continuing. [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo&quot;&gt;BBC News World: Three men sentenced to death in Jordan over fatal church mass shooting&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss&quot;&gt;Al Jazeera: Jordan sentences three men to death by hanging after deadly church attack&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack&quot;&gt;France 24: Three sentenced to death over Jordan church attack&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo&quot;&gt;BBC News World: Israel kills Hamas commander in strike on Gaza camp, officials say&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain&quot;&gt;France 24: Iran claims attack on US military airbase in Bahrain&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss&quot;&gt;Al Jazeera: Drone attacks on power stations plunge Sudan’s cities into darkness&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo&quot;&gt;BBC News World: How telecoms upgrade work sparked US flight chaos&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1577445&quot;&gt;GDACS: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-14</id><title>Campfire Transmissions 2026-11-14</title><updated>2026-11-14T12:05:46.262821+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-14.epub"/><summary>Deutsche Welle reported Iran claimed it struck US radar systems in Bahrain; The Guardian reported Iran’s Revolutionary Guard said it targeted and destroyed an early-warning radar there, while the US said it intercepted the attacks. France 24 reported US flights were resuming after a nationwide ground stop, with more than 2,000 cancellations as airlines worked to return to normal operations. France 24 reported the White House confirmed a planned meeting of Trump, Xi and Putin in Shenzhen on Thursday, with nuclear weapons and the war in Iran among likely discussion topics.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Deutsche Welle reported Iran claimed it struck US radar systems in Bahrain; The Guardian reported Iran’s Revolutionary Guard said it targeted and destroyed an early-warning radar there, while the US said it intercepted the attacks. France 24 reported US flights were resuming after a nationwide ground stop, with more than 2,000 cancellations as airlines worked to return to normal operations. France 24 reported the White House confirmed a planned meeting of Trump, Xi and Putin in Shenzhen on Thursday, with nuclear weapons and the war in Iran among likely discussion topics.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;France 24 reported the White House confirmed Trump, Xi and Putin are scheduled to meet in Shenzhen on Thursday, with nuclear weapons and the war in Iran among likely discussion topics; BBC News reported Trump would discuss reducing nuclear weapons. &lt;i&gt;(attributed)&lt;/i&gt; [4][5]&lt;/li&gt;
@@ -380,37 +410,5 @@
 &lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261102-iran-offers-deal-on-hormuz-strait-netanyahu-wants-to-finish-the-job&quot;&gt;France 24: Iran offers deal on Hormuz Strait, Netanyahu wants to &amp;#x27;finish the job&amp;#x27;&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo&quot;&gt;BBC News World: Fighting returns to Kherson region after longest Ukraine war ceasefire&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro&quot;&gt;BBC News World: &amp;#x27;All this food is now useless&amp;#x27;: Piles of rubbish after shop freezers hit by cyber-attack&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-01</id><title>Campfire Transmissions 2026-11-01</title><updated>2026-11-01T16:05:37.750454+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-01.epub"/><summary>Al Jazeera reported that at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across Gaza. France 24 reported residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory after a rare local truce. Iran&#x27;s supreme leader warned the United States and Israel against further strikes amid tensions over a possible return to fighting.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Al Jazeera reported that at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across Gaza. France 24 reported residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory after a rare local truce. Iran&amp;#x27;s supreme leader warned the United States and Israel against further strikes amid tensions over a possible return to fighting.&lt;/p&gt;
-&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;France 24 reported that residents evacuated from Russian-occupied Oleshky reached Ukrainian-held territory following a rare local truce; the event time was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;li&gt;Bulgarians voted Sunday in a presidential runoff amid Black Sea tensions; reports also cited economic challenges and attacks on ships. &lt;i&gt;(observed)&lt;/i&gt; [4][5]&lt;/li&gt;
-&lt;li&gt;Reuters reported that Russia would build a 2GW nuclear power plant in Ghana. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to Al Jazeera, at least eight Palestinians, including a four-year-old, were killed in Israeli drone attacks across the Gaza Strip; the event time was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;li&gt;France 24 reported that Iran&amp;#x27;s supreme leader warned the United States and Israel against further strikes as tensions mounted over a possible return to fighting. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Significant Disasters&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;GDACS reported a magnitude 6 earthquake in Japan at 22:15 UTC on 31/10/2026, at a depth of 352.449 km, potentially affecting 60 thousand in MMI III. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
-&lt;li&gt;GDACS reported a magnitude 6 earthquake in Vanuatu at 11:47 UTC on 01/11/2026, at a depth of 10 km, potentially affecting 2 thousand in MMI IV. &lt;i&gt;(attributed)&lt;/i&gt; [8]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;5 new and 2 updated development(s) reported.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Updated since previous brief: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV. [7]&lt;/li&gt;
-&lt;li&gt;Updated since previous brief: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV. [8]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Any further US or Israeli military action on Tehran.&lt;/b&gt; Would indicate the military action described as threatened, amid tensions over a possible return to fighting. [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss&quot;&gt;Al Jazeera: At least eight Palestinians killed in Israeli attacks across Gaza&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/oleshky-residents-return-to-ukraine&quot;&gt;France 24: Oleshky residents return to Ukraine&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks&quot;&gt;France 24: Iran&amp;#x27;s Khamenei warns US and Israel against new attacks&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea&quot;&gt;France 24: Bulgarians vote in presidential runoff amid security tensions in the Black Sea&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss&quot;&gt;Al Jazeera: Bulgarians vote in presidential run-off amid Black Sea tensions&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMicEFVX3lxTFA0dDNiXzctaS0zMDVzd2ViX2xtazBRZm5CRGJ2OF9nQ2JMT2p6X1czckxpWkxYaDlXMFB1WDRkM19JWVZVTkZIZm9MYnQwT0hzUlVsLVgxNkt6eWpHaEVCYUNKbDVkakhHOXF2QVQ5ZXHSAXBBVV95cUxQNHQzYl83LWktMzA1c3dlYl9sbWswUWZuQkRidjhfZ0NiTE9qel9XM3JMaVpMWGg5VzBQdVg0ZDNfSVlWVU5GSGZvTGJ0ME9Ic1JVbC1YMTZLenlqR2hFQmFDSmw1ZGpIRzlxdkFUOWVx?oc=5&quot;&gt;Reuters (via Google News): Russia to build 2GW nuclear power plant in Ghana, Reuters reports&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1574997&quot;&gt;GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1575068&quot;&gt;GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>
