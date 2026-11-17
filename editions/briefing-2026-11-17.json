@@ -1,0 +1,259 @@
+{
+ "bluf": "BBC News World reported that continuing Russian strikes are hampering efforts to recover bodies after a double-tap strike in southern Ukraine. France 24 reported that Russian strikes on two bridges in Kyiv disrupted water and power supplies. A third US aircraft carrier has arrived in the Middle East, US Central Command said.",
+ "changes": [
+  {
+   "refs": [
+    9
+   ],
+   "text": "Updated since previous brief: Iran claims attack on US military airbase in Bahrain"
+  }
+ ],
+ "changes_summary": "7 new and 1 updated development(s) reported.",
+ "collection": {
+  "clusters": 145,
+  "items": 181,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E3",
+   "kind": "attributed",
+   "refs": [
+    4
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that a Kazakh national was extradited from Italy to the US to face charges alleging ransomware attacks targeting US schools, hospitals and healthcare entities."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-17",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 9.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 6.85,
+   "status": "updated"
+  }
+ ],
+ "generated_at": "2026-11-17T12:05:26.559363+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that officials said continuing Russian strikes were hampering efforts to recover bodies after a double-tap strike in southern Ukraine. Ukraine accused Russia of targeting the rescue operation."
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that Russian forces struck two bridges across the Dnipro River in Kyiv late Monday, causing water and power cuts in parts of the city."
+    },
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Europe / Russia",
+     "text": "The Guardian World reported that Ukraine hit the Kerch bridge linking Russia and occupied Crimea during an overnight drone barrage, temporarily restricting traffic."
+    },
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "Europe / Russia",
+     "text": "The Guardian World reported that Ukraine critically damaged the Kerch bridge in an overnight missile attack, leaving it no longer usable."
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      8
+     ],
+     "section": "Europe / Russia",
+     "text": "Al Jazeera reported that a Moscow-installed governor said traffic was suspended after a second attack on the bridge between Crimea and Russia in two days."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "observed",
+     "refs": [
+      1,
+      2
+     ],
+     "section": "Middle East",
+     "text": "A third US aircraft carrier arrived in the Middle East, US Central Command said, bringing thousands more troops to the region."
+    },
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      9
+     ],
+     "section": "Middle East",
+     "text": "Al Jazeera reported that Bahrain thwarted a drone attack and that Iran claimed to have targeted US radar. The IRGC said the attack was intended to counter US forces' activities in the region."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "ca89adf20e18c0d6",
+   "n": 1,
+   "name": "The Guardian World",
+   "published": "2026-11-16T21:13:02+00:00",
+   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military"
+  },
+  {
+   "id": "53ff0dfe8a001340",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-17T10:46:27+00:00",
+   "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
+   "url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain"
+  },
+  {
+   "id": "050a46d9a837d17a",
+   "n": 3,
+   "name": "BBC News World",
+   "published": "2026-11-17T05:59:01+00:00",
+   "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+   "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo"
+  },
+  {
+   "id": "3e6e491ab07fd893",
+   "n": 4,
+   "name": "BleepingComputer",
+   "published": "2026-11-17T07:25:44+00:00",
+   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison"
+  },
+  {
+   "id": "88719774137ae498",
+   "n": 5,
+   "name": "France 24",
+   "published": "2026-11-17T00:58:33+00:00",
+   "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+   "url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
+  },
+  {
+   "id": "3c35d058abb88f65",
+   "n": 6,
+   "name": "The Guardian World",
+   "published": "2026-11-16T12:45:09+00:00",
+   "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+   "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+  },
+  {
+   "id": "ee7e64f9d829c36c",
+   "n": 7,
+   "name": "The Guardian World",
+   "published": "2026-11-17T11:26:49+00:00",
+   "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike"
+  },
+  {
+   "id": "3b541f4c619ce343",
+   "n": 8,
+   "name": "Al Jazeera",
+   "published": "2026-11-17T08:12:06+00:00",
+   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+   "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss"
+  },
+  {
+   "id": "c043f7ab1921b563",
+   "n": 9,
+   "name": "Al Jazeera",
+   "published": "2026-11-17T07:35:54+00:00",
+   "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4485,
+  "tokens_out": 1276
+ },
+ "warnings": [],
+ "watch": [],
+ "window_end": "2026-11-17T12:05:26.559363+00:00",
+ "window_start": "2026-11-16T12:05:26.559363+00:00",
+ "words": 279
+}

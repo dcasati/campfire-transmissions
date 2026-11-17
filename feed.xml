@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-16T12:05:24.073759+00:00</updated>
+<updated>2026-11-17T12:05:26.559363+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-17</id><title>Campfire Transmissions 2026-11-17</title><updated>2026-11-17T12:05:26.559363+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-17.epub"/><summary>BBC News World reported that continuing Russian strikes are hampering efforts to recover bodies after a double-tap strike in southern Ukraine. France 24 reported that Russian strikes on two bridges in Kyiv disrupted water and power supplies. A third US aircraft carrier has arrived in the Middle East, US Central Command said.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; BBC News World reported that continuing Russian strikes are hampering efforts to recover bodies after a double-tap strike in southern Ukraine. France 24 reported that Russian strikes on two bridges in Kyiv disrupted water and power supplies. A third US aircraft carrier has arrived in the Middle East, US Central Command said.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News World reported that officials said continuing Russian strikes were hampering efforts to recover bodies after a double-tap strike in southern Ukraine. Ukraine accused Russia of targeting the rescue operation. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;France 24 reported that Russian forces struck two bridges across the Dnipro River in Kyiv late Monday, causing water and power cuts in parts of the city. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;li&gt;The Guardian World reported that Ukraine hit the Kerch bridge linking Russia and occupied Crimea during an overnight drone barrage, temporarily restricting traffic. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;li&gt;The Guardian World reported that Ukraine critically damaged the Kerch bridge in an overnight missile attack, leaving it no longer usable. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;li&gt;Al Jazeera reported that a Moscow-installed governor said traffic was suspended after a second attack on the bridge between Crimea and Russia in two days. &lt;i&gt;(attributed)&lt;/i&gt; [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;A third US aircraft carrier arrived in the Middle East, US Central Command said, bringing thousands more troops to the region. &lt;i&gt;(observed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;li&gt;Al Jazeera reported that Bahrain thwarted a drone attack and that Iran claimed to have targeted US radar. The IRGC said the attack was intended to counter US forces&amp;#x27; activities in the region. &lt;i&gt;(attributed)&lt;/i&gt; [9]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that a Kazakh national was extradited from Italy to the US to face charges alleging ransomware attacks targeting US schools, hospitals and healthcare entities. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;7 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Iran claims attack on US military airbase in Bahrain [9]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military&quot;&gt;The Guardian World: Third US aircraft carrier brings thousands more troops to Middle East&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain&quot;&gt;France 24: Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c30rk8x5g80qo&quot;&gt;BBC News World: Ukraine accuses Russia of targeting rescue operation after &amp;#x27;double-tap&amp;#x27; strike kills 72&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison&quot;&gt;BleepingComputer: Ransomware affiliate suspect extradited to US, faces 27 years in prison&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine&quot;&gt;France 24: Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea&quot;&gt;The Guardian World: Ukraine hits Kerch bridge between Russia and occupied Crimea&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike&quot;&gt;The Guardian World: Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss&quot;&gt;Al Jazeera: Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss&quot;&gt;Al Jazeera: Bahrain thwarts drone attack; Iran claims targeting US radar&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-16</id><title>Campfire Transmissions 2026-11-16</title><updated>2026-11-16T12:05:24.073759+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-16.epub"/><summary>Iran launched drone attacks against a US military base in Bahrain, The Guardian World reported. Estonia said it would close all border crossings with Russia from December 1 after a suspected sabotage attack on a drone maker that Estonia blamed on Moscow; the Kremlin denied the accusation, France 24 reported.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Iran launched drone attacks against a US military base in Bahrain, The Guardian World reported. Estonia said it would close all border crossings with Russia from December 1 after a suspected sabotage attack on a drone maker that Estonia blamed on Moscow; the Kremlin denied the accusation, France 24 reported.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;France 24 and The Guardian World reported that Estonia would close all border crossings with Russia from December 1 after a suspected sabotage attack on a drone maker. Estonia blamed Moscow, and the Kremlin denied the accusation. &lt;i&gt;(observed)&lt;/i&gt; [2][3]&lt;/li&gt;
@@ -387,28 +417,5 @@
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees&quot;&gt;The Guardian World: UK apologises to Ukrainian child refugees who were told to study Russian&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry&quot;&gt;The Guardian World: Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada&quot;&gt;The Guardian World: One dead and another missing in suspected grizzly bear attack in Canada&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-03</id><title>Campfire Transmissions 2026-11-03</title><updated>2026-11-03T17:25:29.632239+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-03.epub"/><summary>France 24 reported that a Russian strike on a Ukrainian school used for aid distribution killed at least 31 people, according to local authorities. The Guardian reported that the US launched limited strikes on Iran’s Qeshm Island late on Monday; the strikes reportedly targeted missiles used against US assets. BBC News World and Deutsche Welle reported that the US plans to remove South Africa and Rwanda from its duty-free trade initiative.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that a Russian strike on a Ukrainian school used for aid distribution killed at least 31 people, according to local authorities. The Guardian reported that the US launched limited strikes on Iran’s Qeshm Island late on Monday; the strikes reportedly targeted missiles used against US assets. BBC News World and Deutsche Welle reported that the US plans to remove South Africa and Rwanda from its duty-free trade initiative.&lt;/p&gt;
-&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;France 24 reported that a Russian “double tap” strike hit a Ukrainian school being used for aid distribution; local authorities said at least 31 people were killed. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;li&gt;France 24 reported that utility bills in Russia have risen by more than 50% since the start of the war in 2022, including by more than 13% this year, as Russian households face increasing financial strain. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;The Guardian reported that the US launched limited strikes on Iran’s Qeshm Island late on Monday, reportedly targeting surface-to-air missiles being used against US assets; the report also said Vice-President JD Vance voiced optimism about diplomatic efforts to end the war. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;BBC News World and Deutsche Welle reported that the US plans to drop South Africa and Rwanda from its duty-free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa. Deutsche Welle said the Trump administration accused the two countries of breaking the initiative’s rules. &lt;i&gt;(observed)&lt;/i&gt; [3][4]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;BleepingComputer reported that Chinese hackers used the ARTEX AI penetration-testing framework in attacks against more than 200 organizations across 14 countries. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;5 new and 0 updated development(s) reported.&lt;/p&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre&quot;&gt;France 24: ‘Vile terrorist attack’: Russia bombs Ukraine aid centre&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island&quot;&gt;The Guardian World: US strikes Iran’s Qeshm Island as Vance voices optimism about a deal&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c9j346xg0mkvo&quot;&gt;BBC News World: Trump to remove Rwanda and South Africa from US trade deal&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf&quot;&gt;Deutsche Welle: US to drop South Africa, Rwanda from duty-free trade initiative&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on&quot;&gt;France 24: Russian households face increasing financial strain as war in Ukraine drags on&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs&quot;&gt;BleepingComputer: Chinese hackers use ARTEX AI in automated attacks against 200 orgs&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>
