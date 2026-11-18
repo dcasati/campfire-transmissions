@@ -1,0 +1,228 @@
+{
+ "bluf": "BBC News World reported that the Crimean Bridge partly collapsed; Ukraine said a missile and drone attack on the bridge took weeks to plan. Trump arrived in China and was greeted by Xi ahead of a planned trilateral meeting with Putin at APEC.",
+ "changes": [],
+ "changes_summary": "6 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 160,
+  "items": 217,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E7",
+   "kind": "attributed",
+   "refs": [
+    5
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that attackers are exploiting a critical Apache Roller flaw to gain code execution on vulnerable servers; Apache released security updates."
+  },
+  {
+   "event_id": "E4",
+   "kind": "attributed",
+   "refs": [
+    7
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "The Record reported that a Kazakh ransomware hacking suspect was extradited from Italy; the U.S. accused him of participating in attacks against healthcare organizations, schools and companies."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-18",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.7,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E3",
+   "score": 8.625,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.85,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.75,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-18T12:05:24.937385+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported a partial collapse of the Crimean Bridge; Ukraine said a missile and drone attack on the strategic bridge took weeks to plan."
+    },
+    {
+     "event_id": "E3",
+     "kind": "observed",
+     "refs": [
+      2,
+      3,
+      4
+     ],
+     "section": "Europe / Russia",
+     "text": "Trump arrived in China and was greeted by Xi, ahead of a planned trilateral meeting with Putin on the sidelines of APEC. Deutsche Welle cited differing priorities on trade, Ukraine, Iran and arms control."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "North America",
+     "text": "CBC Calgary reported that TC Energy plans to expand its Alberta pipeline network, initially adding one billion cubic feet per day of capacity to serve natural gas demand."
+    }
+   ],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E5",
+     "kind": "attributed",
+     "refs": [
+      8
+     ],
+     "section": "Other Regions",
+     "text": "BBC News World reported that Secretary of State Marco Rubio said there was zero evidence linking recent disruptions affecting Microsoft, banks and flights."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "79e1c95f9466b459",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-17T21:24:35+00:00",
+   "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+  },
+  {
+   "id": "8d0eaa6e85548052",
+   "n": 2,
+   "name": "Deutsche Welle",
+   "published": "2026-11-18T05:39:00+00:00",
+   "title": "APEC summit: What Trump, Xi and Putin want",
+   "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf"
+  },
+  {
+   "id": "5673e42f38dc10b5",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-11-18T08:49:07+00:00",
+   "title": "🔴Trump arrives in China ahead of historic three-way summit with Putin, Xi",
+   "url": "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit"
+  },
+  {
+   "id": "271caf866579f5cc",
+   "n": 4,
+   "name": "Al Jazeera",
+   "published": "2026-11-18T11:37:29+00:00",
+   "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss"
+  },
+  {
+   "id": "a48675d4d122af38",
+   "n": 5,
+   "name": "BleepingComputer",
+   "published": "2026-11-18T10:35:05+00:00",
+   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks"
+  },
+  {
+   "id": "87492eb8ba6caa7f",
+   "n": 6,
+   "name": "CBC Calgary",
+   "published": "2026-11-17T16:42:25+00:00",
+   "title": "TC Energy plans Alberta pipeline expansion to serve natural gas demand",
+   "url": "https://www.cbc.ca/news/canada/edmonton/tc-energy-pipeline-expansion-9.7425116?cmp=rss"
+  },
+  {
+   "id": "194ca0de9405670c",
+   "n": 7,
+   "name": "The Record",
+   "published": "2026-11-17T19:09:00+00:00",
+   "title": "Kazakh ransomware hacking suspect extradited from Italy",
+   "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx"
+  },
+  {
+   "id": "0ca29b64c5f2a531",
+   "n": 8,
+   "name": "BBC News World",
+   "published": "2026-11-18T04:57:06+00:00",
+   "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+   "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2097,
+  "tokens_out": 419
+ },
+ "warnings": [],
+ "watch": [],
+ "window_end": "2026-11-18T12:05:24.937385+00:00",
+ "window_start": "2026-11-17T12:05:24.937385+00:00",
+ "words": 210
+}
