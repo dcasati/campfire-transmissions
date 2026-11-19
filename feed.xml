@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-18T12:05:24.937385+00:00</updated>
+<updated>2026-11-19T12:05:30.522596+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-19</id><title>Campfire Transmissions 2026-11-19</title><updated>2026-11-19T12:05:30.522596+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-19.epub"/><summary>France 24 reported that Israeli tanks moved east of Nuseirat in central Gaza as Israel launched an operation in a Hamas-controlled area; strikes killed at least three people on Wednesday. BBC News World reported that Kuwait said it repelled an Iranian attack and Bahrain said it was also attacked following a US air strike on Qeshm. Al Jazeera reported that a Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that Israeli tanks moved east of Nuseirat in central Gaza as Israel launched an operation in a Hamas-controlled area; strikes killed at least three people on Wednesday. BBC News World reported that Kuwait said it repelled an Iranian attack and Bahrain said it was also attacked following a US air strike on Qeshm. Al Jazeera reported that a Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south.&lt;/p&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that witnesses described heavy shelling, gunfire and airstrikes east of the Nuseirat refugee camp; the Israeli military said it launched an operation in a Hamas-controlled area. Strikes killed at least three people on Wednesday. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;li&gt;Al Jazeera reported that a Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south, and that falling debris caused material damage. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that Kuwait said it repelled an Iranian attack and Bahrain said it was also attacked by Iran, following a US air strike on the Iranian island of Qeshm on Tuesday. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Indo-Pacific&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The IAEA said North Korea was expanding a uranium enrichment facility; its chief called the expansion a cause for serious concern. The agency said North Korea can produce highly enriched uranium and weapons-grade plutonium at its facilities. &lt;i&gt;(observed)&lt;/i&gt; [5][6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Guardian World reported record rainfall in downtown San Francisco and flooding and power outages across California’s Bay area. The storm was expected to move into southern California, with LA residents warned of potential evacuation orders. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Significant Disasters&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GDACS recorded a magnitude 6.1 earthquake at a depth of 10 km in the Pacific-Antarctic Ridge at 19:14 UTC. The area potentially affected was unknown. &lt;i&gt;(observed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;6 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat&quot;&gt;France 24: Gaza: Israel launched new offensive on Nuseirat&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding&quot;&gt;The Guardian World: Record-breaking rain lashes California’s Bay area as ‘atmospheric river’ arrives&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss&quot;&gt;Al Jazeera: Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o&quot;&gt;BBC News World: Kuwait says it repelled first Iranian attack in two months after US strikes island&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf&quot;&gt;Deutsche Welle: North Korea expanded uranium enrichment plant, says IAEA head&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss&quot;&gt;Al Jazeera: North Korea expanding uranium enrichment facility, UN nuclear watchdog says&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1578046&quot;&gt;GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-18</id><title>Campfire Transmissions 2026-11-18</title><updated>2026-11-18T12:05:24.937385+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-18.epub"/><summary>BBC News World reported that the Crimean Bridge partly collapsed; Ukraine said a missile and drone attack on the bridge took weeks to plan. Trump arrived in China and was greeted by Xi ahead of a planned trilateral meeting with Putin at APEC.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; BBC News World reported that the Crimean Bridge partly collapsed; Ukraine said a missile and drone attack on the bridge took weeks to plan. Trump arrived in China and was greeted by Xi ahead of a planned trilateral meeting with Putin at APEC.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;BBC News World reported a partial collapse of the Crimean Bridge; Ukraine said a missile and drone attack on the strategic bridge took weeks to plan. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
@@ -382,34 +407,5 @@
 &lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.cbc.ca/news/canada/edmonton/northern-alberta-first-nation-pipeline-challenges-9.7411621?cmp=rss&quot;&gt;CBC Calgary: First Nations challenging Pacific Link pipeline’s national-interest designation&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.cbc.ca/news/business/telus-outage-quebec-ontario-9.7410552?cmp=rss&quot;&gt;CBC Calgary: Telus says &amp;#x27;small number&amp;#x27; of calls interrupted in Eastern Canada on Thursday&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb&quot;&gt;The Guardian World: Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-05</id><title>Campfire Transmissions 2026-11-05</title><updated>2026-11-05T12:05:28.822493+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-05.epub"/><summary>France 24 reported that the death toll from a Russian bombing of an aid distribution point in Ukraine’s Zaporizhzhia region rose to 42, with dozens still missing; the bombing was on Monday. Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities, according to Al Jazeera; France 24 described the sentence as 10 more years.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that the death toll from a Russian bombing of an aid distribution point in Ukraine’s Zaporizhzhia region rose to 42, with dozens still missing; the bombing was on Monday. Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities, according to Al Jazeera; France 24 described the sentence as 10 more years.&lt;/p&gt;
-&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;France 24 reported that the death toll from a Russian bombing of an aid distribution point in southeastern Zaporizhzhia rose to 42, with dozens still missing; officials said the bombing occurred on Monday. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Al Jazeera reported that the US sanctioned Indian and Turkish firms accused of helping Iran; the US Treasury said an Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Al Jazeera reported that Hong Kong activist Joshua Wong was sentenced to 10 years in jail for colluding with foreign entities; France 24 described it as 10 more years. The event date is not stated. &lt;i&gt;(attributed)&lt;/i&gt; [2][3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;BleepingComputer reported that Zyxel patched a zero-day vulnerability in GS1900 network switches after attackers exploited it to compromise nearly 1,000 devices worldwide and steal configuration files and credentials; the event date is not stated. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
-&lt;li&gt;BleepingComputer reported that CISA warned federal agencies that attackers were exploiting a recently patched WordPress vulnerability in the wild. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;4 new and 1 updated development(s) reported.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Updated since previous brief: Dozens killed, dozens more missing after Russian strike on Ukrainian aid site [1]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Further changes to the reported death toll or number of missing people after the bombing in Zaporizhzhia.&lt;/b&gt; Would show whether the reported casualty and missing-person counts have changed. [1]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre&quot;&gt;France 24: Dozens dead and missing after Russian strike on Ukrainian aid centre&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion&quot;&gt;France 24: Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss&quot;&gt;Al Jazeera: Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches&quot;&gt;BleepingComputer: Zyxel fixes zero-day exploited to hack nearly 1,000 network switches&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss&quot;&gt;Al Jazeera: US sanctions Indian and Turkish firms accused of helping Iran&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks&quot;&gt;BleepingComputer: CISA flags WordPress RCE flaw as actively exploited in attacks&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>

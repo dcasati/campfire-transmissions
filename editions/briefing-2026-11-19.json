@@ -1,0 +1,219 @@
+{
+ "bluf": "France 24 reported that Israeli tanks moved east of Nuseirat in central Gaza as Israel launched an operation in a Hamas-controlled area; strikes killed at least three people on Wednesday. BBC News World reported that Kuwait said it repelled an Iranian attack and Bahrain said it was also attacked following a US air strike on Qeshm. Al Jazeera reported that a Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south.",
+ "changes": [],
+ "changes_summary": "6 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 153,
+  "items": 191,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [
+  {
+   "event_id": "E8",
+   "kind": "observed",
+   "refs": [
+    7
+   ],
+   "section": "Significant Disasters",
+   "text": "GDACS recorded a magnitude 6.1 earthquake at a depth of 10 km in the Pacific-Antarctic Ridge at 19:14 UTC. The area potentially affected was unknown."
+  }
+ ],
+ "edition": "2026-11-19",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E6",
+   "score": 7.65,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E8",
+   "score": 7.05,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-19T12:05:30.522596+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Middle East",
+     "text": "France 24 reported that witnesses described heavy shelling, gunfire and airstrikes east of the Nuseirat refugee camp; the Israeli military said it launched an operation in a Hamas-controlled area. Strikes killed at least three people on Wednesday."
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "Al Jazeera reported that a Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south, and that falling debris caused material damage."
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "BBC News World reported that Kuwait said it repelled an Iranian attack and Bahrain said it was also attacked by Iran, following a US air strike on the Iranian island of Qeshm on Tuesday."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "observed",
+     "refs": [
+      5,
+      6
+     ],
+     "section": "Indo-Pacific",
+     "text": "The IAEA said North Korea was expanding a uranium enrichment facility; its chief called the expansion a cause for serious concern. The agency said North Korea can produce highly enriched uranium and weapons-grade plutonium at its facilities."
+    }
+   ],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Other Regions",
+     "text": "The Guardian World reported record rainfall in downtown San Francisco and flooding and power outages across California’s Bay area. The storm was expected to move into southern California, with LA residents warned of potential evacuation orders."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "5e7b3fc17c6aa89e",
+   "n": 1,
+   "name": "France 24",
+   "published": "2026-11-19T07:50:10+00:00",
+   "title": "Gaza: Israel launched new offensive on Nuseirat",
+   "url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat"
+  },
+  {
+   "id": "b9852b8f0b95f653",
+   "n": 2,
+   "name": "The Guardian World",
+   "published": "2026-11-19T01:03:34+00:00",
+   "title": "Record-breaking rain lashes California’s Bay area as ‘atmospheric river’ arrives",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding"
+  },
+  {
+   "id": "ba250054ee7281f6",
+   "n": 3,
+   "name": "Al Jazeera",
+   "published": "2026-11-19T08:19:17+00:00",
+   "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss"
+  },
+  {
+   "id": "eff63436dd253bef",
+   "n": 4,
+   "name": "BBC News World",
+   "published": "2026-11-18T13:04:48+00:00",
+   "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+   "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o"
+  },
+  {
+   "id": "0aa28089db1bbd04",
+   "n": 5,
+   "name": "Deutsche Welle",
+   "published": "2026-11-18T15:15:00+00:00",
+   "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+   "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf"
+  },
+  {
+   "id": "f580b2fa3463b70a",
+   "n": 6,
+   "name": "Al Jazeera",
+   "published": "2026-11-19T09:16:47+00:00",
+   "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+   "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss"
+  },
+  {
+   "id": "cc93045181331fcf",
+   "n": 7,
+   "name": "GDACS",
+   "published": "2026-11-18T19:35:14+00:00",
+   "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578046"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4301,
+  "tokens_out": 996
+ },
+ "warnings": [],
+ "watch": [],
+ "window_end": "2026-11-19T12:05:30.522596+00:00",
+ "window_start": "2026-11-18T12:05:30.522596+00:00",
+ "words": 269
+}
