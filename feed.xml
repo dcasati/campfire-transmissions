@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-19T12:05:30.522596+00:00</updated>
+<updated>2026-11-20T12:05:25.236860+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-20</id><title>Campfire Transmissions 2026-11-20</title><updated>2026-11-20T12:05:25.236860+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-20.epub"/><summary>BBC News World reported that three bridges in Kyiv were hit during a major Russian missile attack, killing five people. France 24 reported that Poland said no one was hurt after Warsaw alleged a Russian missile hit southeast Poland during an attack on Ukraine; BleepingComputer reported that Broadcom released updates for a VMware vCenter vulnerability exploited in attacks.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; BBC News World reported that three bridges in Kyiv were hit during a major Russian missile attack, killing five people. France 24 reported that Poland said no one was hurt after Warsaw alleged a Russian missile hit southeast Poland during an attack on Ukraine; BleepingComputer reported that Broadcom released updates for a VMware vCenter vulnerability exploited in attacks.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News World reported that three Kyiv bridges were hit during a major Russian missile attack, killing five people; it said the strikes followed Ukraine&amp;#x27;s targeting of the Crimean Bridge. The event time was not stated, and the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;li&gt;France 24 reported that Poland said no one was hurt after Warsaw alleged a Russian missile hit southeast Poland during an attack on Ukraine. Polish authorities were investigating reports that at least two unknown objects had fallen near the border with Ukraine. The event time was not stated, and the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that Putin vowed a “far more painful” response to Ukraine&amp;#x27;s strikes on the Crimean Bridge, which suffered major damage following a combined attack by Ukraine earlier that week. The event time was not stated, and the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Deutsche Welle reported that Sean Cairncross was leaving the national cyber director role after a week of tech outages and that Kirsten Davies would assume it in an acting capacity. BBC News World reported that CBS said Cairncross had been fired after losing the confidence of White House chief of staff Stephen Miller. The event time was not stated. &lt;i&gt;(attributed)&lt;/i&gt; [4][5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that Broadcom released security updates for a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers had exploited in zero-day attacks since September 2026. The update&amp;#x27;s event time was not stated, and the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Significant Disasters&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GDACS listed a magnitude 5.6 earthquake at a depth of 10 km southeast of the Loyalty Islands at 00:49 UTC on 20/11/2026. The report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;5 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown]. [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Polish authorities&amp;#x27; findings on the unknown objects near the Ukraine border&lt;/b&gt; Could clarify the reports of a possible missile impact in southeast Poland. [2]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Whether Broadcom&amp;#x27;s vCenter security updates are applied&lt;/b&gt; Would indicate remediation of the authentication bypass vulnerability reported as exploited in attacks. [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o&quot;&gt;BBC News World: Three Kyiv bridges hit during major Russian missile attack&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine&quot;&gt;France 24: Poland&amp;#x27;s Tusk denounces Russian &amp;#x27;provocation&amp;#x27; after Warsaw says missile hit territory&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september&quot;&gt;BleepingComputer: VMware patches vCenter zero-day exploited in attacks since September&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo&quot;&gt;BBC News World: White House removes cyber-security chief after series of tech outages&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-world-4025-rdf&quot;&gt;Deutsche Welle: White House replaces cyber security chief after tech outages&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cm879dqn3e1jo&quot;&gt;BBC News World: Putin vows &amp;#x27;far more painful&amp;#x27; response to Ukraine&amp;#x27;s strikes on Crimean Bridge&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1578280&quot;&gt;GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-19</id><title>Campfire Transmissions 2026-11-19</title><updated>2026-11-19T12:05:30.522596+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-19.epub"/><summary>France 24 reported that Israeli tanks moved east of Nuseirat in central Gaza as Israel launched an operation in a Hamas-controlled area; strikes killed at least three people on Wednesday. BBC News World reported that Kuwait said it repelled an Iranian attack and Bahrain said it was also attacked following a US air strike on Qeshm. Al Jazeera reported that a Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that Israeli tanks moved east of Nuseirat in central Gaza as Israel launched an operation in a Hamas-controlled area; strikes killed at least three people on Wednesday. BBC News World reported that Kuwait said it repelled an Iranian attack and Bahrain said it was also attacked following a US air strike on Qeshm. Al Jazeera reported that a Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south.&lt;/p&gt;
 &lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;France 24 reported that witnesses described heavy shelling, gunfire and airstrikes east of the Nuseirat refugee camp; the Israeli military said it launched an operation in a Hamas-controlled area. Strikes killed at least three people on Wednesday. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
@@ -377,35 +409,5 @@
 &lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cm4g1nq8158po&quot;&gt;BBC News World: Russian strikes wound nine and damage Ukraine&amp;#x27;s power network ahead of talks&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market&quot;&gt;France 24: Yemen: 30 dead in strikes on Taiz market&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks&quot;&gt;BleepingComputer: SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-06</id><title>Campfire Transmissions 2026-11-06</title><updated>2026-11-06T12:05:26.826267+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-06.epub"/><summary>GDACS reported a magnitude 6.1 earthquake in Fiji at 17:21 UTC, with few people potentially affected within 100km. The Record reported that a ransomware attack disrupted Wi-Fi and on-site computers at Queens Public Library; BBC News World reported evidence of digging and new buildings near Iran missile bases in satellite imagery taken in November.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; GDACS reported a magnitude 6.1 earthquake in Fiji at 17:21 UTC, with few people potentially affected within 100km. The Record reported that a ransomware attack disrupted Wi-Fi and on-site computers at Queens Public Library; BBC News World reported evidence of digging and new buildings near Iran missile bases in satellite imagery taken in November.&lt;/p&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;BBC News World reported that satellite imagery taken in November showed evidence of digging and new buildings near Iran missile bases. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;North America&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;CBC Calgary reported that three First Nations in Alberta filed legal challenges seeking to overturn the federal government’s national-interest designation of the Pacific Link pipeline. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
-&lt;li&gt;CBC Calgary reported that Telus said a small number of calls were interrupted in Eastern Canada on Thursday; the company reported that issues in Ontario had since been resolved. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;The Guardian World reported that Eva Geller died in hospital almost 12 months after being shot during the Bondi beach attack. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;The Record reported that a ransomware attack disrupted Wi-Fi and on-site computers at Queens Public Library; the library system confirmed the disruption was caused by ransomware. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Significant Disasters&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;GDACS reported an earthquake in Fiji at 17:21 UTC with magnitude 6.1 and a depth of 535km; it said few people were potentially affected within 100km. &lt;i&gt;(observed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;6 new and 0 updated development(s) reported.&lt;/p&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Updates on Queens Public Library Wi-Fi and on-site computer availability&lt;/b&gt; Would indicate whether the reported service disruption continues or has ended. [2]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Further legal developments in the three First Nations’ challenges to the Pacific Link designation&lt;/b&gt; Would indicate whether the designation is being contested further or overturned. [4]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1575788&quot;&gt;GDACS: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://therecord.media/queens-library-ransomware-causes-disruptions&quot;&gt;The Record: Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro&quot;&gt;BBC News World: Major construction ongoing near Iran missile bases, satellite images suggest&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.cbc.ca/news/canada/edmonton/northern-alberta-first-nation-pipeline-challenges-9.7411621?cmp=rss&quot;&gt;CBC Calgary: First Nations challenging Pacific Link pipeline’s national-interest designation&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.cbc.ca/news/business/telus-outage-quebec-ontario-9.7410552?cmp=rss&quot;&gt;CBC Calgary: Telus says &amp;#x27;small number&amp;#x27; of calls interrupted in Eastern Canada on Thursday&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb&quot;&gt;The Guardian World: Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>
