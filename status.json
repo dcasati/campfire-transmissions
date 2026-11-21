@@ -1,12 +1,12 @@
 {
- "last_success": "2026-11-20T12:05:25.236860+00:00",
- "edition": "2026-11-20",
+ "last_success": "2026-11-21T14:35:19.123299+00:00",
+ "edition": "2026-11-21",
  "mode": "llm",
- "words": 397,
+ "words": 284,
  "usage": {
   "calls": 1,
-  "tokens_in": 2188,
-  "tokens_out": 724,
+  "tokens_in": 2129,
+  "tokens_out": 531,
   "estimated_cost_usd": 0.0
  },
  "label": null,

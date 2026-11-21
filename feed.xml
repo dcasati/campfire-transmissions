@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-20T12:05:25.236860+00:00</updated>
+<updated>2026-11-21T14:35:19.123299+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-21</id><title>Campfire Transmissions 2026-11-21</title><updated>2026-11-21T14:35:19.123299+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-21.epub"/><summary>France 24 reported that three Russian projectiles came down in Poland on Friday, prompting NATO to condemn what it called a grave violation of Polish airspace. France 24 also reported a drone strike set a Russian cargo ship ablaze in the Gulf of Finland before it drifted into Finnish territorial waters, where Finnish authorities alerted NATO and imposed temporary restrictions; the outlet reported the Saudi-led coalition intercepted three ballistic missiles fired toward Riyadh early Saturday.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that three Russian projectiles came down in Poland on Friday, prompting NATO to condemn what it called a grave violation of Polish airspace. France 24 also reported a drone strike set a Russian cargo ship ablaze in the Gulf of Finland before it drifted into Finnish territorial waters, where Finnish authorities alerted NATO and imposed temporary restrictions; the outlet reported the Saudi-led coalition intercepted three ballistic missiles fired toward Riyadh early Saturday.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that three Russian projectiles came down in Poland on Friday and that NATO condemned what it called a grave violation of Polish airspace. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
+&lt;li&gt;France 24 reported that a Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland, then drifted into Finnish territorial waters; Finnish authorities alerted NATO and imposed temporary restrictions in the area. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that Russia struck bridges and railway stations in Kyiv in a major attack. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that the Saudi-led coalition said it intercepted and destroyed three ballistic missiles fired toward Riyadh early Saturday, marking the second Houthi attack on the Saudi capital in recent days. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Record reported that researchers said a China-linked threat actor used the Cairn AI tool to persistently attack two universities and possibly discover a zero-day bug in one case. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;4 new and 1 updated development(s) reported.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated since previous brief: Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Any extension or lifting of temporary restrictions in the Gulf of Finland.&lt;/b&gt; Would indicate whether the response to the ship incident is continuing or has ended. [2]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Further coalition-reported ballistic missile interceptions toward Riyadh.&lt;/b&gt; Would indicate additional missile launches toward the Saudi capital. [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise&quot;&gt;France 24: Russian projectiles hit Poland as NATO tensions rise&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland&quot;&gt;France 24: Drone attack sets Russian cargo ship ablaze in Gulf of Finland&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/videos/c65y19wy3xl8o&quot;&gt;BBC News World: What we know about the latest Russian missile strikes on Ukraine&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia&quot;&gt;France 24: Houthis launch strikes on Saudi Arabia&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day&quot;&gt;The Record: Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-20</id><title>Campfire Transmissions 2026-11-20</title><updated>2026-11-20T12:05:25.236860+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-20.epub"/><summary>BBC News World reported that three bridges in Kyiv were hit during a major Russian missile attack, killing five people. France 24 reported that Poland said no one was hurt after Warsaw alleged a Russian missile hit southeast Poland during an attack on Ukraine; BleepingComputer reported that Broadcom released updates for a VMware vCenter vulnerability exploited in attacks.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; BBC News World reported that three bridges in Kyiv were hit during a major Russian missile attack, killing five people. France 24 reported that Poland said no one was hurt after Warsaw alleged a Russian missile hit southeast Poland during an attack on Ukraine; BleepingComputer reported that Broadcom released updates for a VMware vCenter vulnerability exploited in attacks.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;BBC News World reported that three Kyiv bridges were hit during a major Russian missile attack, killing five people; it said the strikes followed Ukraine&amp;#x27;s targeting of the Crimean Bridge. The event time was not stated, and the report was not independently corroborated. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
@@ -387,27 +414,5 @@
 &lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVJqMVdFWGU5ak9QX2NJR0J5dzNZc0NlUlpLVVYyMHhyVGZwV3c4YUNNMFJJalVWeF83VzZHV3pIYlN2SXNKbVNSTHJWdUNTclNDQ0V1VENWVXV5RDFWeTgtR2xINFFwSHZSMWE5UF9KSjk5VVNIY092N1k4bFpoNjFGVHphYnpxOHkwaWc2VjItSEJyeUh3NU1jVDB6UjZzTlY3aW4wbjM1MEpaNFhwUlhBUUtycVMwTERWcjVNYTM0dUlGdXhXbWt4S0JMR2NxNVZF?oc=5&quot;&gt;Reuters (via Google News): LOOK: Two trains collided south of the Egyptian capital on Sunday, derailing several carriages, killing four and injuring dozens, according to the authorities. The health ministry said an initial count put the toll from the crash at four passengers killed, with 88 othe&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkVnbFl5NGk3T1MxTzYtWXRzU3E3bXMwcEpLSGJkaFVyVWNaWDZSZTZOWDF0LUhoYkpQbW4ta0FYWldZVEZ4LTBUTklJbHVmTlh6ZFhVWmtTYzN2T3BTVkozS1FHdUNVTjhiOG5EWEFBTmpUbmRLczBBSXNCOWE2Nk44djE1ZUc1ai1vNzlSdDhLTUZ3Nk1FLWRVV29jY252Wl9EdUx0MVA1OUhlSVVra09ORGsyalNiUExoeFBCbw?oc=5&quot;&gt;Reuters (via Google News): Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.cbc.ca/news/canada/manitoba/injured-soldiers-wainwright-burn-experts-9.7410917?cmp=rss&quot;&gt;CBC Calgary: Injured Wainwright soldiers benefit from cutting-edge Canadian burn research&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-07</id><title>Campfire Transmissions 2026-11-07</title><updated>2026-11-07T17:45:35.100751+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-07.epub"/><summary>The Guardian reported Russian attacks on Ukraine’s energy grid, with blackouts and water shortages in Kyiv; BBC News World reported damage to Ukraine’s power network and nine people wounded ahead of talks in Abu Dhabi. France 24 reported at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province, with responsibility disputed.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; The Guardian reported Russian attacks on Ukraine’s energy grid, with blackouts and water shortages in Kyiv; BBC News World reported damage to Ukraine’s power network and nine people wounded ahead of talks in Abu Dhabi. France 24 reported at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province, with responsibility disputed.&lt;/p&gt;
-&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;The Guardian reported that Moscow used 172 drones and 36 ballistic missiles against electricity substations and a bridge over the Dnipro; an overnight attack on Ukraine’s energy grid was followed by blackouts and water shortages in Kyiv. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;li&gt;BBC News World reported that Russian strikes wounded nine people and damaged Ukraine’s power network ahead of trilateral talks in Abu Dhabi next week. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;France 24 reported that at least 30 people were reportedly killed in an attack on a market in Yemen’s Taiz province. Houthi rebels blamed Saudi airstrikes, while government forces and local authorities disputed that account and accused the Houthis of indiscriminate fire. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;BleepingComputer reported that SonicWall released security updates for seven SonicOS vulnerabilities, including an SSL-VPN authentication-bypass flaw exploited in attacks. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;4 new and 0 updated development(s) reported.&lt;/p&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Further reports of blackouts or water shortages in Kyiv&lt;/b&gt; Would indicate continued disruption following the reported energy-grid attacks. [1]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Whether Ukrainian and Russian delegations take part in the trilateral talks in Abu Dhabi next week&lt;/b&gt; Would show whether the talks reported as upcoming proceed. [2]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid&quot;&gt;The Guardian World: Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cm4g1nq8158po&quot;&gt;BBC News World: Russian strikes wound nine and damage Ukraine&amp;#x27;s power network ahead of talks&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market&quot;&gt;France 24: Yemen: 30 dead in strikes on Taiz market&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks&quot;&gt;BleepingComputer: SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>
