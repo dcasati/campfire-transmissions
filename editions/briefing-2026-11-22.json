@@ -1,0 +1,281 @@
+{
+ "bluf": "A fire at a confectionery factory in Indonesia’s Banten province west of Jakarta killed at least three people and left 36 missing. A Russian cargo ship bound for Kaliningrad remained on fire off Finland after drone damage, which Finnish defence forces said Ukraine was likely behind.",
+ "changes": [
+  {
+   "refs": [
+    4,
+    5,
+    6
+   ],
+   "text": "Updated since previous brief: Drone attack sets Russian cargo ship ablaze in Gulf of Finland"
+  }
+ ],
+ "changes_summary": "5 new and 1 updated development(s) reported.",
+ "collection": {
+  "clusters": 121,
+  "items": 153,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [],
+ "edition": "2026-11-22",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 9.675,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E2",
+   "score": 8.9,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 8.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-22T12:05:24.747499+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      4,
+      5,
+      6
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that Finnish defence forces say Ukraine was likely behind the drone attack on a Russian cargo ship in the Gulf of Finland; the ship was damaged in international waters and drifted into Finnish territory."
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "Europe / Russia",
+     "text": "Deutsche Welle reported that Finland’s Defense Ministry suspects a Russian helicopter violated Finnish airspace and linked the suspected incursion to an earlier drone strike on a Russian cargo ship."
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      8
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that a Russian ballistic missile attack in central Ukraine on Saturday killed two people and wounded dozens in President Volodymyr Zelensky’s hometown."
+    },
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      9
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that Ukrainian President Volodymyr Zelensky said at least 14 people were missing after a Russian drone struck a five-story residential building in Dymer, in the Kyiv region, while two others were injured."
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      10
+     ],
+     "section": "Europe / Russia",
+     "text": "Al Jazeera reported that dashcam video captured a missile striking a residential neighbourhood in Lviv, western Ukraine."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "observed",
+     "refs": [
+      1,
+      2,
+      3
+     ],
+     "section": "Other Regions",
+     "text": "At least three people were killed and 36 remain missing after a fire destroyed large parts of a confectionery factory in Banten province, west of Jakarta."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "79db65a62a994fcd",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-22T06:05:00+00:00",
+   "title": "Three killed and dozens missing after fire at Indonesian factory",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+  },
+  {
+   "id": "9b22eacc165d4fd4",
+   "n": 2,
+   "name": "Deutsche Welle",
+   "published": "2026-11-22T06:14:00+00:00",
+   "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+   "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf"
+  },
+  {
+   "id": "b1fdd3d9246a5ec1",
+   "n": 3,
+   "name": "The Guardian World",
+   "published": "2026-11-22T07:11:17+00:00",
+   "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+   "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+  },
+  {
+   "id": "0afef7db4686ed93",
+   "n": 4,
+   "name": "BBC News World",
+   "published": "2026-11-22T11:25:14+00:00",
+   "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+  },
+  {
+   "id": "6ddedb55210cdd4b",
+   "n": 5,
+   "name": "France 24",
+   "published": "2026-11-21T18:02:23+00:00",
+   "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+   "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+  },
+  {
+   "id": "0b20ac6f49635d84",
+   "n": 6,
+   "name": "Al Jazeera",
+   "published": "2026-11-22T10:39:50+00:00",
+   "title": "Russian cargo ship still on fire off Finland after drone attack",
+   "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss"
+  },
+  {
+   "id": "51022172af4e4d19",
+   "n": 7,
+   "name": "Deutsche Welle",
+   "published": "2026-11-21T17:08:00+00:00",
+   "title": "Russian helicopter suspected of violating Finnish airspace",
+   "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf"
+  },
+  {
+   "id": "9ccdbee282485263",
+   "n": 8,
+   "name": "France 24",
+   "published": "2026-11-21T19:55:07+00:00",
+   "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
+   "url": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine"
+  },
+  {
+   "id": "98ee191af9fb1a7e",
+   "n": 9,
+   "name": "France 24",
+   "published": "2026-11-22T06:15:38+00:00",
+   "title": "Live: At least 14 feared trapped after Russian strike in Kyiv region, Zelensky says",
+   "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship"
+  },
+  {
+   "id": "3dd9286e40425756",
+   "n": 10,
+   "name": "Al Jazeera",
+   "published": "2026-11-22T07:59:29+00:00",
+   "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2415,
+  "tokens_out": 628
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Whether the fire at the Indonesian factory is followed by further confirmed casualty or recovery updates",
+   "refs": [
+    1,
+    2,
+    3
+   ],
+   "significance": "Would clarify the remaining status of the people unaccounted for."
+  },
+  {
+   "indicator": "Whether the Russian cargo ship is extinguished or continues drifting in Finnish waters",
+   "refs": [
+    4,
+    5,
+    6
+   ],
+   "significance": "Would indicate whether the maritime damage incident remains active or is under control."
+  },
+  {
+   "indicator": "Whether officials provide corroboration of responsibility or repeat warnings of spillover after the Finnish airspace and ship incidents",
+   "refs": [
+    4,
+    7,
+    9
+   ],
+   "significance": "Would show whether the linked drone and helicopter incidents are further investigated or publicly confirmed."
+  }
+ ],
+ "window_end": "2026-11-22T12:05:24.747499+00:00",
+ "window_start": "2026-11-21T12:05:24.747499+00:00",
+ "words": 323
+}
