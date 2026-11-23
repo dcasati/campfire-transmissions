@@ -1,0 +1,174 @@
+{
+ "bluf": "France 24 reported that Zelensky said Ukraine sank a Russian naval corvette in a Libyan port on Sunday in an attack involving seven naval drones. Al Jazeera reported at least 15 killed in Ukraine’s Kyiv region amid intensified Russian attacks.",
+ "changes": [],
+ "changes_summary": "4 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 114,
+  "items": 149,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [],
+ "edition": "2026-11-23",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 9.667,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 9.6,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E3",
+   "score": 8.85,
+   "status": "updated"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.85,
+   "status": "updated"
+  }
+ ],
+ "generated_at": "2026-11-23T12:05:24.994379+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      1
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that Zelensky said Ukraine sank a Russian naval corvette in a Libyan port on Sunday in an attack involving seven naval drones."
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      2
+     ],
+     "section": "Europe / Russia",
+     "text": "Al Jazeera reported at least 15 killed in Ukraine’s Kyiv region amid intensified Russian attacks; the event time was not stated."
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that Finnish defence forces said Ukraine was likely behind a drone strike on a Russia-bound ship in the Gulf of Finland on Saturday; Kyiv had yet to comment."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Other Regions",
+     "text": "France 24 reported that drone strikes damaged homes and a United Nations building in Khartoum early Sunday, and that Sudan’s army accused neighbouring Ethiopia of launching them."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "5f3f8ad896086ebf",
+   "n": 1,
+   "name": "France 24",
+   "published": "2026-11-23T09:44:44+00:00",
+   "title": "Zelensky says Ukraine sank Russian warship off Libya",
+   "url": "https://www.france24.com/en/video/20261123-zelensky-says-ukraine-sank-russian-warship-off-libya"
+  },
+  {
+   "id": "6afd80b74c9234c5",
+   "n": 2,
+   "name": "Al Jazeera",
+   "published": "2026-11-23T09:34:25+00:00",
+   "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+   "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss"
+  },
+  {
+   "id": "0afef7db4686ed93",
+   "n": 3,
+   "name": "BBC News World",
+   "published": "2026-11-22T17:18:26+00:00",
+   "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+  },
+  {
+   "id": "829e941392ce69b2",
+   "n": 4,
+   "name": "France 24",
+   "published": "2026-11-23T00:43:36+00:00",
+   "title": "Drone strikes hit homes, United Nations building in Sudan's capital",
+   "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4696,
+  "tokens_out": 655
+ },
+ "warnings": [],
+ "watch": [],
+ "window_end": "2026-11-23T12:05:24.994379+00:00",
+ "window_start": "2026-11-22T12:05:24.994379+00:00",
+ "words": 152
+}
