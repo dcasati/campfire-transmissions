@@ -1,0 +1,238 @@
+{
+ "bluf": "Two people were killed and dozens wounded in Russian strikes on Ukraine’s Zaporizhzhia overnight. GDACS reported a magnitude 6.4 earthquake in the Mauritius-Reunion Region at 11:06 UTC.",
+ "changes": [],
+ "changes_summary": "5 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 169,
+  "items": 215,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [],
+ "disasters": [
+  {
+   "event_id": "E6",
+   "kind": "attributed",
+   "refs": [
+    6
+   ],
+   "section": "Significant Disasters",
+   "text": "GDACS reported a magnitude 6.4 earthquake at a depth of 10 km in the Mauritius-Reunion Region at 11:06 UTC; potential impacts were listed as unknown."
+  }
+ ],
+ "edition": "2026-11-24",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 9.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E3",
+   "score": 7.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "moderate",
+   "event_id": "E6",
+   "score": 7.05,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 6.8,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E8",
+   "score": 6.733,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-24T12:05:28.019840+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "observed",
+     "refs": [
+      1,
+      2
+     ],
+     "section": "Europe / Russia",
+     "text": "Russian strikes killed two people and wounded dozens in Zaporizhzhia overnight, according to France 24; Reuters also reported at least two killed and dozens injured."
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Europe / Russia",
+     "text": "The Guardian World reported that a Russian drone violated Polish airspace; the report did not state when this occurred."
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      4,
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that NATO chief Mark Rutte said the alliance would defend against threats in space, responding to German media reports that Russia may be preparing to launch a nuclear-armed satellite."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      7,
+      8,
+      9
+     ],
+     "section": "Other Regions",
+     "text": "Sheikh Hasina said she plans to return to Bangladesh on December 16; Al Jazeera reported that she urged Dhaka to arrange her return on the national airline, while the government said she can only be extradited."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "31b2fbb17f9661fa",
+   "n": 1,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-24T09:22:36+00:00",
+   "title": "Ukraine war latest: Russian strikes on Zaporizhzhia kill at least 2, injure dozens more",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVRjdGFJbUs4eEY0OFdpaHF1cUxENE5aY09JanhBaDluY2xlTnRiaDB1aEV4RWR3ajNiRlBHWmx3RjJkMkZjNE1McDBhRUdpT0JlbmV5RG1RNXNHRmFWTFQ2bkY2QlBJMEZZa0ltWk9uYWc4Zi1SQ0FZZnZJQUhnQ3JiY010RWlmSkRSVFN0TFZ3aU1RdW9NOGx1NDJOUkRxd1p6MkdXTzBkdw?oc=5"
+  },
+  {
+   "id": "e55baa58ddf47d19",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-24T05:50:16+00:00",
+   "title": "Live: Russian strikes on Ukraine’s Zaporizhzhia kill two people and wound dozens more",
+   "url": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters"
+  },
+  {
+   "id": "9c53e5c4c0b02d37",
+   "n": 3,
+   "name": "The Guardian World",
+   "published": "2026-11-24T11:29:15+00:00",
+   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+  },
+  {
+   "id": "4deb70d613a15c59",
+   "n": 4,
+   "name": "BBC News World",
+   "published": "2026-11-24T10:58:51+00:00",
+   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+   "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo"
+  },
+  {
+   "id": "b818d8d38eb9c452",
+   "n": 5,
+   "name": "France 24",
+   "published": "2026-11-23T22:33:03+00:00",
+   "title": "NATO vows space defence after Russia nuclear satellite report",
+   "url": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report"
+  },
+  {
+   "id": "33d4acfd90ce3b08",
+   "n": 6,
+   "name": "GDACS",
+   "published": "2026-11-24T11:24:50+00:00",
+   "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Mauritius - Reunion Region 24/11/2026 11:06 UTC, [unknown].",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1579008"
+  },
+  {
+   "id": "1bd62df41ee2931e",
+   "n": 7,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-24T04:38:33+00:00",
+   "title": "Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmhnSnZ4S1JwbENFNHBadThZSHJTTzZoanZSSzN1UEVncjBELWoyRlhYcnZndEVLZnNCYndvQzAwRGFZOGp3RERwalFlYVAwYjFOVFFXZVVUNnFXS3lvS3JIVktxT2ZGanEtRXI3TExKWERsZVpOOEdUYnVKUV8xYzhfLU5oWUs1MjVZalNTZkZhVU1lMzFxZ25vcjVkclZtTzV2dnZObU5wZ0FzdTlxT3Robmxzdw?oc=5"
+  },
+  {
+   "id": "a441ea784420c25f",
+   "n": 8,
+   "name": "BBC News World",
+   "published": "2026-11-24T06:23:01+00:00",
+   "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+   "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo"
+  },
+  {
+   "id": "cdea49bfcce48343",
+   "n": 9,
+   "name": "Al Jazeera",
+   "published": "2026-11-24T07:35:02+00:00",
+   "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+   "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2332,
+  "tokens_out": 402
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Whether Bangladesh arranges Hasina’s return on the national airline",
+   "refs": [
+    7,
+    8,
+    9
+   ],
+   "significance": "Would show whether the stated return plan proceeds amid the government’s position that she can only be extradited."
+  }
+ ],
+ "window_end": "2026-11-24T12:05:28.019840+00:00",
+ "window_start": "2026-11-23T12:05:28.019840+00:00",
+ "words": 198
+}
