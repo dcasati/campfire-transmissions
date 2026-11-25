@@ -1,0 +1,259 @@
+{
+ "bluf": "France 24 reported that two Libyan soldiers died from injuries in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation. France 24 reported that Yemen’s Houthis claimed attacks on Riyadh’s financial district and the Ras Tanura refinery, saying they were retaliation for strikes on their territory.",
+ "changes": [],
+ "changes_summary": "7 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 190,
+  "items": 219,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E5",
+   "kind": "attributed",
+   "refs": [
+    6
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that attackers have actively exploited a critical Drupal vulnerability to hijack unpatched sites since at least Thursday, citing confirmation from the Drupal security team."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-25",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E8",
+   "score": 7.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-25T12:05:25.384554+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E8",
+     "kind": "attributed",
+     "refs": [
+      1,
+      2
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that two Libyan soldiers died from injuries sustained in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation."
+    },
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      8
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that leaked Russian figures show almost 500,000 people lost in the Ukraine war and reveal changed mortality patterns in Russia."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "France 24 reported that Yemen’s Houthis claimed attacks on Riyadh’s financial district and the Ras Tanura refinery, in retaliation for strikes on their territory."
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "Reuters reported that the Houthis threatened Saudi Red Sea ports if Hodeidah is attacked, while a coalition reported strikes."
+    },
+    {
+     "event_id": "E7",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Middle East",
+     "text": "Al Jazeera reported that the Saudi-led coalition intercepted Houthi attacks after a strike on Hodeidah."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      7
+     ],
+     "section": "Other Regions",
+     "text": "BBC News World reported that Colombian police freed around 20 shoppers and employees held hostage in a supermarket after 17 hours; one gunman was killed in the operation."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "3e3be77f4806249c",
+   "n": 1,
+   "name": "France 24",
+   "published": "2026-11-25T03:46:51+00:00",
+   "title": "Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi",
+   "url": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
+  },
+  {
+   "id": "0ba070336cc36bb7",
+   "n": 2,
+   "name": "Al Jazeera",
+   "published": "2026-11-25T09:58:02+00:00",
+   "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
+   "url": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss"
+  },
+  {
+   "id": "6e6624cffec5d650",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-11-25T11:09:43+00:00",
+   "title": "Yemen's Houthis claim attacks on Riyadh financial district, Saudi refinery",
+   "url": "https://www.france24.com/en/video/20261125-yemen-s-houthis-claim-attacks-on-riyadh-financial-district-saudi-refinery"
+  },
+  {
+   "id": "8b6b52a9878d871a",
+   "n": 4,
+   "name": "Reuters (via Google News)",
+   "published": "2026-11-25T09:30:18+00:00",
+   "title": "Houthis threaten Saudi Red Sea ports if Hodeidah is attacked; coalition reports strikes",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aeWxuWkEwM0IxcXB2V1F0dTN1ZG5sOUVlbkExRE5pUkhWN3U5SGxDZnZmYlpHVWFvbXF1MVJ5enJ0MF9EbFB2VGI5ZTZZT1J5M2c?oc=5"
+  },
+  {
+   "id": "6cd28a6a949ccf07",
+   "n": 5,
+   "name": "Al Jazeera",
+   "published": "2026-11-25T08:23:35+00:00",
+   "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+   "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss"
+  },
+  {
+   "id": "21a19dccacb58acd",
+   "n": 6,
+   "name": "BleepingComputer",
+   "published": "2026-11-25T10:10:20+00:00",
+   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites"
+  },
+  {
+   "id": "f3370d38161d9195",
+   "n": 7,
+   "name": "BBC News World",
+   "published": "2026-11-25T11:45:16+00:00",
+   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo"
+  },
+  {
+   "id": "a6e35e03777eb18e",
+   "n": 8,
+   "name": "BBC News World",
+   "published": "2026-11-25T00:56:51+00:00",
+   "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2107,
+  "tokens_out": 625
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "Further strikes or interceptions around Hodeidah and Saudi Red Sea ports",
+   "refs": [
+    4,
+    5
+   ],
+   "significance": "Would indicate whether the reported threats and coalition activity continue."
+  },
+  {
+   "indicator": "Actions by Khalifa Haftar’s Libyan National Army following its reported vow",
+   "refs": [
+    2
+   ],
+   "significance": "Would show whether the reported retaliation vow is acted upon."
+  },
+  {
+   "indicator": "Further reported exploitation of unpatched Drupal sites",
+   "refs": [
+    6
+   ],
+   "significance": "Would indicate whether the reported exploitation continues."
+  }
+ ],
+ "window_end": "2026-11-25T12:05:25.384554+00:00",
+ "window_start": "2026-11-24T12:05:25.384554+00:00",
+ "words": 286
+}

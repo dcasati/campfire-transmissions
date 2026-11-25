@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-24T12:05:28.019840+00:00</updated>
+<updated>2026-11-25T12:05:25.384554+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-25</id><title>Campfire Transmissions 2026-11-25</title><updated>2026-11-25T12:05:25.384554+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-25.epub"/><summary>France 24 reported that two Libyan soldiers died from injuries in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation. France 24 reported that Yemen’s Houthis claimed attacks on Riyadh’s financial district and the Ras Tanura refinery, saying they were retaliation for strikes on their territory.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that two Libyan soldiers died from injuries in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation. France 24 reported that Yemen’s Houthis claimed attacks on Riyadh’s financial district and the Ras Tanura refinery, saying they were retaliation for strikes on their territory.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that two Libyan soldiers died from injuries sustained in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation. &lt;i&gt;(attributed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that leaked Russian figures show almost 500,000 people lost in the Ukraine war and reveal changed mortality patterns in Russia. &lt;i&gt;(attributed)&lt;/i&gt; [8]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that Yemen’s Houthis claimed attacks on Riyadh’s financial district and the Ras Tanura refinery, in retaliation for strikes on their territory. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;li&gt;Reuters reported that the Houthis threatened Saudi Red Sea ports if Hodeidah is attacked, while a coalition reported strikes. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;li&gt;Al Jazeera reported that the Saudi-led coalition intercepted Houthi attacks after a strike on Hodeidah. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News World reported that Colombian police freed around 20 shoppers and employees held hostage in a supermarket after 17 hours; one gunman was killed in the operation. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that attackers have actively exploited a critical Drupal vulnerability to hijack unpatched sites since at least Thursday, citing confirmation from the Drupal security team. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;7 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Further strikes or interceptions around Hodeidah and Saudi Red Sea ports&lt;/b&gt; Would indicate whether the reported threats and coalition activity continue. [4][5]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Actions by Khalifa Haftar’s Libyan National Army following its reported vow&lt;/b&gt; Would show whether the reported retaliation vow is acted upon. [2]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Further reported exploitation of unpatched Drupal sites&lt;/b&gt; Would indicate whether the reported exploitation continues. [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi&quot;&gt;France 24: Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss&quot;&gt;Al Jazeera: Two Libyan soldiers die after Ukraine attack on Russian vessel&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261125-yemen-s-houthis-claim-attacks-on-riyadh-financial-district-saudi-refinery&quot;&gt;France 24: Yemen&amp;#x27;s Houthis claim attacks on Riyadh financial district, Saudi refinery&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aeWxuWkEwM0IxcXB2V1F0dTN1ZG5sOUVlbkExRE5pUkhWN3U5SGxDZnZmYlpHVWFvbXF1MVJ5enJ0MF9EbFB2VGI5ZTZZT1J5M2c?oc=5&quot;&gt;Reuters (via Google News): Houthis threaten Saudi Red Sea ports if Hodeidah is attacked; coalition reports strikes&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss&quot;&gt;Al Jazeera: Saudi-led coalition intercepts Houthi attacks after Hodeidah strike&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites&quot;&gt;BleepingComputer: Hackers now exploit critical Drupal RCE flaw to hijack sites&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/ckp80mjr9emyo&quot;&gt;BBC News World: Colombian police storm supermarket to free 20 held hostage for 17 hours&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cmx27g533zwyo&quot;&gt;BBC News World: Russia&amp;#x27;s own figures show it has lost almost 500,000 people in Ukraine war&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-24</id><title>Campfire Transmissions 2026-11-24</title><updated>2026-11-24T12:05:28.019840+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-24.epub"/><summary>Two people were killed and dozens wounded in Russian strikes on Ukraine’s Zaporizhzhia overnight. GDACS reported a magnitude 6.4 earthquake in the Mauritius-Reunion Region at 11:06 UTC.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Two people were killed and dozens wounded in Russian strikes on Ukraine’s Zaporizhzhia overnight. GDACS reported a magnitude 6.4 earthquake in the Mauritius-Reunion Region at 11:06 UTC.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Russian strikes killed two people and wounded dozens in Zaporizhzhia overnight, according to France 24; Reuters also reported at least two killed and dozens injured. &lt;i&gt;(observed)&lt;/i&gt; [1][2]&lt;/li&gt;
@@ -365,30 +397,5 @@
 &lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo&quot;&gt;BBC News World: Four grizzly bears killed in Canada after fatal attack on mother and daughter&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss&quot;&gt;Al Jazeera: Ten police officers, 18 fighters killed in northwest Pakistan attack&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials&quot;&gt;The Guardian World: Trump planning new military assault or tighter sanctions, say Iranian officials&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-11</id><title>Campfire Transmissions 2026-11-11</title><updated>2026-11-11T19:38:32.852399+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-11.epub"/><summary>The Guardian World reported that millions joined Spain’s first general strike in 14 years to protest housing prices, less than three weeks before parliamentary elections. BleepingComputer reported that CISA warned a Cisco BroadWorks vulnerability was being exploited in attacks.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; The Guardian World reported that millions joined Spain’s first general strike in 14 years to protest housing prices, less than three weeks before parliamentary elections. BleepingComputer reported that CISA warned a Cisco BroadWorks vulnerability was being exploited in attacks.&lt;/p&gt;
-&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;France 24 reported that Iranian security chief Mohsen Rezaei said Tehran would attack US bases in Europe if they were used for bombing raids against Iran. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;The Guardian World reported that millions joined the general strike in Spain to protest housing prices; BBC News World said protests were expected in major cities ahead of parliamentary elections. &lt;i&gt;(attributed)&lt;/i&gt; [1][2]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;BleepingComputer reported that CISA warned hackers were exploiting a high-severity Cisco BroadWorks vulnerability in attacks. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;li&gt;The Record reported that Microsoft’s latest Patch Tuesday listed 1,093 bugs and that an exploited Outlook vulnerability drew most of the attention. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;3 new and 1 updated development(s) reported.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Updated since previous brief: CISA flags WordPress RCE flaw as actively exploited in attacks [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Protests in Spain’s biggest cities, which BBC News World said were expected.&lt;/b&gt; Their presence would indicate where strike-related protests are taking place ahead of the parliamentary elections. [1]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwvg25nypmrvo&quot;&gt;BBC News World: Spain sees widespread disruption in first general strike for 14 years&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs&quot;&gt;The Guardian World: Millions join Spain’s first general strike in 14 years in protest at housing costs&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks&quot;&gt;BleepingComputer: CISA flags Cisco BroadWorks flaw as actively exploited in attacks&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://therecord.media/patch-tuesday-microsoft-1000-bugs-again&quot;&gt;The Record: Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says&quot;&gt;France 24: Tehran will strike US bases in Europe if used to attack Iran, security chief says&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>
