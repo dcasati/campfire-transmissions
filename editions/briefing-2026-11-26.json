@@ -1,0 +1,238 @@
+{
+ "bluf": "A fuel tanker crash ignited a fire on a Cairo highway on Wednesday, killing at least 31 people. BBC News World reported that eight Palestinians, including a Hamas political official and his wife, were killed in Israeli strikes on Gaza. Al Jazeera reported a Ukraine drone attack that kills five in Russian-occupied Zaporizhia and a Russian ballistic missile attack on Kyiv.",
+ "changes": [],
+ "changes_summary": "6 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 152,
+  "items": 200,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E5",
+   "kind": "attributed",
+   "refs": [
+    7
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that Palo Alto Networks warned of the Fragnesia flaw being exploited in PAN-OS attacks. Threat actors are chaining exploits for Fragnesia and PHP2Shell to target devices with management interfaces exposed to the internet."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-26",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 8.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E6",
+   "score": 7.65,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E7",
+   "score": 6.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 6.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-26T12:05:25.239544+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "Al Jazeera reported that a Ukraine drone attack kills five in Russian-occupied Zaporizhia, and that Russian forces launched a ballistic missile attack on Kyiv, hitting a shopping centre and other buildings."
+    },
+    {
+     "event_id": "E1",
+     "kind": "attributed",
+     "refs": [
+      6
+     ],
+     "section": "Europe / Russia",
+     "text": "BBC News World reported that Ukraine said five Russian military jets were hit in an airfield strike. The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Middle East",
+     "text": "BBC News World reported that a Hamas political official and his wife were among eight Palestinians killed in Israeli strikes on Gaza. Israel says its near-daily attacks target Hamas."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E7",
+     "kind": "observed",
+     "refs": [
+      8,
+      9
+     ],
+     "section": "Indo-Pacific",
+     "text": "North Korea expelled a Swiss diplomat from Pyongyang. Swiss officials said relations would be kept through North Korea's embassy in Bern and their own embassy in Beijing."
+    }
+   ],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E6",
+     "kind": "observed",
+     "refs": [
+      1,
+      2,
+      3
+     ],
+     "section": "Other Regions",
+     "text": "A fuel tanker crash ignited a fire on a Cairo highway on Wednesday, killing at least 31 people. Reports differ on the injured: BBC News World and The Guardian World report 21, while France 24 reports 15."
+    }
+   ],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "8ac00ea2108a3308",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-25T22:18:06+00:00",
+   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+   "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o"
+  },
+  {
+   "id": "7583f52321a2849b",
+   "n": 2,
+   "name": "The Guardian World",
+   "published": "2026-11-26T00:39:10+00:00",
+   "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+   "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+  },
+  {
+   "id": "9c4f9ff800ffb14b",
+   "n": 3,
+   "name": "France 24",
+   "published": "2026-11-26T01:25:54+00:00",
+   "title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
+   "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway"
+  },
+  {
+   "id": "dea278de7192f05d",
+   "n": 4,
+   "name": "BBC News World",
+   "published": "2026-11-26T10:14:08+00:00",
+   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo"
+  },
+  {
+   "id": "441067c9154d6faf",
+   "n": 5,
+   "name": "Al Jazeera",
+   "published": "2026-11-26T10:02:09+00:00",
+   "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+   "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss"
+  },
+  {
+   "id": "752d869dedc551fa",
+   "n": 6,
+   "name": "BBC News World",
+   "published": "2026-11-25T14:46:41+00:00",
+   "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+   "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
+  },
+  {
+   "id": "3668d7ed9e523305",
+   "n": 7,
+   "name": "BleepingComputer",
+   "published": "2026-11-25T22:05:09+00:00",
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks"
+  },
+  {
+   "id": "72ed6c8b192174d7",
+   "n": 8,
+   "name": "BBC News World",
+   "published": "2026-11-25T21:51:17+00:00",
+   "title": "North Korea expels Swiss diplomat in sanctions row",
+   "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o"
+  },
+  {
+   "id": "7ad37684d357710e",
+   "n": 9,
+   "name": "Al Jazeera",
+   "published": "2026-11-26T08:54:49+00:00",
+   "title": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
+   "url": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4520,
+  "tokens_out": 1001
+ },
+ "warnings": [],
+ "watch": [],
+ "window_end": "2026-11-26T12:05:25.239544+00:00",
+ "window_start": "2026-11-25T12:05:25.239544+00:00",
+ "words": 261
+}

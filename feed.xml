@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-25T12:05:25.384554+00:00</updated>
+<updated>2026-11-26T12:05:25.239544+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-26</id><title>Campfire Transmissions 2026-11-26</title><updated>2026-11-26T12:05:25.239544+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-26.epub"/><summary>A fuel tanker crash ignited a fire on a Cairo highway on Wednesday, killing at least 31 people. BBC News World reported that eight Palestinians, including a Hamas political official and his wife, were killed in Israeli strikes on Gaza. Al Jazeera reported a Ukraine drone attack that kills five in Russian-occupied Zaporizhia and a Russian ballistic missile attack on Kyiv.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; A fuel tanker crash ignited a fire on a Cairo highway on Wednesday, killing at least 31 people. BBC News World reported that eight Palestinians, including a Hamas political official and his wife, were killed in Israeli strikes on Gaza. Al Jazeera reported a Ukraine drone attack that kills five in Russian-occupied Zaporizhia and a Russian ballistic missile attack on Kyiv.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Al Jazeera reported that a Ukraine drone attack kills five in Russian-occupied Zaporizhia, and that Russian forces launched a ballistic missile attack on Kyiv, hitting a shopping centre and other buildings. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;li&gt;BBC News World reported that Ukraine said five Russian military jets were hit in an airfield strike. The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BBC News World reported that a Hamas political official and his wife were among eight Palestinians killed in Israeli strikes on Gaza. Israel says its near-daily attacks target Hamas. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Indo-Pacific&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;North Korea expelled a Swiss diplomat from Pyongyang. Swiss officials said relations would be kept through North Korea&amp;#x27;s embassy in Bern and their own embassy in Beijing. &lt;i&gt;(observed)&lt;/i&gt; [8][9]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;A fuel tanker crash ignited a fire on a Cairo highway on Wednesday, killing at least 31 people. Reports differ on the injured: BBC News World and The Guardian World report 21, while France 24 reports 15. &lt;i&gt;(observed)&lt;/i&gt; [1][2][3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that Palo Alto Networks warned of the Fragnesia flaw being exploited in PAN-OS attacks. Threat actors are chaining exploits for Fragnesia and PHP2Shell to target devices with management interfaces exposed to the internet. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;6 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cqy7rn30v314o&quot;&gt;BBC News World: Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway&quot;&gt;The Guardian World: At least 31 killed as fuel tanker crash ignites large fire on Cairo highway&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway&quot;&gt;France 24: At least 31 killed in Cairo fire after fuel truck overturns on busy highway&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo&quot;&gt;BBC News World: Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss&quot;&gt;Al Jazeera: Ukraine drone attack kills five in Russian-occupied Zaporizhia&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo&quot;&gt;BBC News World: Five Russian military jets hit in airfield strike, says Ukraine&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks&quot;&gt;BleepingComputer: Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o&quot;&gt;BBC News World: North Korea expels Swiss diplomat in sanctions row&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss&quot;&gt;Al Jazeera: Why has North Korea expelled a Swiss diplomat from Pyongyang?&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-25</id><title>Campfire Transmissions 2026-11-25</title><updated>2026-11-25T12:05:25.384554+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-25.epub"/><summary>France 24 reported that two Libyan soldiers died from injuries in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation. France 24 reported that Yemen’s Houthis claimed attacks on Riyadh’s financial district and the Ras Tanura refinery, saying they were retaliation for strikes on their territory.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; France 24 reported that two Libyan soldiers died from injuries in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation. France 24 reported that Yemen’s Houthis claimed attacks on Riyadh’s financial district and the Ras Tanura refinery, saying they were retaliation for strikes on their territory.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;France 24 reported that two Libyan soldiers died from injuries sustained in a Ukraine-claimed attack on Russian ships near Benghazi; Al Jazeera reported that Khalifa Haftar’s Libyan National Army vowed retaliation. &lt;i&gt;(attributed)&lt;/i&gt; [1][2]&lt;/li&gt;
@@ -368,34 +397,5 @@
 &lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cmn0d33zz34zo&quot;&gt;BBC News World: Russian warship hit by Ukrainian drone in Gulf of Finland&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access&quot;&gt;BleepingComputer: Check Point warns of zero-day flaw exploited for root access&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw&quot;&gt;BleepingComputer: Apache HTTP Server patches critical HTTP/2 remote code execution flaw&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-12</id><title>Campfire Transmissions 2026-11-12</title><updated>2026-11-12T12:05:27.298373+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-12.epub"/><summary>Highest-ranked development: Israeli strike on Gaza hospital kills six Palestinians, health ministry says. Further items follow by region.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Highest-ranked development: Israeli strike on Gaza hospital kills six Palestinians, health ministry says. Further items follow by region.&lt;/p&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to BBC News World: Israeli strike on Gaza hospital kills six Palestinians, health ministry says &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;li&gt;According to Deutsche Welle: Israel targets senior Hamas member in Gaza hospital strike &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;li&gt;According to The Guardian World: Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;li&gt;According to The Guardian World: Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
-&lt;li&gt;According to The Guardian World: Trump planning new military assault or tighter sanctions, say Iranian officials &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Indo-Pacific&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to Al Jazeera: Ten police officers, 18 fighters killed in northwest Pakistan attack &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;North America&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to BBC News World: Four grizzly bears killed in Canada after fatal attack on mother and daughter &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;7 new and 0 updated development(s) reported.&lt;/p&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: Israeli strike on Gaza hospital kills six Palestinians, health ministry says&lt;/b&gt; Would confirm or contradict the current account. [1]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: Israel targets senior Hamas member in Gaza hospital strike&lt;/b&gt; Would confirm or contradict the current account. [2]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Independent reporting on: Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others&lt;/b&gt; Would confirm or contradict the current account. [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo&quot;&gt;BBC News World: Israeli strike on Gaza hospital kills six Palestinians, health ministry says&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf&quot;&gt;Deutsche Welle: Israel targets senior Hamas member in Gaza hospital strike&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon&quot;&gt;The Guardian World: Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems&quot;&gt;The Guardian World: Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo&quot;&gt;BBC News World: Four grizzly bears killed in Canada after fatal attack on mother and daughter&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss&quot;&gt;Al Jazeera: Ten police officers, 18 fighters killed in northwest Pakistan attack&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials&quot;&gt;The Guardian World: Trump planning new military assault or tighter sanctions, say Iranian officials&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>
