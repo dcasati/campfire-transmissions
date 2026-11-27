@@ -1,0 +1,168 @@
+{
+ "bluf": "Two Italian technicians were killed in an attack in Kuwait on Thursday, according to France 24; Iran denied responsibility, BBC News World reported. The Guardian World reported that Gaza’s health ministry said Israeli strikes had killed at least 16 schoolchildren in Gaza since the start of November. BleepingComputer reported that Drupal’s security team says attackers are exploiting a flaw that can let them take over unpatched websites.",
+ "changes": [],
+ "changes_summary": "3 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 133,
+  "items": 165,
+  "quarantined": 0,
+  "sources_ok": 13,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E6",
+   "kind": "attributed",
+   "refs": [
+    4
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that Drupal’s security team says attackers are exploiting a second critical vulnerability that can let them breach and hijack unpatched websites."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-27",
+ "events": [
+  {
+   "confidence": "high",
+   "event_id": "E1",
+   "score": 9.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E2",
+   "score": 9.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 8.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 7.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 7.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 7.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-27T12:05:41.961614+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E1",
+     "kind": "observed",
+     "refs": [
+      1,
+      2
+     ],
+     "section": "Middle East",
+     "text": "France 24 reported that an attack in Kuwait on Thursday killed two Italian technicians working on an air defence system; BBC News World reported that Iran denied responsibility."
+    },
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      3
+     ],
+     "section": "Middle East",
+     "text": "The Guardian World reported that Gaza’s health ministry said Israeli strikes had killed at least 16 schoolchildren in Gaza since the start of November; it also reported that two sisters, aged 15 and 13, died in an airstrike on a residential apartment in Gaza City."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "9cf58e9b5260d414",
+   "n": 1,
+   "name": "BBC News World",
+   "published": "2026-11-26T21:17:53+00:00",
+   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+  },
+  {
+   "id": "dce3638e34429c43",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-27T11:45:48+00:00",
+   "title": "Kuwait: Two Italians killed in drone attack",
+   "url": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack"
+  },
+  {
+   "id": "bb1d47b33428c7af",
+   "n": 3,
+   "name": "The Guardian World",
+   "published": "2026-11-26T20:33:07+00:00",
+   "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+   "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
+  },
+  {
+   "id": "83cdb5b5663a9fe9",
+   "n": 4,
+   "name": "BleepingComputer",
+   "published": "2026-11-27T10:10:15+00:00",
+   "title": "Drupal warns of new site takeover flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 1,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 2041,
+  "tokens_out": 317
+ },
+ "warnings": [
+  "Partial coverage: 1 of 14 sources unavailable."
+ ],
+ "watch": [],
+ "window_end": "2026-11-27T12:05:41.961614+00:00",
+ "window_start": "2026-11-26T12:05:41.961614+00:00",
+ "words": 170
+}

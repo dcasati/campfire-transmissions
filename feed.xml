@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-26T12:05:25.239544+00:00</updated>
+<updated>2026-11-27T12:05:41.961614+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-27</id><title>Campfire Transmissions 2026-11-27</title><updated>2026-11-27T12:05:41.961614+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-27.epub"/><summary>Two Italian technicians were killed in an attack in Kuwait on Thursday, according to France 24; Iran denied responsibility, BBC News World reported. The Guardian World reported that Gaza’s health ministry said Israeli strikes had killed at least 16 schoolchildren in Gaza since the start of November. BleepingComputer reported that Drupal’s security team says attackers are exploiting a flaw that can let them take over unpatched websites.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Two Italian technicians were killed in an attack in Kuwait on Thursday, according to France 24; Iran denied responsibility, BBC News World reported. The Guardian World reported that Gaza’s health ministry said Israeli strikes had killed at least 16 schoolchildren in Gaza since the start of November. BleepingComputer reported that Drupal’s security team says attackers are exploiting a flaw that can let them take over unpatched websites.&lt;/p&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that an attack in Kuwait on Thursday killed two Italian technicians working on an air defence system; BBC News World reported that Iran denied responsibility. &lt;i&gt;(observed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;li&gt;The Guardian World reported that Gaza’s health ministry said Israeli strikes had killed at least 16 schoolchildren in Gaza since the start of November; it also reported that two sisters, aged 15 and 13, died in an airstrike on a residential apartment in Gaza City. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that Drupal’s security team says attackers are exploiting a second critical vulnerability that can let them breach and hijack unpatched websites. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;3 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o&quot;&gt;BBC News World: Two Italians killed in strike in Kuwait, as Iran denies responsibility&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack&quot;&gt;France 24: Kuwait: Two Italians killed in drone attack&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes&quot;&gt;The Guardian World: Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks&quot;&gt;BleepingComputer: Drupal warns of new site takeover flaw exploited in attacks&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-26</id><title>Campfire Transmissions 2026-11-26</title><updated>2026-11-26T12:05:25.239544+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-26.epub"/><summary>A fuel tanker crash ignited a fire on a Cairo highway on Wednesday, killing at least 31 people. BBC News World reported that eight Palestinians, including a Hamas political official and his wife, were killed in Israeli strikes on Gaza. Al Jazeera reported a Ukraine drone attack that kills five in Russian-occupied Zaporizhia and a Russian ballistic missile attack on Kyiv.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; A fuel tanker crash ignited a fire on a Cairo highway on Wednesday, killing at least 31 people. BBC News World reported that eight Palestinians, including a Hamas political official and his wife, were killed in Israeli strikes on Gaza. Al Jazeera reported a Ukraine drone attack that kills five in Russian-occupied Zaporizhia and a Russian ballistic missile attack on Kyiv.&lt;/p&gt;
 &lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Al Jazeera reported that a Ukraine drone attack kills five in Russian-occupied Zaporizhia, and that Russian forces launched a ballistic missile attack on Kyiv, hitting a shopping centre and other buildings. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
@@ -371,31 +386,5 @@
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c6rrg51rkz09o&quot;&gt;BBC News World: Microsoft says services fully restored after day-long global outage&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving&quot;&gt;France 24: Microsoft says all services &amp;#x27;fully recovered&amp;#x27; after global outage&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage&quot;&gt;The Guardian World: Microsoft says services fully restored after global outage hits governments&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-13</id><title>Campfire Transmissions 2026-11-13</title><updated>2026-11-13T12:05:24.144140+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-13.epub"/><summary>The Guardian World reported that Russia attacked a hospital in central Kyiv, near several western embassies. BBC News World reported that a Russian ballistic missile strike left one of Ukraine’s largest power stations barely standing, with the site under constant drone threat. Reuters and BleepingComputer reported a worldwide Microsoft 365 outage affecting Outlook, Teams and Copilot.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; The Guardian World reported that Russia attacked a hospital in central Kyiv, near several western embassies. BBC News World reported that a Russian ballistic missile strike left one of Ukraine’s largest power stations barely standing, with the site under constant drone threat. Reuters and BleepingComputer reported a worldwide Microsoft 365 outage affecting Outlook, Teams and Copilot.&lt;/p&gt;
-&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;The Guardian World reported that Russia attacked a hospital in central Kyiv, close to several western embassies. &lt;i&gt;(attributed)&lt;/i&gt; [1]&lt;/li&gt;
-&lt;li&gt;BBC News World reported that one of Ukraine’s largest power stations was barely left standing after a Russian ballistic missile strike, and was under constant drone threat. &lt;i&gt;(attributed)&lt;/i&gt; [2]&lt;/li&gt;
-&lt;li&gt;BBC News World reported that a Russian warship was hit by a Ukrainian drone in the Gulf of Finland; the outlet said this was thought to be the first such attack on a Russian ship in an open stretch of the Baltic Sea. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;A worldwide Microsoft 365 outage affected Outlook, Teams and Copilot, with users reporting connectivity problems. &lt;i&gt;(observed)&lt;/i&gt; [3][4]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;BleepingComputer reported that Check Point released emergency hotfixes for a high-severity flaw exploited to gain root privileges and establish persistence on vulnerable devices since late October. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;li&gt;BleepingComputer reported that a critical flaw in the Apache HTTP Server HTTP/2 module could allow an unauthenticated attacker to obtain remote code execution. &lt;i&gt;(attributed)&lt;/i&gt; [7]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;6 new and 0 updated development(s) reported.&lt;/p&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Further reports of connectivity problems with Outlook, Teams or Copilot&lt;/b&gt; Would indicate the worldwide Microsoft 365 outage is continuing to affect users. [4]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails&quot;&gt;The Guardian World: Russia strikes hospital in central Kyiv after SpaceX system falters again&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo&quot;&gt;BBC News World: &amp;#x27;We&amp;#x27;ve got to run&amp;#x27;: Inside ruined Ukraine power plant under constant drone threat&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5&quot;&gt;Reuters (via Google News): Microsoft outage hits Outlook, Teams and Copilot worldwide&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide&quot;&gt;BleepingComputer: Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cmn0d33zz34zo&quot;&gt;BBC News World: Russian warship hit by Ukrainian drone in Gulf of Finland&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access&quot;&gt;BleepingComputer: Check Point warns of zero-day flaw exploited for root access&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw&quot;&gt;BleepingComputer: Apache HTTP Server patches critical HTTP/2 remote code execution flaw&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>
