@@ -7,7 +7,7 @@ name = "campfire-transmissions"
 version = "0.1.0"
 description = "Automated daily situational-awareness briefing (EPUB + OPDS) on GitHub Actions"
 requires-python = ">=3.11"
-dependencies = ["PyYAML==6.0.3"]
+dependencies = ["PyYAML==6.0.4"]
 
 [project.optional-dependencies]
 dev = ["pytest==9.2.0"]
