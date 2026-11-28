@@ -1,0 +1,192 @@
+{
+ "bluf": "Al Jazeera and France 24 reported that two Doctors Without Borders staff were killed in an Israeli strike at a Gaza clinic; MSF said the clinic was marked with its logos and its location was known to the Israeli military. BleepingComputer reported that a Cacti vulnerability was publicly disclosed with a proof-of-concept that enables unauthenticated command execution on vulnerable servers.",
+ "changes": [],
+ "changes_summary": "4 new and 0 updated development(s) reported.",
+ "collection": {
+  "clusters": 138,
+  "items": 178,
+  "quarantined": 0,
+  "sources_ok": 14,
+  "sources_total": 14
+ },
+ "cyber": [
+  {
+   "event_id": "E1",
+   "kind": "attributed",
+   "refs": [
+    3
+   ],
+   "section": "Cyber and Infrastructure",
+   "text": "BleepingComputer reported that a Cacti zero-day vulnerability was publicly disclosed with a proof-of-concept enabling unauthenticated attackers to execute commands on vulnerable servers."
+  }
+ ],
+ "disasters": [],
+ "edition": "2026-11-28",
+ "events": [
+  {
+   "confidence": "low",
+   "event_id": "E1",
+   "score": 7.75,
+   "status": "new"
+  },
+  {
+   "confidence": "high",
+   "event_id": "E2",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E3",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E4",
+   "score": 7.6,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E5",
+   "score": 6.8,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E6",
+   "score": 6.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E7",
+   "score": 6.7,
+   "status": "new"
+  },
+  {
+   "confidence": "low",
+   "event_id": "E8",
+   "score": 6.6,
+   "status": "new"
+  }
+ ],
+ "generated_at": "2026-11-28T12:05:27.462215+00:00",
+ "label": null,
+ "mode": "llm",
+ "sections": [
+  {
+   "items": [
+    {
+     "event_id": "E3",
+     "kind": "attributed",
+     "refs": [
+      4
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that a senior Ukrainian official said Ukraine had offered a Black Sea ceasefire to enable food exports and was awaiting Russia’s response."
+    },
+    {
+     "event_id": "E4",
+     "kind": "attributed",
+     "refs": [
+      5
+     ],
+     "section": "Europe / Russia",
+     "text": "France 24 reported that Russian authorities said Russia shot down over 1,200 drones targeting Moscow overnight."
+    }
+   ],
+   "name": "Europe / Russia"
+  },
+  {
+   "items": [
+    {
+     "event_id": "E2",
+     "kind": "attributed",
+     "refs": [
+      1,
+      2
+     ],
+     "section": "Middle East",
+     "text": "Al Jazeera and France 24 reported that an Israeli strike killed two Doctors Without Borders staff at a clinic in Gaza. France 24 reported that the Israeli army labelled the pair as Hamas “terrorists”; Al Jazeera reported that MSF said the clinic was clearly marked and its location known to the Israeli military."
+    }
+   ],
+   "name": "Middle East"
+  },
+  {
+   "items": [],
+   "name": "Indo-Pacific"
+  },
+  {
+   "items": [],
+   "name": "North America"
+  },
+  {
+   "items": [],
+   "name": "Other Regions"
+  }
+ ],
+ "sources": [
+  {
+   "id": "d7e4c6c06a68be3e",
+   "n": 1,
+   "name": "Al Jazeera",
+   "published": "2026-11-28T03:45:58+00:00",
+   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss"
+  },
+  {
+   "id": "ac660dfea8466301",
+   "n": 2,
+   "name": "France 24",
+   "published": "2026-11-28T11:23:55+00:00",
+   "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+   "url": "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza"
+  },
+  {
+   "id": "dc478ba580bb8630",
+   "n": 3,
+   "name": "BleepingComputer",
+   "published": "2026-11-27T17:06:13+00:00",
+   "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution"
+  },
+  {
+   "id": "ced661b6b8ebf0b7",
+   "n": 4,
+   "name": "France 24",
+   "published": "2026-11-27T21:09:12+00:00",
+   "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+   "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response"
+  },
+  {
+   "id": "d9655cef70038c8c",
+   "n": 5,
+   "name": "France 24",
+   "published": "2026-11-28T07:12:00+00:00",
+   "title": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+   "url": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault"
+  }
+ ],
+ "title": "Campfire Transmissions",
+ "usage": {
+  "calls": 2,
+  "estimated_cost_usd": 0.0,
+  "tokens_in": 4408,
+  "tokens_out": 908
+ },
+ "warnings": [],
+ "watch": [
+  {
+   "indicator": "A response from Moscow to Ukraine’s Black Sea ceasefire offer",
+   "refs": [
+    4
+   ],
+   "significance": "Would indicate whether the proposed arrangement to enable food exports is being considered."
+  }
+ ],
+ "window_end": "2026-11-28T12:05:27.462215+00:00",
+ "window_start": "2026-11-27T12:05:27.462215+00:00",
+ "words": 206
+}

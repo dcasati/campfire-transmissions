@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>urn:daily-wire:feed</id>
 <title>Campfire Transmissions</title>
-<updated>2026-11-27T12:05:41.961614+00:00</updated>
+<updated>2026-11-28T12:05:27.462215+00:00</updated>
 <author><name>Campfire Transmissions (automated)</name></author>
 <link rel="self" type="application/atom+xml" href="https://campfire.dcasati.net/feed.xml"/>
 <link rel="alternate" type="text/html" href="https://campfire.dcasati.net/"/>
+<entry><id>urn:daily-wire:2026-11-28</id><title>Campfire Transmissions 2026-11-28</title><updated>2026-11-28T12:05:27.462215+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-28.epub"/><summary>Al Jazeera and France 24 reported that two Doctors Without Borders staff were killed in an Israeli strike at a Gaza clinic; MSF said the clinic was marked with its logos and its location was known to the Israeli military. BleepingComputer reported that a Cacti vulnerability was publicly disclosed with a proof-of-concept that enables unauthenticated command execution on vulnerable servers.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Al Jazeera and France 24 reported that two Doctors Without Borders staff were killed in an Israeli strike at a Gaza clinic; MSF said the clinic was marked with its logos and its location was known to the Israeli military. BleepingComputer reported that a Cacti vulnerability was publicly disclosed with a proof-of-concept that enables unauthenticated command execution on vulnerable servers.&lt;/p&gt;
+&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;France 24 reported that a senior Ukrainian official said Ukraine had offered a Black Sea ceasefire to enable food exports and was awaiting Russia’s response. &lt;i&gt;(attributed)&lt;/i&gt; [4]&lt;/li&gt;
+&lt;li&gt;France 24 reported that Russian authorities said Russia shot down over 1,200 drones targeting Moscow overnight. &lt;i&gt;(attributed)&lt;/i&gt; [5]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Al Jazeera and France 24 reported that an Israeli strike killed two Doctors Without Borders staff at a clinic in Gaza. France 24 reported that the Israeli army labelled the pair as Hamas “terrorists”; Al Jazeera reported that MSF said the clinic was clearly marked and its location known to the Israeli military. &lt;i&gt;(attributed)&lt;/i&gt; [1][2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cyber and Infrastructure&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BleepingComputer reported that a Cacti zero-day vulnerability was publicly disclosed with a proof-of-concept enabling unauthenticated attackers to execute commands on vulnerable servers. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;4 new and 0 updated development(s) reported.&lt;/p&gt;
+&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;A response from Moscow to Ukraine’s Black Sea ceasefire offer&lt;/b&gt; Would indicate whether the proposed arrangement to enable food exports is being considered. [4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
+&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss&quot;&gt;Al Jazeera: Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza&quot;&gt;France 24: Israeli strike kills two Doctors Without Borders staff in Gaza&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution&quot;&gt;BleepingComputer: Unpatched Cacti zero-day with public PoC gives remote code execution&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response&quot;&gt;France 24: Ukraine submits Black Sea ceasefire offer, awaits Russian response&lt;/a&gt;&lt;/li&gt;
+&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault&quot;&gt;France 24: Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content></entry>
 <entry><id>urn:daily-wire:2026-11-27</id><title>Campfire Transmissions 2026-11-27</title><updated>2026-11-27T12:05:41.961614+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-27.epub"/><summary>Two Italian technicians were killed in an attack in Kuwait on Thursday, according to France 24; Iran denied responsibility, BBC News World reported. The Guardian World reported that Gaza’s health ministry said Israeli strikes had killed at least 16 schoolchildren in Gaza since the start of November. BleepingComputer reported that Drupal’s security team says attackers are exploiting a flaw that can let them take over unpatched websites.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Two Italian technicians were killed in an attack in Kuwait on Thursday, according to France 24; Iran denied responsibility, BBC News World reported. The Guardian World reported that Gaza’s health ministry said Israeli strikes had killed at least 16 schoolchildren in Gaza since the start of November. BleepingComputer reported that Drupal’s security team says attackers are exploiting a flaw that can let them take over unpatched websites.&lt;/p&gt;
 &lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;France 24 reported that an attack in Kuwait on Thursday killed two Italian technicians working on an air defence system; BBC News World reported that Iran denied responsibility. &lt;i&gt;(observed)&lt;/i&gt; [1][2]&lt;/li&gt;
@@ -356,35 +378,5 @@
 &lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss&quot;&gt;Al Jazeera: Drone attacks on power stations plunge Sudan’s cities into darkness&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo&quot;&gt;BBC News World: How telecoms upgrade work sparked US flight chaos&lt;/a&gt;&lt;/li&gt;
 &lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;http://www.gdacs.org/report.aspx?eventtype=EQ&amp;amp;eventid=1577445&quot;&gt;GDACS: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content></entry>
-<entry><id>urn:daily-wire:2026-11-14</id><title>Campfire Transmissions 2026-11-14</title><updated>2026-11-14T12:05:46.262821+00:00</updated><link rel="alternate" type="application/epub+zip" href="https://campfire.dcasati.net/editions/briefing-2026-11-14.epub"/><summary>Deutsche Welle reported Iran claimed it struck US radar systems in Bahrain; The Guardian reported Iran’s Revolutionary Guard said it targeted and destroyed an early-warning radar there, while the US said it intercepted the attacks. France 24 reported US flights were resuming after a nationwide ground stop, with more than 2,000 cancellations as airlines worked to return to normal operations. France 24 reported the White House confirmed a planned meeting of Trump, Xi and Putin in Shenzhen on Thursday, with nuclear weapons and the war in Iran among likely discussion topics.</summary><content type="html">&lt;p&gt;&lt;b&gt;Top line:&lt;/b&gt; Deutsche Welle reported Iran claimed it struck US radar systems in Bahrain; The Guardian reported Iran’s Revolutionary Guard said it targeted and destroyed an early-warning radar there, while the US said it intercepted the attacks. France 24 reported US flights were resuming after a nationwide ground stop, with more than 2,000 cancellations as airlines worked to return to normal operations. France 24 reported the White House confirmed a planned meeting of Trump, Xi and Putin in Shenzhen on Thursday, with nuclear weapons and the war in Iran among likely discussion topics.&lt;/p&gt;
-&lt;h3&gt;Europe / Russia&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;France 24 reported the White House confirmed Trump, Xi and Putin are scheduled to meet in Shenzhen on Thursday, with nuclear weapons and the war in Iran among likely discussion topics; BBC News reported Trump would discuss reducing nuclear weapons. &lt;i&gt;(attributed)&lt;/i&gt; [4][5]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Middle East&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Deutsche Welle reported Iran claimed it struck US radar systems in Bahrain, while the US said it intercepted the attacks; The Guardian reported Iran’s Revolutionary Guard said it targeted and destroyed a US early-warning radar there. The reports differ on the claimed outcome. &lt;i&gt;(attributed)&lt;/i&gt; [1][2]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;North America&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;France 24 reported US flights were resuming after a nationwide ground stop, with more than 2,000 cancellations as airlines worked to return to normal operations; it reported nearly 6,000 flights were cancelled on Friday. &lt;i&gt;(attributed)&lt;/i&gt; [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Regions&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;According to Deutsche Welle, international aid cuts are worsening Sudan’s humanitarian crisis; almost 34 million people are in need, while war and drone strikes make aid delivery difficult. &lt;i&gt;(attributed)&lt;/i&gt; [6]&lt;/li&gt;
-&lt;li&gt;BBC News reported Microsoft said efforts to address the underlying problem with Outlook, Teams and Copilot were complete; France 24 and The Guardian also reported the company said services were restored. &lt;i&gt;(attributed)&lt;/i&gt; [7][8][9]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changes since previous brief&lt;/h3&gt;&lt;p&gt;5 new and 0 updated development(s) reported.&lt;/p&gt;
-&lt;h3&gt;Watch items (next 24-72 hours)&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Whether the planned meeting in Shenzhen takes place on Thursday and includes discussion of nuclear weapons or the war in Iran.&lt;/b&gt; Would show whether the reported meeting and likely topics materialize. [4][5]&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Further flight cancellations as US flights resume.&lt;/b&gt; Would indicate whether airline operations are returning to normal. [3]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sources&lt;/h3&gt;&lt;ol&gt;
-&lt;li value=&quot;1&quot;&gt;&lt;a href=&quot;https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf&quot;&gt;Deutsche Welle: Iran targeted US radar system in Bahrain&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;2&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz&quot;&gt;The Guardian World: Iran says it targeted US military radar in Bahrain in retaliatory strike&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;3&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop&quot;&gt;France 24: Passengers face further cancellations as US flights slowly resume after ground stop&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;4&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/ckz74jzpy18do&quot;&gt;BBC News World: Trump, Putin and Xi plan historic joint meeting in China next week, White House says&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;5&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says&quot;&gt;France 24: China to host first-ever trilateral meeting between Trump, Xi and Putin next week, US says&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;6&quot;&gt;&lt;a href=&quot;https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-world-4025-rdf&quot;&gt;Deutsche Welle: Sudan: Misery worsens amid plummeting aid for displaced people&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;7&quot;&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/c6rrg51rkz09o&quot;&gt;BBC News World: Microsoft says services fully restored after day-long global outage&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;8&quot;&gt;&lt;a href=&quot;https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving&quot;&gt;France 24: Microsoft says all services &amp;#x27;fully recovered&amp;#x27; after global outage&lt;/a&gt;&lt;/li&gt;
-&lt;li value=&quot;9&quot;&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage&quot;&gt;The Guardian World: Microsoft says services fully restored after global outage hits governments&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content></entry>
 </feed>

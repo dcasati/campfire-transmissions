@@ -1,16 +1,14 @@
 {
- "last_success": "2026-11-27T12:05:41.961614+00:00",
- "edition": "2026-11-27",
+ "last_success": "2026-11-28T12:05:27.462215+00:00",
+ "edition": "2026-11-28",
  "mode": "llm",
- "words": 170,
+ "words": 206,
  "usage": {
-  "calls": 1,
-  "tokens_in": 2041,
-  "tokens_out": 317,
+  "calls": 2,
+  "tokens_in": 4408,
+  "tokens_out": 908,
   "estimated_cost_usd": 0.0
  },
  "label": null,
- "warnings": [
-  "Partial coverage: 1 of 14 sources unavailable."
- ]
+ "warnings": []
 }
